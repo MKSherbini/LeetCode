@@ -8,7 +8,7 @@ using namespace std;
 class TwoSum2
 {
 public:
-	// 0ms, 9.5mb
+	// 4ms, 9.5mb
 	vector<int> solution(vector<int>& v, int target) {
 		int sz = v.size();
 		int i = 0, j = sz - 1;

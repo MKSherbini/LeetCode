@@ -1,4 +1,4 @@
-#include "TwoSum2.h"
+#include "ReverseString.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -23,8 +23,5 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(TwoSum2(), vector<int>{ 2, 3, 7, 11, 15}, 14);
-	run(TwoSum2(), vector<int>{ 2, 3, 4}, 6);
-	run(TwoSum2(), vector<int>{ -1, 0}, -1);
-	run(TwoSum2(), vector<int>{ 5, 25, 75}, 100);
+	run(ReverseString(), vector<char>{ 'h', 'e', 'l', 'l', 'o'});
 }
