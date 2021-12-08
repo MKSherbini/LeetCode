@@ -1,4 +1,4 @@
-#include "ReverseString.h"
+#include "ReverseString3.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -23,5 +23,5 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(ReverseString(), vector<char>{ 'h', 'e', 'l', 'l', 'o'});
+	run(ReverseString3(), "Let's take LeetCode contest");
 }
