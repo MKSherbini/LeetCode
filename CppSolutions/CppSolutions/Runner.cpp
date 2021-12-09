@@ -1,4 +1,4 @@
-#include "ReverseString3.h"
+#include "MiddleOfTheLinkedList.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -23,5 +23,5 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(ReverseString3(), "Let's take LeetCode contest");
+	run(MiddleOfTheLinkedList(), "Let's take LeetCode contest");
 }
