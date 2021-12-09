@@ -18,9 +18,8 @@ public:
 	// 0 ms	7.1 MB
 	ListNode* solution(ListNode* it2) {
 		auto it = it2;
-		while (it2->next && it2->next->next)
+		while (it2 && it2->next)
 			it2 = it2->next->next, it = it->next;
-		if (it2->next) it = it->next;
 		return it;
 	}
 

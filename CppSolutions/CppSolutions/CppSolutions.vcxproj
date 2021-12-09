@@ -142,6 +142,7 @@
     <ClCompile Include="Runner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="Printer.h" />
     <ClInclude Include="ReverseString.h" />
