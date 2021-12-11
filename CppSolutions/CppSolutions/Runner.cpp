@@ -1,4 +1,4 @@
-#include "MiddleOfTheLinkedList.h"
+#include "LengthOfLongestSubstring.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -23,5 +23,12 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(MiddleOfTheLinkedList(), "Let's take LeetCode contest");
+	//"abcabcbb"
+	//	"bbbbb"
+	//	"pwwkew"
+	//	""
+	//	"tmmzuxt"
+	// "dvdf"
+
+	run(LengthOfLongestSubstring(), "dvdf");
 }

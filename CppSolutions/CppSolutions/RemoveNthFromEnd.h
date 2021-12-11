@@ -2,7 +2,7 @@
 #include "stdc++.h"
 using namespace std;
 
-//https://leetcode.com/problems/middle-of-the-linked-list/
+//https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 struct ListNode {
 	int val;

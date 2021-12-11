@@ -142,9 +142,11 @@
     <ClCompile Include="Runner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="Printer.h" />
+    <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="ReverseString3.h" />
     <ClInclude Include="RotateArray.h" />
