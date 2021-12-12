@@ -1,4 +1,4 @@
-#include "LengthOfLongestSubstring.h"
+#include "PermutationInString.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -23,12 +23,8 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	//"abcabcbb"
-	//	"bbbbb"
-	//	"pwwkew"
-	//	""
-	//	"tmmzuxt"
-	// "dvdf"
-
-	run(LengthOfLongestSubstring(), "dvdf");
+	run(PermutationInString(), "ab", "eidbaooo");
+	run(PermutationInString(), "ab", "eidboaoo");
+	run(PermutationInString(), "a", "ab");
+	run(PermutationInString(), "adc", "dcda");
 }

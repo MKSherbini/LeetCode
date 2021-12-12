@@ -145,6 +145,7 @@
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
+    <ClInclude Include="PermutationInString.h" />
     <ClInclude Include="Printer.h" />
     <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="ReverseString.h" />

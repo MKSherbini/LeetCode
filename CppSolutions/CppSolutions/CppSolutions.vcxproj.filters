@@ -53,5 +53,8 @@
     <ClInclude Include="LengthOfLongestSubstring.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PermutationInString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
