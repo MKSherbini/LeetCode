@@ -1,7 +1,17 @@
-#include "PermutationInString.h"
+#include "FloodFill.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
+
+template<typename T>
+static void print(const vector< vector<T> >& v) {
+	for (auto a : v) {
+		for (auto b : a) {
+			cout << b << " ";
+		}
+		cout << endl;
+	}
+}
 
 template<typename T>
 static void print(const vector<T>& v) {
@@ -23,8 +33,7 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(PermutationInString(), "ab", "eidbaooo");
-	run(PermutationInString(), "ab", "eidboaoo");
-	run(PermutationInString(), "a", "ab");
-	run(PermutationInString(), "adc", "dcda");
+	run(FloodFill(), vector<vector<int>> { {1, 1, 1}, { 1, 1, 0 }, { 1, 0, 1 } }, 0, 0, 2);
+	run(FloodFill(), vector<vector<int>> { {0, 0, 0}, { 0, 0, 0 }}, 0, 0, 2);
+	run(FloodFill(), vector<vector<int>> { {0, 0, 0}, { 0, 1, 1 }}, 1, 1, 1);
 }

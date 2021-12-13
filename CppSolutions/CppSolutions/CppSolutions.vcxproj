@@ -142,6 +142,7 @@
     <ClCompile Include="Runner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FloodFill.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
