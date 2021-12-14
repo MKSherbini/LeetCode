@@ -1,4 +1,4 @@
-#include "FloodFill.h"
+#include "MaxAreaOfIsland.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,7 +33,6 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(FloodFill(), vector<vector<int>> { {1, 1, 1}, { 1, 1, 0 }, { 1, 0, 1 } }, 0, 0, 2);
-	run(FloodFill(), vector<vector<int>> { {0, 0, 0}, { 0, 0, 0 }}, 0, 0, 2);
-	run(FloodFill(), vector<vector<int>> { {0, 0, 0}, { 0, 1, 1 }}, 1, 1, 1);
+	run(MaxAreaOfIsland(), vector<vector<int>> { {0, 0, 0, 0, 0, 0, 0, 0}});
+	run(MaxAreaOfIsland(), vector<vector<int>> { {0, 0, 0, 1, 1, 0, 1, 0}});
 }

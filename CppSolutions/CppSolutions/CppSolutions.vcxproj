@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
+    <ClInclude Include="MaxAreaOfIsland.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="PermutationInString.h" />

@@ -59,5 +59,8 @@
     <ClInclude Include="FloodFill.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MaxAreaOfIsland.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
