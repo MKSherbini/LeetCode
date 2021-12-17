@@ -1,4 +1,4 @@
-#include "BuildArrayFromPermutation.h"
+#include "RichestCustomerWealth.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,5 +33,5 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(BuildArrayFromPermutation(), vector<int> { 0, 2, 1, 5, 3, 4});
+	run(RichestCustomerWealth(), vector<vector<int>> { {1, 2, 3}, { 3,2,1 }});
 }

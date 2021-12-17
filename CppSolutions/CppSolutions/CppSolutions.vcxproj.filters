@@ -68,5 +68,8 @@
     <ClInclude Include="BuildArrayFromPermutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RichestCustomerWealth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

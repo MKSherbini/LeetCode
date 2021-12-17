@@ -154,6 +154,7 @@
     <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="ReverseString3.h" />
+    <ClInclude Include="RichestCustomerWealth.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="stdc++.h" />
