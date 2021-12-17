@@ -1,4 +1,4 @@
-#include "MaxAreaOfIsland.h"
+#include "BuildArrayFromPermutation.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,6 +33,5 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(MaxAreaOfIsland(), vector<vector<int>> { {0, 0, 0, 0, 0, 0, 0, 0}});
-	run(MaxAreaOfIsland(), vector<vector<int>> { {0, 0, 0, 1, 1, 0, 1, 0}});
+	run(BuildArrayFromPermutation(), vector<int> { 0, 2, 1, 5, 3, 4});
 }

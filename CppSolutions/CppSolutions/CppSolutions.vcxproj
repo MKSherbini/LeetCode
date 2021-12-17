@@ -142,6 +142,7 @@
     <ClCompile Include="Runner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
