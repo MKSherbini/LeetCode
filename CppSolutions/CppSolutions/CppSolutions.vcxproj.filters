@@ -71,5 +71,8 @@
     <ClInclude Include="RichestCustomerWealth.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PopulatingNextRightPointersInEachNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
