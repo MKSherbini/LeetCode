@@ -50,5 +50,23 @@ public:
 
 		return root;
 	}
+
+	// 12 ms, faster than 98.48% : 16.5 MB, less than 99.57%
+	Node* solution2(Node* root) {
+		if (!root) return root;
+		merge(root->left, root->right);
+		return root;
+	}
+
+	void merge(Node* left, Node* right) {
+		if (!left || !right) return;
+
+		left->next = right;
+
+		merge(left->left, left->right);
+		merge(right->left, right->right);
+		merge(left->right, right->left);
+	}
+
 };
 
