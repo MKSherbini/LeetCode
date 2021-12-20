@@ -145,6 +145,7 @@
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
+    <ClInclude Include="Matrix01.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
     <ClInclude Include="MergeTwoBinaryTrees.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
