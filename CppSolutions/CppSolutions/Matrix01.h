@@ -9,7 +9,7 @@ class Matrix01
 public:
 	// DP
 	// 48 ms, faster than 99.58% : 27.4 MB, less than 95.22%  
-	vector<vector<int>> solution(vector<vector<int>>& mat) {
+	vector<vector<int>> solution1(vector<vector<int>>& mat) {
 		int rows = mat.size();
 		if (rows == 0)
 			return mat;
@@ -46,11 +46,53 @@ public:
 		return res;
 	}
 
+	// BFS
+	// 68 ms, faster than 71.82% : 30.2 MB, less than 61.60%
+	vector<vector<int>> solution(vector<vector<int>>& mat) {
+		int rows = mat.size();
+		if (rows == 0)
+			return mat;
+		int cols = mat[0].size();
+		vector<vector<int>> res(rows, vector<int>(cols, OO));
 
-	// failed
+		queue<pair<int, int>> q;
+		for (int i = 0; i < rows; i++)
+		{
+			for (int j = 0; j < cols; j++)
+			{
+				if (mat[i][j])
+					res[i][j] = OO;
+				else
+					res[i][j] = 0, q.push({ i,j });
+			}
+		}
+
+		while (!q.empty())
+		{
+			auto top = q.front(); q.pop();
+			int i = top.first, j = top.second;
+
+			int dx[] = { 1,-1,0,0 };
+			int dy[] = { 0,0,1,-1 };
+
+			for (int z = 0; z < 4; z++)
+			{
+				int x = i + dx[z], y = j + dy[z], ret = res[i][j] + 1;
+				if (isValid(x, rows) && isValid(y, cols) && ret < res[x][y])
+					res[x][y] = ret, q.push({ x,y });
+			}
+		}
+
+		return res;
+	}
+
 private:
-	static const int OO = 99999999;
+	int8_t isValid(int x, int sz) {
+		return x >= 0 && x < sz;
+	}
+	static const int OO = INT_MAX - 100001;
 	static const int OO_Vis = 88888888;
+	// failed
 	int dfs(vector<vector<int>>& mat, vector<vector<int>>& res, int i, int j) {
 		if (i < 0 || i >= mat.size() || j < 0 || j >= mat[0].size()) return OO;
 
