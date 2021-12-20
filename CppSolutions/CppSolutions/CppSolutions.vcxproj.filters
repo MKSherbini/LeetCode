@@ -77,5 +77,8 @@
     <ClInclude Include="Matrix01.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumDepthOfBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
