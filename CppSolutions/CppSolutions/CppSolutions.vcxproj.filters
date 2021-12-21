@@ -80,5 +80,8 @@
     <ClInclude Include="MaximumDepthOfBinaryTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RottingOranges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

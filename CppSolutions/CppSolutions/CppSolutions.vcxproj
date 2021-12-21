@@ -159,6 +159,7 @@
     <ClInclude Include="ReverseString3.h" />
     <ClInclude Include="RichestCustomerWealth.h" />
     <ClInclude Include="RotateArray.h" />
+    <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="TwoSum2.h" />
