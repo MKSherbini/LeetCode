@@ -48,7 +48,7 @@ public:
 
 	// BFS
 	// 68 ms, faster than 71.82% : 30.2 MB, less than 61.60%
-	vector<vector<int>> solution(vector<vector<int>>& mat) {
+	vector<vector<int>> solution2(vector<vector<int>>& mat) {
 		int rows = mat.size();
 		if (rows == 0)
 			return mat;
@@ -86,6 +86,44 @@ public:
 		return res;
 	}
 
+	// BFS inplace
+	// 60 ms, faster than 90.23% : 30 MB, less than 70.24%
+	vector<vector<int>> solution(vector<vector<int>>& mat) {
+		int rows = mat.size();
+		if (rows == 0)
+			return mat;
+		int cols = mat[0].size();
+
+		queue<pair<int, int>> q;
+		for (int i = 0; i < rows; i++)
+		{
+			for (int j = 0; j < cols; j++)
+			{
+				if (mat[i][j])
+					mat[i][j] = OO;
+				else
+					mat[i][j] = 0, q.push({ i,j });
+			}
+		}
+
+		while (!q.empty())
+		{
+			auto top = q.front(); q.pop();
+			int i = top.first, j = top.second;
+
+			int dx[] = { 1,-1,0,0 };
+			int dy[] = { 0,0,1,-1 };
+
+			for (int z = 0; z < 4; z++)
+			{
+				int x = i + dx[z], y = j + dy[z], ret = mat[i][j] + 1;
+				if (isValid(x, rows) && isValid(y, cols) && ret < mat[x][y])
+					mat[x][y] = ret, q.push({ x,y });
+			}
+		}
+
+		return mat;
+	}
 private:
 	int8_t isValid(int x, int sz) {
 		return x >= 0 && x < sz;
