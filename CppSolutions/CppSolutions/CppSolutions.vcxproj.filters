@@ -86,5 +86,8 @@
     <ClInclude Include="MergeTwoSortedLists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ReverseLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

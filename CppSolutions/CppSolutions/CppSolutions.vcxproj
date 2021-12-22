@@ -156,6 +156,7 @@
     <ClInclude Include="PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Printer.h" />
     <ClInclude Include="RemoveNthFromEnd.h" />
+    <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="ReverseString3.h" />
     <ClInclude Include="RichestCustomerWealth.h" />
