@@ -1,4 +1,4 @@
-#include "RottingOranges.h"
+#include "NumberOfGoodPairs.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,18 +33,7 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(RottingOranges(), vector<vector<int>> {
-		{ 0, 0, 0, 0, 0, 0, 0, 0, 0 },
-		{ 0, 2, 1, 1, 1, 1, 1, 1, 0 },
-		{ 0, 2, 1, 1, 1, 1, 1, 1, 0 },
-		{ 0, 2, 1, 1, 1, 1, 1, 1, 0 },
-		{ 0, 2, 1, 1, 1, 1, 1, 1, 0 },
-		{ 0, 2, 1, 1, 1, 1, 1, 1, 0 },
-		{ 0, 0, 0, 0, 0, 0, 0, 0, 0 }});
-
-	run(RottingOranges(), vector<vector<int>> {
-		{ 0, 2 }});
-
-
-
+	run(NumberOfGoodPairs(), vector<int> { 1, 2, 3, 1, 1, 3 });
+	run(NumberOfGoodPairs(), vector<int> { 1, 1, 1, 1 });
+	run(NumberOfGoodPairs(), vector<int> { 1, 2, 3 });
 }
