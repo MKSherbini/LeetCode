@@ -21,3 +21,6 @@ public:
 	}
 };
 
+//run(NumberOfGoodPairs(), vector<int> { 1, 2, 3, 1, 1, 3 });
+//run(NumberOfGoodPairs(), vector<int> { 1, 1, 1, 1 });
+//run(NumberOfGoodPairs(), vector<int> { 1, 2, 3 });

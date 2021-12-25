@@ -1,4 +1,4 @@
-#include "NumberOfGoodPairs.h"
+#include "FinalValueOfVariableAfterPerformingOperations.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,7 +33,7 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(NumberOfGoodPairs(), vector<int> { 1, 2, 3, 1, 1, 3 });
-	run(NumberOfGoodPairs(), vector<int> { 1, 1, 1, 1 });
-	run(NumberOfGoodPairs(), vector<int> { 1, 2, 3 });
+	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "--X", "X++", "X++" });
+	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "++X", "++X", "X++" });
+	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "X++", "++X", "--X", "X--" });
 }
