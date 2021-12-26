@@ -143,7 +143,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BuildArrayFromPermutation.h" />
+    <ClInclude Include="Combinations.h" />
+    <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FloodFill.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="Helpers.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="Matrix01.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
@@ -152,6 +156,7 @@
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="MoveZeroes.h" />
+    <ClInclude Include="NumberOfGoodPairs.h" />
     <ClInclude Include="PermutationInString.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Printer.h" />
@@ -162,6 +167,7 @@
     <ClInclude Include="RichestCustomerWealth.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="RottingOranges.h" />
+    <ClInclude Include="ShuffleTheArray.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="TwoSum2.h" />

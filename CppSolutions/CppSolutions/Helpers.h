@@ -47,7 +47,6 @@ static int8_t valid(const vector< vector<T> >& v, const vector< vector<T> >& v2)
 	return 1;
 }
 
-
 template<typename T, typename R, typename ...Args>
 void run(T t, R res, Args ... r) {
 	R ret = t.solution(r...);

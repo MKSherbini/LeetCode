@@ -1,93 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
     <Filter Include="Resource Files">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Templates">
+      <UniqueIdentifier>{e966654f-a425-4f5a-b60c-08e705ae1962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solutions">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Runner.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Helpers</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MoveZeroes.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Printer.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="RotateArray.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="SortedSquares.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="stdc++.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="TwoSum2.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="ReverseString.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="ReverseString3.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MiddleOfTheLinkedList.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="RemoveNthFromEnd.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="LengthOfLongestSubstring.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="PermutationInString.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="FloodFill.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MaxAreaOfIsland.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MergeTwoBinaryTrees.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="BuildArrayFromPermutation.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="RichestCustomerWealth.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="PopulatingNextRightPointersInEachNode.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="Matrix01.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MaximumDepthOfBinaryTree.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="RottingOranges.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MergeTwoSortedLists.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="ReverseLinkedList.h">
-      <Filter>Header Files</Filter>
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Combinations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfGoodPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShuffleTheArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="stdc++.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Templates</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
