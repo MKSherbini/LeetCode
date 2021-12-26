@@ -1,4 +1,4 @@
-#include "FinalValueOfVariableAfterPerformingOperations.h"
+#include "ShuffleTheArray.h"
 #include "Printer.h"
 
 // todo improve printing + examples running
@@ -33,7 +33,6 @@ void run(T t, Args ... r) {
 
 int main()
 {
-	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "--X", "X++", "X++" });
-	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "++X", "++X", "X++" });
-	run(FinalValueOfVariableAfterPerformingOperations(), vector<string> { "X++", "++X", "--X", "X--" });
+	run(ShuffleTheArray(), vector<int> { 2, 5, 1, 3, 4, 7 }, 3);
+	run(ShuffleTheArray(), vector<int> { 1, 2, 3, 4, 4, 3, 2, 1 }, 4);
 }
