@@ -56,20 +56,20 @@ void run(T t, R res, Args ... r) {
 
 template<typename T, int params, typename std::enable_if<params == 1, int*>::type = nullptr>
 void run(T t) {
-	for (int i = 0; i < t.outputs.size(); i++)
-		run(t, t.outputs[i], t.input1[i]);
+	for (int i = 0; i < t.output.size(); i++)
+		run(t, t.output[i], t.input1[i]);
 }
 
 template<typename T, int params, typename std::enable_if<params == 2, int*>::type = nullptr>
 void run(T t) {
-	for (int i = 0; i < t.outputs.size(); i++)
-		run(t, t.outputs[i], t.input1[i], t.input2[i]);
+	for (int i = 0; i < t.output.size(); i++)
+		run(t, t.output[i], t.input1[i], t.input2[i]);
 }
 
 template<typename T, int params, typename std::enable_if<params == 3, int*>::type = nullptr>
 void run(T t) {
-	for (int i = 0; i < t.outputs.size(); i++)
-		run(t, t.outputs[i], t.input1[i], t.input2[i], t.input3[i]);
+	for (int i = 0; i < t.output.size(); i++)
+		run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i]);
 }
 
 template<typename T, int n>

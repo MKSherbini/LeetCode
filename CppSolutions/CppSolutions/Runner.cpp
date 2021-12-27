@@ -1,4 +1,4 @@
-#include "ShuffleTheArray.h"
+#include "MaximumNumberOfWordsFoundInSentences.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<ShuffleTheArray, 2>();
+	run<MaximumNumberOfWordsFoundInSentences, 1>();
 }

@@ -14,7 +14,7 @@ public:
 			ret[i * 2] = nums[i], ret[i * 2 + 1] = nums[i + n];
 		return ret;
 	}
-	vector<vector<int>> outputs = {
+	vector<vector<int>> output = {
 		{ 2, 3, 5, 4, 1, 7 },
 		{ 1, 4, 2, 3, 3, 2, 4, 1 }
 	};
