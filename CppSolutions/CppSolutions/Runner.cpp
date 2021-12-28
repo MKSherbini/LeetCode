@@ -1,4 +1,4 @@
-#include "MaximumNumberOfWordsFoundInSentences.h"
+#include "PartitioningIntoMinimumNumberOfDeciBinaryNumbers.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<MaximumNumberOfWordsFoundInSentences, 1>();
+	run<PartitioningIntoMinimumNumberOfDeciBinaryNumbers, 1>();
 }

@@ -112,5 +112,11 @@
     <ClInclude Include="Header.h">
       <Filter>Templates</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfWordsFoundInSentences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitioningIntoMinimumNumberOfDeciBinaryNumbers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
