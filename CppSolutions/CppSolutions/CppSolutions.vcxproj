@@ -148,6 +148,7 @@
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="Helpers.h" />
+    <ClInclude Include="JewelsAndStones.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="Matrix01.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />

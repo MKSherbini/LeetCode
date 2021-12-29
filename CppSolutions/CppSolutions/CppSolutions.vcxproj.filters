@@ -118,5 +118,6 @@
     <ClInclude Include="PartitioningIntoMinimumNumberOfDeciBinaryNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="JewelsAndStones.h" />
   </ItemGroup>
 </Project>

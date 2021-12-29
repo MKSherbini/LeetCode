@@ -1,4 +1,4 @@
-#include "PartitioningIntoMinimumNumberOfDeciBinaryNumbers.h"
+#include "JewelsAndStones.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<PartitioningIntoMinimumNumberOfDeciBinaryNumbers, 1>();
+	run<JewelsAndStones, 2>();
 }
