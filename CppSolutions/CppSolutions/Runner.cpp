@@ -1,4 +1,4 @@
-#include "JewelsAndStones.h"
+#include "QueriesOnNumberOfPointsInsideACircle.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<JewelsAndStones, 2>();
+	run<QueriesOnNumberOfPointsInsideACircle, 2>();
 }

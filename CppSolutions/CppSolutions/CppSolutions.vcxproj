@@ -164,6 +164,7 @@
     <ClInclude Include="PermutationInString.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNode.h" />
     <ClInclude Include="Printer.h" />
+    <ClInclude Include="QueriesOnNumberOfPointsInsideACircle.h" />
     <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />

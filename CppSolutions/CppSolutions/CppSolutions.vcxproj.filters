@@ -120,5 +120,6 @@
     </ClInclude>
     <ClInclude Include="JewelsAndStones.h" />
     <ClInclude Include="DesignParkingSystem.h" />
+    <ClInclude Include="QueriesOnNumberOfPointsInsideACircle.h" />
   </ItemGroup>
 </Project>
