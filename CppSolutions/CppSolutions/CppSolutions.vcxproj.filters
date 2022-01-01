@@ -118,8 +118,15 @@
     <ClInclude Include="PartitioningIntoMinimumNumberOfDeciBinaryNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="JewelsAndStones.h" />
-    <ClInclude Include="DesignParkingSystem.h" />
-    <ClInclude Include="QueriesOnNumberOfPointsInsideACircle.h" />
+    <ClInclude Include="QueriesOnNumberOfPointsInsideACircle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignParkingSystem.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="JewelsAndStones.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
   </ItemGroup>
 </Project>

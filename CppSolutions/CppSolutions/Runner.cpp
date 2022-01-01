@@ -1,4 +1,4 @@
-#include "QueriesOnNumberOfPointsInsideACircle.h"
+#include "HowManyNumbersAreSmallerThanTheCurrentNumber.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<QueriesOnNumberOfPointsInsideACircle, 2>();
+	run<HowManyNumbersAreSmallerThanTheCurrentNumber, 1>();
 }

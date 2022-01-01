@@ -149,6 +149,7 @@
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="Helpers.h" />
+    <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
     <ClInclude Include="JewelsAndStones.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="Matrix01.h" />
