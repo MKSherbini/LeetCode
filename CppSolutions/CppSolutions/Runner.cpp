@@ -1,4 +1,4 @@
-#include "HowManyNumbersAreSmallerThanTheCurrentNumber.h"
+#include "DecodeXoredArray.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<HowManyNumbersAreSmallerThanTheCurrentNumber, 1>();
+	run<DecodeXoredArray, 2>();
 }

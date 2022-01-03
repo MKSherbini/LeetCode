@@ -128,5 +128,8 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
+    <ClInclude Include="ShuffleString.h" />
+    <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
+    <ClInclude Include="DecodeXoredArray.h" />
   </ItemGroup>
 </Project>
