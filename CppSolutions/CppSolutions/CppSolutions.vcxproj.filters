@@ -127,9 +127,20 @@
     <ClInclude Include="JewelsAndStones.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
-    <ClInclude Include="ShuffleString.h" />
-    <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
-    <ClInclude Include="DecodeXoredArray.h" />
+    <ClInclude Include="DecodeXoredArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="GoalParserInterpretation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShuffleString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

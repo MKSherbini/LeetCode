@@ -1,4 +1,4 @@
-#include "DecodeXoredArray.h"
+#include "GoalParserInterpretation.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<DecodeXoredArray, 2>();
+	run<GoalParserInterpretation, 1>();
 }

@@ -148,6 +148,7 @@
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FloodFill.h" />
+    <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="Helpers.h" />
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
