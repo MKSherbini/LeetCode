@@ -1,4 +1,4 @@
-#include "GoalParserInterpretation.h"
+#include "SortingTheSentence.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<GoalParserInterpretation, 1>();
+	run<SortingTheSentence, 1>();
 }

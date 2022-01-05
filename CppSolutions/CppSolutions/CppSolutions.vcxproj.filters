@@ -142,5 +142,8 @@
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortingTheSentence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
