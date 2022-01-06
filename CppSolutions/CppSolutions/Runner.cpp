@@ -1,4 +1,4 @@
-#include "SortingTheSentence.h"
+#include "CountItemsMatchingARule.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<SortingTheSentence, 1>();
+	run<CountItemsMatchingARule, 3>();
 }

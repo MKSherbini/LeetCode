@@ -145,5 +145,6 @@
     <ClInclude Include="SortingTheSentence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountItemsMatchingARule.h" />
   </ItemGroup>
 </Project>
