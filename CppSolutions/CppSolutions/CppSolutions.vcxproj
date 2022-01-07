@@ -148,6 +148,7 @@
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
+    <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="Header.h" />

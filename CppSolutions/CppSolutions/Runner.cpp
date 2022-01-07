@@ -1,4 +1,4 @@
-#include "CountItemsMatchingARule.h"
+#include "FindTargetIndicesAfterSortingArray.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<CountItemsMatchingARule, 3>();
+	run<FindTargetIndicesAfterSortingArray, 2>();
 }
