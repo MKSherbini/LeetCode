@@ -147,5 +147,6 @@
     </ClInclude>
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
+    <ClInclude Include="CountingBits.h" />
   </ItemGroup>
 </Project>

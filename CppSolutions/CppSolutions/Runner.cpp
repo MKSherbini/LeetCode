@@ -1,4 +1,4 @@
-#include "FindTargetIndicesAfterSortingArray.h"
+#include "CountingBits.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<FindTargetIndicesAfterSortingArray, 2>();
+	run<CountingBits, 1>();
 }
