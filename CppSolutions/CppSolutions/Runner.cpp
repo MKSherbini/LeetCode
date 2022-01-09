@@ -1,4 +1,4 @@
-#include "CountingBits.h"
+#include "ContainsDuplicate.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<CountingBits, 1>();
+	run<ContainsDuplicate, 1>();
 }

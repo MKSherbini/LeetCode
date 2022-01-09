@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Combinations.h" />
+    <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="DecodeXoredArray.h" />
