@@ -1,3 +1,4 @@
+
 // C++ includes used for precompiling -*- C++ -*-
 
 // Copyright (C) 2003-2021 Free Software Foundation, Inc.
@@ -27,6 +28,9 @@
  */
 
  // 17.4.1.2 Headers
+
+#include <unordered_map>
+#include <unordered_set>
 
  // C
 #ifndef _GLIBCXX_NO_ASSERT
