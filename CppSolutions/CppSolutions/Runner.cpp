@@ -1,4 +1,4 @@
-#include "ContainsDuplicate.h"
+#include "RansomNote.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<ContainsDuplicate, 1>();
+	run<RansomNote, 2>();
 }

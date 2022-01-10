@@ -145,9 +145,20 @@
     <ClInclude Include="SortingTheSentence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="CountItemsMatchingARule.h" />
-    <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
-    <ClInclude Include="CountingBits.h" />
-    <ClInclude Include="ContainsDuplicate.h" />
+    <ClInclude Include="ContainsDuplicate.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CountingBits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CountItemsMatchingARule.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTargetIndicesAfterSortingArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RansomNote.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

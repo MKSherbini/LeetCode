@@ -2,7 +2,7 @@
 #include "stdc++.h"
 using namespace std;
 
-//$URL$
+//https://leetcode.com/problems/$URL$/
 
 class $ClassName$
 {
