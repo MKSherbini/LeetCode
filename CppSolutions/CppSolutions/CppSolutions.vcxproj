@@ -149,6 +149,7 @@
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DesignParkingSystem.h" />
+    <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FloodFill.h" />

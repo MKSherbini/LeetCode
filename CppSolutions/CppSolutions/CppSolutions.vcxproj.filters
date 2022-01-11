@@ -160,5 +160,6 @@
     <ClInclude Include="RansomNote.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FibonacciNumber.h" />
   </ItemGroup>
 </Project>

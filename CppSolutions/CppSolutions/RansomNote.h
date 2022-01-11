@@ -8,7 +8,7 @@ class RansomNote
 {
 public:
 	// 12 ms, faster than 89.49% : 8.6 MB, less than 98.75%
-	int solution(string ransomNote, string magazine) {
+	bool solution(string ransomNote, string magazine) {
 		vector<int> availableChars(26, 0);
 		for (int i = 0; i < magazine.size(); i++)
 			availableChars[magazine[i] - 'a']++;

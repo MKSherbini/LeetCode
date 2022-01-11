@@ -1,4 +1,4 @@
-#include "RansomNote.h"
+#include "FibonacciNumber.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,5 @@
 
 int main()
 {
-	run<RansomNote, 2>();
+	run<FibonacciNumber, 1>();
 }
