@@ -10,11 +10,11 @@ public:
 		for (auto a : v) {
 			cout << a << " ";
 		}
-		cout << endl;
+		cout << '\n';
 	}
 
 	static void print(T v) {
-		cout << v << endl;
+		cout << v << '\n';
 	}
 
 };

@@ -31,6 +31,7 @@
 
 #include <unordered_map>
 #include <unordered_set>
+#include "Printer.h"
 
  // C
 #ifndef _GLIBCXX_NO_ASSERT
