@@ -6,6 +6,6 @@
 
 int main()
 {
-	//freopen("output.txt", "w", stdout);
+	freopen("output.txt", "w", stdout);
 	run<Combinations, 2>();
 }

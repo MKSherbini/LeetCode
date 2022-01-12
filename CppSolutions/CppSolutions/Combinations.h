@@ -7,13 +7,34 @@ using namespace std;
 class Combinations
 {
 public:
+	// 56 ms, faster than 28.01% : 69.9 MB, less than 21.69%
+	vector<vector<int>> solution2(int n, int k) {
+		vector<vector<int>> arr;
+		curse2(1, arr, n, k, {});
+		return arr;
+	}
+
 	// 12 ms, faster than 92.51% : 14.4 MB, less than 38.20%
 	vector<vector<int>> solution(int n, int k) {
-		//vector<int> vis(21, 0);
-		//findAll(arr, vis, n, k, {}, -1);
 		vector<vector<int>> arr;
 		curse(arr, n, k, {});
 		return arr;
+	}
+
+	void curse2(int i, vector<vector<int>>& arr, int n, int k, vector<int> row) {
+		if (row.size() == k) return arr.push_back(row);
+
+		if (i > n) return;
+
+		auto mx = max_element(begin(row), end(row));
+
+		if (row.size() < k && row.size() + n - i + 1 >= k) {
+			row.push_back(i);
+			curse2(i + 1, arr, n, k, row);
+			row.pop_back();
+		}
+
+		curse2(i + 1, arr, n, k, row);
 	}
 
 	void curse(vector<vector<int>>& arr, int n, int k, vector<int> row) {
@@ -41,29 +62,6 @@ public:
 		}
 	}
 
-	void findAll(vector<vector<int>>& arr, vector<int>& vis, int n, int k, vector<int> row, int x) {
-		if (row.size() == k) return arr.push_back(row);
-
-		cout << "X: " << x << ", Visited: ";
-		for (auto a : vis) {
-			cout << a << " ";
-		}
-		cout << endl;
-
-		if (x >= 1 && !vis[x]) {
-			row.push_back(x);
-			vis[x] = 1;
-		}
-
-		for (int j = max(x, 1); j <= n; j++)
-		{
-			//cout << "X: " << x << ", J: " << j << ", Visited: " << vis{j} << endl;
-			if (!vis[j])
-				findAll(arr, vis, n, k, row, j);
-		}
-		if (x >= 1)
-			vis[x] = 0;
-	}
 	vector<vector<vector<int>>> output = {
 		{{1,2}},
 		{{1,2},{1,3},{1,4},{2,3},{2,4},{3,4}},
