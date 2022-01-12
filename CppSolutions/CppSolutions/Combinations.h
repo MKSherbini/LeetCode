@@ -7,6 +7,7 @@ using namespace std;
 class Combinations
 {
 public:
+	// 12 ms, faster than 92.51% : 14.4 MB, less than 38.20%
 	vector<vector<int>> solution(int n, int k) {
 		//vector<int> vis(21, 0);
 		//findAll(arr, vis, n, k, {}, -1);
