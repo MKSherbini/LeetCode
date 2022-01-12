@@ -162,4 +162,7 @@
     </ClInclude>
     <ClInclude Include="FibonacciNumber.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="output.txt" />
+  </ItemGroup>
 </Project>

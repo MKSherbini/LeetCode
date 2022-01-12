@@ -1,4 +1,4 @@
-#include "FibonacciNumber.h"
+#include "Combinations.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -6,5 +6,6 @@
 
 int main()
 {
-	run<FibonacciNumber, 1>();
+	//freopen("output.txt", "w", stdout);
+	run<Combinations, 2>();
 }
