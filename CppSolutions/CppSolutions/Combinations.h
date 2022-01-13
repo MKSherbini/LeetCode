@@ -7,7 +7,7 @@ using namespace std;
 class Combinations
 {
 public:
-	// 56 ms, faster than 28.01% : 69.9 MB, less than 21.69%
+	// 52 ms, faster than 29.92% : 69.8 MB, less than 21.69%
 	vector<vector<int>> solution2(int n, int k) {
 		vector<vector<int>> arr;
 		curse2(1, arr, n, k, {});
@@ -28,13 +28,12 @@ public:
 
 		auto mx = max_element(begin(row), end(row));
 
+		curse2(i + 1, arr, n, k, row);
+
 		if (row.size() < k && row.size() + n - i + 1 >= k) {
 			row.push_back(i);
 			curse2(i + 1, arr, n, k, row);
-			row.pop_back();
 		}
-
-		curse2(i + 1, arr, n, k, row);
 	}
 
 	void curse(vector<vector<int>>& arr, int n, int k, vector<int> row) {

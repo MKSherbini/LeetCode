@@ -1,4 +1,4 @@
-#include "Combinations.h"
+#include "ClimbingStairs.h"
 #include "Printer.h"
 #include "Helpers.h"
 
@@ -7,5 +7,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	run<Combinations, 2>();
+	run<ClimbingStairs, 1>();
 }

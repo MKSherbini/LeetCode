@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BuildArrayFromPermutation.h" />
+    <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="Combinations.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />

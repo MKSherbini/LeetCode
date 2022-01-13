@@ -161,6 +161,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="FibonacciNumber.h" />
+    <ClInclude Include="ClimbingStairs.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
