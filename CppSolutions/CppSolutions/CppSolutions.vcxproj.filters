@@ -162,6 +162,7 @@
     </ClInclude>
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="ClimbingStairs.h" />
+    <ClInclude Include="Permutations.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
