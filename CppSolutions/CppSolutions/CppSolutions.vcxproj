@@ -159,10 +159,11 @@
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="Header.h" />
-    <ClInclude Include="Helpers.h" />
+    <ClInclude Include="Runner.h" />
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
     <ClInclude Include="JewelsAndStones.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
+    <ClInclude Include="LetterCasePermutation.h" />
     <ClInclude Include="Matrix01.h" />
     <ClInclude Include="MaxAreaOfIsland.h" />
     <ClInclude Include="MaximumDepthOfBinaryTree.h" />
@@ -193,6 +194,7 @@
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="TwoSum2.h" />
+    <ClInclude Include="Validator.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

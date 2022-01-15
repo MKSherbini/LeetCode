@@ -103,7 +103,7 @@
     <ClInclude Include="stdc++.h">
       <Filter>Helpers</Filter>
     </ClInclude>
-    <ClInclude Include="Helpers.h">
+    <ClInclude Include="Runner.h">
       <Filter>Helpers</Filter>
     </ClInclude>
     <ClInclude Include="Printer.h">
@@ -163,6 +163,8 @@
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="Permutations.h" />
+    <ClInclude Include="LetterCasePermutation.h" />
+    <ClInclude Include="Validator.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

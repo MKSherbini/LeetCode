@@ -16,7 +16,7 @@ public:
 	void curse(vector<int>& nums, vector<vector<int>>& ans, int index) {
 		if (index >= nums.size()) return ans.push_back(nums);
 
-		for (int i = index+1; i < nums.size(); i++)
+		for (int i = index; i < nums.size(); i++)
 		{
 			swap(nums[index], nums[i]);
 			curse(nums, ans, index + 1);
