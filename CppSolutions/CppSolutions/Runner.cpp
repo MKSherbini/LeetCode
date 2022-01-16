@@ -1,12 +1,10 @@
-#include "LetterCasePermutation.h"
-#include "Printer.h"
-#include "Runner.h"
+#include "Permutations.h"
+#include "stdc++.h"
 
 // todo improve printing + examples running
-// todo handle unmatched order
 
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<LetterCasePermutation, 1>();
+	Runner(true).run<Permutations, 1>();
 }

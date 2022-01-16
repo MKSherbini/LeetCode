@@ -190,6 +190,7 @@
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
     <ClInclude Include="SortedSquares.h" />
+    <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />

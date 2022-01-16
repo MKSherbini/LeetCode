@@ -165,6 +165,7 @@
     <ClInclude Include="Permutations.h" />
     <ClInclude Include="LetterCasePermutation.h" />
     <ClInclude Include="Validator.h" />
+    <ClInclude Include="Sorter.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

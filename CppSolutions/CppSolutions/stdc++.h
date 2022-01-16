@@ -29,10 +29,12 @@
 
  // 17.4.1.2 Headers
 
+#include "Runner.h"
 #include <unordered_map>
 #include <unordered_set>
 #include "Printer.h"
 #include "Validator.h"
+#include "Sorter.h"
 
  // C
 #ifndef _GLIBCXX_NO_ASSERT

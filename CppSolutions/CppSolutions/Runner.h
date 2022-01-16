@@ -17,17 +17,12 @@ public:
 private:
 	bool anyOrder = false;
 
-	template<typename T>
-	void sort(vector<T>& v) {
-		std::sort(begin(v), end(v));
-	}
-
 	template<typename T, typename R, typename ...Args>
 	void run(T t, R res, Args ... r) {
 		R ret = t.solution(r...);
 		Printer::print(ret);
 		if (anyOrder)
-			sort(ret), sort(res);
+			Sorter::sort(ret), Sorter::sort(res);
 		bool acc = Validator::valid(ret, res);
 		cout << "judge: " << (acc ? "Accepted" : "Wrong answer") << "\n\n";
 	}
