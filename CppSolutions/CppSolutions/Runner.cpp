@@ -1,4 +1,4 @@
-#include "Permutations.h"
+#include "NQueens.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<Permutations, 1>();
+	Runner(true).run<NQueens, 1>();
 }

@@ -17,5 +17,13 @@ public:
 		}
 		cout << '\n';
 	}
+
+	static void print(const vector<string>& v) {
+		for (auto a : v) {
+			print(a);
+			cout << '\n';
+		}
+		cout << '\n';
+	}
 };
 
