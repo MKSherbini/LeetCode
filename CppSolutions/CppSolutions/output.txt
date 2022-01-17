@@ -1,18 +1,6 @@
-..Q. 
-Q... 
-...Q 
-.Q.. 
+2 judge: Accepted
 
-.Q.. 
-...Q 
-Q... 
-..Q. 
+1 judge: Accepted
 
-
-judge: Accepted
-
-Q 
-
-
-judge: Accepted
+352 judge: Accepted
 
