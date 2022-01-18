@@ -160,14 +160,30 @@
     <ClInclude Include="RansomNote.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="FibonacciNumber.h" />
-    <ClInclude Include="ClimbingStairs.h" />
-    <ClInclude Include="Permutations.h" />
-    <ClInclude Include="LetterCasePermutation.h" />
-    <ClInclude Include="Validator.h" />
-    <ClInclude Include="Sorter.h" />
-    <ClInclude Include="NQueens.h" />
-    <ClInclude Include="NQueens2.h" />
+    <ClInclude Include="Sorter.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Validator.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Permutations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ClimbingStairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FibonacciNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCasePermutation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NQueens.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NQueens2.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
