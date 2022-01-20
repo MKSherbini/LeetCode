@@ -184,6 +184,7 @@
     <ClInclude Include="NQueens2.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidParentheses.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

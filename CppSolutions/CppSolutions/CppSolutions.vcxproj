@@ -198,6 +198,7 @@
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="Validator.h" />
+    <ClInclude Include="ValidParentheses.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
