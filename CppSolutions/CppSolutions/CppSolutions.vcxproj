@@ -159,6 +159,7 @@
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="Header.h" />
+    <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="Runner.h" />

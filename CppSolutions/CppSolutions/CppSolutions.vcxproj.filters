@@ -185,6 +185,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="HouseRobber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
