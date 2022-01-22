@@ -186,6 +186,7 @@
     </ClInclude>
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="HouseRobber.h" />
+    <ClInclude Include="Triangle.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
