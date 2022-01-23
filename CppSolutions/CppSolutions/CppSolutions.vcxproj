@@ -162,6 +162,7 @@
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
+    <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="Runner.h" />
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
     <ClInclude Include="JewelsAndStones.h" />
