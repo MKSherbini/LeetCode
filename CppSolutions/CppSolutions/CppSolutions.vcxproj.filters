@@ -188,6 +188,7 @@
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="PowerOfTwo.h" />
+    <ClInclude Include="NumberOf1Bits.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
