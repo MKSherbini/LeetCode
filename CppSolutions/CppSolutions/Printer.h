@@ -25,5 +25,12 @@ public:
 		}
 		cout << '\n';
 	}
+
+	template<typename T>
+	static void printBinary(T t, int sz = 32) {
+		for (uint64_t i = (1ULL << (sz - 1)); i > 0; i >>= 1)
+			cout << ((t & i) > 0);
+		cout << endl;
+	}
 };
 

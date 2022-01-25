@@ -1,6 +1,4 @@
-3 judge: Accepted
+964176192 judge: Accepted
 
-1 judge: Accepted
-
-31 judge: Accepted
+3221225471 judge: Accepted
 
