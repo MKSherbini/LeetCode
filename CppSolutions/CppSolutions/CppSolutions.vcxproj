@@ -195,6 +195,7 @@
     <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
+    <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />

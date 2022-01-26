@@ -1,4 +1,4 @@
-#include "ReverseBits.h"
+#include "SingleNumber.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<ReverseBits, 1>();
+	Runner(true).run<SingleNumber, 1>();
 }

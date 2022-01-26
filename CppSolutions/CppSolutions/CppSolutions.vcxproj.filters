@@ -190,6 +190,7 @@
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="ReverseBits.h" />
+    <ClInclude Include="SingleNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
