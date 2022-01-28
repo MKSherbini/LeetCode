@@ -191,6 +191,7 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="SingleNumber.h" />
+    <ClInclude Include="ReverseVowelsOfAString.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

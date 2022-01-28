@@ -165,6 +165,7 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="ReverseBits.h" />
+    <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="Runner.h" />
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
     <ClInclude Include="JewelsAndStones.h" />
