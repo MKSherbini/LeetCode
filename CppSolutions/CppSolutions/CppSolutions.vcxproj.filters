@@ -192,6 +192,7 @@
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
+    <ClInclude Include="RomanToInteger.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

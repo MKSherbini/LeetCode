@@ -1,4 +1,4 @@
-#include "ReverseVowelsOfAString.h"
+#include "RomanToInteger.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<ReverseVowelsOfAString, 1>();
+	Runner(true).run<RomanToInteger, 1>();
 }
