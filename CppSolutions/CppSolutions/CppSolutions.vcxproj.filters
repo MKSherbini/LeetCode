@@ -194,6 +194,7 @@
     <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RingsAndRods.h" />
+    <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
