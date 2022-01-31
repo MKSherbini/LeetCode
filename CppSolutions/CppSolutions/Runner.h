@@ -14,6 +14,11 @@ public:
 		run<T, n>(T());
 	}
 
+	template<typename T>
+	void run() {
+		run<T, T::inputs>();
+	}
+
 private:
 	bool anyOrder = false;
 
