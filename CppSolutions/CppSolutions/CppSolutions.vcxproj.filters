@@ -195,6 +195,7 @@
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RingsAndRods.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
+    <ClInclude Include="LengthOfLastWord.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
