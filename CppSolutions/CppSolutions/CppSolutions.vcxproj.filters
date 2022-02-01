@@ -184,18 +184,42 @@
     <ClInclude Include="NQueens2.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="ValidParentheses.h" />
-    <ClInclude Include="HouseRobber.h" />
-    <ClInclude Include="Triangle.h" />
-    <ClInclude Include="PowerOfTwo.h" />
-    <ClInclude Include="NumberOf1Bits.h" />
-    <ClInclude Include="ReverseBits.h" />
-    <ClInclude Include="SingleNumber.h" />
-    <ClInclude Include="ReverseVowelsOfAString.h" />
-    <ClInclude Include="RomanToInteger.h" />
-    <ClInclude Include="RingsAndRods.h" />
-    <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
-    <ClInclude Include="LengthOfLastWord.h" />
+    <ClInclude Include="HouseRobber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LengthOfLastWord.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumScoreWordsFormedByLetters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOf1Bits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerOfTwo.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseBits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseVowelsOfAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RingsAndRods.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RomanToInteger.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidParentheses.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
