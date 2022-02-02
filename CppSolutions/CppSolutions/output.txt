@@ -1,10 +1,6 @@
-5 judge: Accepted
+Hello how are you judge: Accepted
 
-4 judge: Accepted
+What is the solution judge: Accepted
 
-6 judge: Accepted
-
-1 judge: Accepted
-
-0 judge: Accepted
+chopper is not a tanuki judge: Accepted
 

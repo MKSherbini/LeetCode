@@ -207,6 +207,7 @@
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="Triangle.h" />
+    <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidParentheses.h" />

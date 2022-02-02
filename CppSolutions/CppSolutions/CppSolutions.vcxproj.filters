@@ -220,6 +220,7 @@
     <ClInclude Include="ValidParentheses.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TruncateSentence.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
