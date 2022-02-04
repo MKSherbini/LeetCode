@@ -221,6 +221,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="TruncateSentence.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStock.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
