@@ -223,6 +223,7 @@
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
+    <ClInclude Include="SearchInRotatedSortedArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

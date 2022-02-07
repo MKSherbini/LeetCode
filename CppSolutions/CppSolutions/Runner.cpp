@@ -1,4 +1,4 @@
-#include "FindFirstAndLastPositionOfElementInSortedArray.h"
+#include "SearchInRotatedSortedArray.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<FindFirstAndLastPositionOfElementInSortedArray>();
+	Runner(true).run<SearchInRotatedSortedArray>();
 }
