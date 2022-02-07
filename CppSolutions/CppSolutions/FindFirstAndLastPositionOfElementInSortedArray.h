@@ -7,6 +7,7 @@ using namespace std;
 class FindFirstAndLastPositionOfElementInSortedArray
 {
 public:
+	// 4 ms, faster than 96.36% : 13.4 MB, less than 99.99%
 	vector<int> solution(vector<int>& nums, int target) {
 		int idx = lower_bound(begin(nums), end(nums), target) - begin(nums);
 		if (idx == nums.size() || nums[idx] != target) return { -1,-1 };
