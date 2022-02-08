@@ -220,10 +220,18 @@
     <ClInclude Include="ValidParentheses.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="TruncateSentence.h" />
-    <ClInclude Include="BestTimeToBuyAndSellStock.h" />
-    <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
-    <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStock.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInRotatedSortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TruncateSentence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
