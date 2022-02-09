@@ -200,6 +200,7 @@
     <ClInclude Include="RichestCustomerWealth.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="RottingOranges.h" />
+    <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
