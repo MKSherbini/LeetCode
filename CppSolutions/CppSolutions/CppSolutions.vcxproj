@@ -157,9 +157,11 @@
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
+    <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
+    <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="LengthOfLastWord.h" />

@@ -1,4 +1,4 @@
-#include "FindMinimumInRotatedSortedArray.h"
+#include "HappyNumber.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<FindMinimumInRotatedSortedArray>();
+	Runner(true).run<HappyNumber>();
 }

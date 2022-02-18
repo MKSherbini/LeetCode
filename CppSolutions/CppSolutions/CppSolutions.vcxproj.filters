@@ -233,6 +233,8 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="SearchA2dMatrix.h" />
+    <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
+    <ClInclude Include="HappyNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
