@@ -235,6 +235,7 @@
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="HappyNumber.h" />
+    <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
