@@ -158,6 +158,7 @@
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
+    <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GoalParserInterpretation.h" />

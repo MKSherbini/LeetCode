@@ -19,37 +19,6 @@ public:
 
 		return min(nums[0], nums[lo + 1]);
 	}
-
-	int solution2(vector<int> nums) {
-		int it = 0, sz = nums.size(), step = (sz + 1) / 2, dir = 0, mul = 1, last = 0;
-
-		while (step > 0) {
-
-			int prev = (it - 1 + sz) % sz;
-			int next = (it + 1) % sz;
-
-			cout << "At " << nums[it] << ", Step " << step << ", Mul " << mul << endl;
-			if (nums[next] < nums[it]) return nums[next];
-			if (nums[prev] > nums[it]) return nums[it];
-
-			if ((dir == -1 && nums[it] > nums[last]) || (dir == 1 && nums[it] < nums[last]))
-				mul *= -1;
-			last = it;
-			if (nums[it] > nums[prev]) {
-				cout << "Going " << "<<" << endl;
-				it -= mul * step, it += sz, it %= sz, dir = -1;
-			}
-			else {
-				cout << "Going " << ">>" << endl;
-				it += mul * step, it += sz, it %= sz, dir = 1;
-			}
-			step /= 2;
-		}
-		int prev = (it - 1 + sz) % sz;
-		int next = (it + 1) % sz;
-		//return min(min(nums[it], nums[prev]), nums[next]);
-		return nums[it];
-	}
 	vector<int> output = {
 		1,
 		0,
