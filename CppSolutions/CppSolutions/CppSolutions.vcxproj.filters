@@ -237,6 +237,7 @@
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="FindPeakElement.h" />
+    <ClInclude Include="Sum3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
