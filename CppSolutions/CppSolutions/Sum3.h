@@ -24,10 +24,7 @@ public:
 
 				while (k != nums.size() && nums[k] == target) {
 					if (k != i && k != j) {
-						vector<int> tuple = { nums[i], nums[j], nums[k] };
-						//Printer::print(vector<int>{ i, j, k });
-						sort(begin(tuple), end(tuple));
-						ans.push_back(tuple);
+						ans.push_back({ nums[i], nums[j], nums[k] });
 						break;
 					}
 					k++;
