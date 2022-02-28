@@ -7,8 +7,40 @@ using namespace std;
 class Sum3
 {
 public:
-	// 432 ms, faster than 16.47% : 19.8 MB, less than 99.92%
+	// 80 ms, faster than 86.18% : 19.8 MB, less than 99.92%
 	vector<vector<int>> solution(vector<int> nums) {
+		sort(begin(nums), end(nums));
+		vector<vector<int>> ans;
+		for (int i = 0; i < (int)nums.size() - 2; i++)
+		{
+			for (int j = i + 1, k = nums.size() - 1; k < nums.size() && j < nums.size() - 1 && k>j; j++)
+			{
+				int target = -nums[i] - nums[j];
+
+				while (nums[k] > target) {
+					k--;
+					if (k <= j) break;
+				}
+				while (k != nums.size() && nums[k] == target) {
+					if (k != i && k != j) {
+						ans.push_back({ nums[i], nums[j], nums[k] });
+						break;
+					}
+					k++;
+				}
+
+				if (j + 1 < nums.size() && nums[j] == nums[j + 1])
+					j = upper_bound(begin(nums) + j + 1, end(nums), nums[j]) - begin(nums) - 1;
+
+				if (i + 1 < nums.size() && nums[i] == nums[i + 1])
+					i = upper_bound(begin(nums) + i + 1, end(nums), nums[i]) - begin(nums) - 1;
+			}
+		}
+		return ans;
+	}
+
+	// 432 ms, faster than 16.47% : 19.8 MB, less than 99.92%
+	vector<vector<int>> solution3(vector<int> nums) {
 		if (nums.size() < 3) return {};
 		sort(begin(nums), end(nums));
 		vector<vector<int>> ans;
