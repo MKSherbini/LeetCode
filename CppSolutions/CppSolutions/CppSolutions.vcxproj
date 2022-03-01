@@ -145,6 +145,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="ClimbingStairs.h" />
