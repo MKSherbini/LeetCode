@@ -232,13 +232,27 @@
     <ClInclude Include="TruncateSentence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="SearchA2dMatrix.h" />
-    <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
-    <ClInclude Include="HappyNumber.h" />
-    <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
-    <ClInclude Include="FindPeakElement.h" />
-    <ClInclude Include="Sum3.h" />
-    <ClInclude Include="BackspaceStringCompare.h" />
+    <ClInclude Include="BackspaceStringCompare.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindMinimumInRotatedSortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindPeakElement.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="HappyNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedList2.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchA2dMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Sum3.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
