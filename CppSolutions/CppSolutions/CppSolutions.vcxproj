@@ -166,6 +166,7 @@
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
+    <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="NQueens.h" />

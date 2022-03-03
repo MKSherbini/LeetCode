@@ -253,6 +253,7 @@
     <ClInclude Include="Sum3.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="IntervalListIntersections.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,18 +1,12 @@
--1 -1
-1 judge: Accepted
+1 2 
+5 5 
+8 10 
+15 23 
+24 24 
+25 25 
 
--1 -1
-1 judge: Accepted
+judge: Accepted
 
-1 -1
-0 judge: Accepted
 
--1 -1
-1 judge: Accepted
-
-0 -1
-0 judge: Accepted
-
-0 0
-0 judge: Accepted
+judge: Accepted
 
