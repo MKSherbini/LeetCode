@@ -254,6 +254,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="IntervalListIntersections.h" />
+    <ClInclude Include="ContainerWithMostWater.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

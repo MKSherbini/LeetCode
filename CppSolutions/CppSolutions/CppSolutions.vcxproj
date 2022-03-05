@@ -150,6 +150,7 @@
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="Combinations.h" />
+    <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
