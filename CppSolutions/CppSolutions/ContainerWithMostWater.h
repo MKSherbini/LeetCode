@@ -7,17 +7,18 @@ using namespace std;
 class ContainerWithMostWater
 {
 public:
-	// TLE
+	// 92 ms, faster than 80.3% : 66.7 MB, less than 39.27%
 	int solution(vector<int> height) {
-		int i = 0, j = height.size() - 1;
-		return curse(height, i, j);
+		return curse(height, 0, height.size() - 1);
 	}
 	int curse(vector<int>& height, int i, int j) {
-		cout << i << " " << j << endl;
+		//cout << i << " " << j << endl;
 		if (i >= j) return 0;
 		int mn = min(height[i], height[j]) * (j - i);
-		mn = max(mn, curse(height, i + 1, j));
-		mn = max(mn, curse(height, i, j - 1));
+		if (height[i] < height[j])
+			mn = max(mn, curse(height, i + 1, j));
+		else
+			mn = max(mn, curse(height, i, j - 1));
 		return mn;
 	}
 	vector<int> output = {
