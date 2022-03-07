@@ -7,6 +7,18 @@ using namespace std;
 class ContainerWithMostWater
 {
 public:
+	// 88 ms, faster than 84.44% : 58.9 MB, less than 98.27%
+	int solution(vector<int> height) {
+		int i = 0, j = height.size() - 1, mx = INT_MIN;
+		while (i < j) {
+			//cout << i << " " << j << endl;
+			mx = max(mx, min(height[i], height[j]) * (j - i));
+			if (height[i] < height[j]) i++;
+			else j--;
+		}
+		return mx;
+	}
+
 	// 92 ms, faster than 80.3% : 66.7 MB, less than 39.27%
 	int solution(vector<int> height) {
 		return curse(height, 0, height.size() - 1);
