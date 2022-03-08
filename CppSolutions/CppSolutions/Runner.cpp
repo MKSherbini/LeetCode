@@ -1,4 +1,4 @@
-#include "ContainerWithMostWater.h"
+#include "FindAllAnagramsInAString.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<ContainerWithMostWater>();
+	Runner(true).run<FindAllAnagramsInAString>();
 }

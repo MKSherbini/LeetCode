@@ -255,6 +255,7 @@
     </ClInclude>
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="FindAllAnagramsInAString.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
