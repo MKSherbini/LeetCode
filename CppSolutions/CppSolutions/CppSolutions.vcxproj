@@ -217,6 +217,7 @@
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="stdc++.h" />
+    <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="Triangle.h" />
