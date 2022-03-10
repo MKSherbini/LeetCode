@@ -257,6 +257,7 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
+    <ClInclude Include="MinimumSizeSubarraySum.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

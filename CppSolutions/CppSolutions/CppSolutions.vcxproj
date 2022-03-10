@@ -171,6 +171,7 @@
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
+    <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NumberOf1Bits.h" />
