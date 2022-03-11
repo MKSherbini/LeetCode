@@ -258,6 +258,7 @@
     <ClInclude Include="FindAllAnagramsInAString.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
+    <ClInclude Include="NumberOfIslands.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

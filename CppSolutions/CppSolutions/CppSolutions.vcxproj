@@ -175,6 +175,7 @@
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NumberOf1Bits.h" />
+    <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="ReverseBits.h" />
