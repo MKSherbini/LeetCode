@@ -259,6 +259,7 @@
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="NumberOfIslands.h" />
+    <ClInclude Include="NumberOfProvinces.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
