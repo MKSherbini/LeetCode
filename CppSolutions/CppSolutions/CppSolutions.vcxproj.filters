@@ -260,6 +260,8 @@
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

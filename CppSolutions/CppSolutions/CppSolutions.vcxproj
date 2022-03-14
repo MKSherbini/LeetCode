@@ -177,6 +177,7 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="ReverseBits.h" />
@@ -226,6 +227,7 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
+    <ClInclude Include="Utils.h" />
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidParentheses.h" />
   </ItemGroup>
