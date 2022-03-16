@@ -116,6 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -214,6 +215,7 @@
     <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
     <ClInclude Include="SingleNumber.h" />
@@ -223,6 +225,7 @@
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
+    <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />

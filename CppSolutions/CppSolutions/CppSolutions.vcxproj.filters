@@ -262,6 +262,8 @@
     <ClInclude Include="NumberOfProvinces.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="Utils.h" />
+    <ClInclude Include="SubtreeOfAnotherTree.h" />
+    <ClInclude Include="ShortestPathInBinaryMatrix.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
