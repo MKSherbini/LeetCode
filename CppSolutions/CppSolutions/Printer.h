@@ -10,6 +10,14 @@ public:
 		cout << v << (newLine ? "\n" : " ");
 	}
 
+	template<typename... Args>
+	static void printAll(Args&... args) {
+		//((cout << " " << std::forward<Args>(args)), ...);
+		//(cout << ... << forward<Args>(args)) << '\n';
+		((cout << std::forward<Args>(args) << " "), ...);
+		cout << '\n';
+	}
+
 	template<typename T>
 	static void print(const vector<T>& v) {
 		for (auto a : v) {
