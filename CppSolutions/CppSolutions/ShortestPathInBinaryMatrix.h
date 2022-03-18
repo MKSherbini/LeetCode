@@ -7,7 +7,7 @@ using namespace std;
 class ShortestPathInBinaryMatrix
 {
 public:
-	// 52 ms, faster than 95.93% : 19.1 MB, less than 93.65%
+	// 52 ms, faster than 95.93% : 19 MB, less than 97.09%
 	int solution(vector<vector<int>> grid) {
 		if (grid[0][0] || grid[grid.size() - 1][grid[0].size() - 1]) return -1;
 		//Printer::print(grid);

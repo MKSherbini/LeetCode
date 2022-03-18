@@ -264,6 +264,7 @@
     <ClInclude Include="Utils.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="SurroundedRegions.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

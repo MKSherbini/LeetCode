@@ -227,6 +227,7 @@
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
+    <ClInclude Include="SurroundedRegions.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
