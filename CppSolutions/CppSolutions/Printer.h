@@ -14,7 +14,8 @@ public:
 	static void printAll(Args&... args) {
 		//((cout << " " << std::forward<Args>(args)), ...);
 		//(cout << ... << forward<Args>(args)) << '\n';
-		((cout << std::forward<Args>(args) << " "), ...);
+		//((cout << std::forward<Args>(args) << " "), ...);
+		((print(std::forward<Args>(args))), ...);
 		cout << '\n';
 	}
 

@@ -1,4 +1,4 @@
-#include "SurroundedRegions.h"
+#include "AllPathsFromSourceToTarget.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<SurroundedRegions>();
+	Runner(true).run<AllPathsFromSourceToTarget>();
 }
