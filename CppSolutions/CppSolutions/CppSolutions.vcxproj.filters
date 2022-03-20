@@ -266,6 +266,7 @@
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="SurroundedRegions.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
+    <ClInclude Include="Subsets.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

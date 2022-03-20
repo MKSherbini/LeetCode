@@ -11,11 +11,11 @@ public:
 	}
 
 	template<typename... Args>
-	static void printAll(Args&... args) {
+	static void printAll(const Args&... args) {
 		//((cout << " " << std::forward<Args>(args)), ...);
 		//(cout << ... << forward<Args>(args)) << '\n';
 		//((cout << std::forward<Args>(args) << " "), ...);
-		((print(std::forward<Args>(args))), ...);
+		((print(std::forward<const Args>(args))), ...);
 		cout << '\n';
 	}
 

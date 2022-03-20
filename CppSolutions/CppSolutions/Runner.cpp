@@ -1,4 +1,4 @@
-#include "AllPathsFromSourceToTarget.h"
+#include "Subsets.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -6,5 +6,5 @@
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<AllPathsFromSourceToTarget>();
+	Runner(true).run<Subsets>();
 }

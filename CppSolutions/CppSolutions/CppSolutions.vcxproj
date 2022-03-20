@@ -225,6 +225,7 @@
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
+    <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
