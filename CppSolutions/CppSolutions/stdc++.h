@@ -35,6 +35,7 @@
 #include "Printer.h"
 #include "Validator.h"
 #include "Sorter.h"
+#include "Utils.h"
 
  // C
 #ifndef _GLIBCXX_NO_ASSERT
