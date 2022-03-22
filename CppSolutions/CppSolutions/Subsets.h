@@ -7,8 +7,22 @@ using namespace std;
 class Subsets
 {
 public:
-	// 0 ms, faster than 100% : 6.9 MB, less than 99.18%
+	// 0 ms, faster than 100% : 10.6 MB, less than 33.27%
 	vector<vector<int>> solution(vector<int> nums) {
+		vector<vector<int>> ans;
+		curse(nums, ans, *new vector<int>{}, 0);
+		return ans;
+	}
+	void curse(vector<int>& nums, vector<vector<int>>& ans, vector<int>& row, int st) {
+		if (st == nums.size()) return ans.push_back(row);
+
+		curse(nums, ans, row, st + 1);
+		row.push_back(nums[st]);
+		curse(nums, ans, row, st + 1);
+		row.pop_back();
+	}
+	// 0 ms, faster than 100% : 6.9 MB, less than 99.18%
+	vector<vector<int>> solution2(vector<int> nums) {
 		vector<vector<int>> ans = { {} };
 		int set = (1 << nums.size()) - 1;
 

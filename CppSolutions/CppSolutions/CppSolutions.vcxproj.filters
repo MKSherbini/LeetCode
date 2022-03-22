@@ -267,6 +267,7 @@
     <ClInclude Include="SurroundedRegions.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="Subsets.h" />
+    <ClInclude Include="SubsetsII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
