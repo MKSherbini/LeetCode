@@ -6,30 +6,48 @@ class Printer
 {
 public:
 	template<typename T>
-	static void print(const T& v, bool newLine = 0) {
+	static void printOne(const T& v, bool newLine = 0) {
 		cout << v << (newLine ? "\n" : " ");
 	}
 
 	template<typename... Args>
-	static void printAll(const Args&... args) {
+	static void print(const Args&... args) {
 		//((cout << " " << std::forward<Args>(args)), ...);
 		//(cout << ... << forward<Args>(args)) << '\n';
 		//((cout << std::forward<Args>(args) << " "), ...);
-		((print(std::forward<const Args>(args))), ...);
+		((printOne(std::forward<const Args>(args))), ...);
 		cout << '\n';
 	}
 
 	template<typename T>
-	static void print(const vector<T>& v) {
+	static void printOne(const vector<T>& v) {
 		for (auto a : v) {
-			print(a);
+			printOne(a);
 		}
 		cout << '\n';
 	}
 
-	static void print(const vector<string>& v) {
+	template<typename T>
+	static void printOne(const set<T>& v) {
 		for (auto a : v) {
-			print(a);
+			printOne(a);
+		}
+		cout << '\n';
+	}
+
+	template<typename T, typename R>
+	static void printOne(const map<T, R>& v) {
+		for (auto a : v) {
+			printOne(a.first);
+			cout << ": ";
+			printOne(a.second);
+		}
+		cout << '\n';
+	}
+
+	static void printOne(const vector<string>& v) {
+		for (auto a : v) {
+			printOne(a);
 			cout << '\n';
 		}
 		cout << '\n';

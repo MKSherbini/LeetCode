@@ -25,7 +25,7 @@ private:
 	template<typename T, typename R, typename ...Args>
 	void run(T t, R res, Args ... r) {
 		R ret = t.solution(r...);
-		Printer::print(ret);
+		Printer::printOne(ret);
 		if (anyOrder)
 			Sorter::sort(ret), Sorter::sort(res);
 		bool acc = Validator::valid(ret, res);
