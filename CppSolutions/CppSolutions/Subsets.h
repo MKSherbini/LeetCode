@@ -34,7 +34,7 @@ public:
 			ans.push_back(row);
 			set--;
 		}
-		Printer::printAll(ans.size());
+		Printer::print(ans.size());
 		return ans;
 	}
 	vector<vector<vector<int>>> output = {
