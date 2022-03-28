@@ -214,6 +214,7 @@
     <ClInclude Include="RichestCustomerWealth.h" />
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="RottingOranges.h" />
+    <ClInclude Include="RunningSumOf1dArray.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
@@ -239,6 +240,7 @@
     <ClInclude Include="ValidParentheses.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="input.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

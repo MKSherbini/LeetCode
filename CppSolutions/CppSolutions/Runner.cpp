@@ -1,10 +1,14 @@
-#include "SubsetsII.h"
+#include "RunningSumOf1dArray.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
 
+//#include <bits/stdc++.h>
+//using namespace std;
+
 int main()
 {
 	freopen("output.txt", "w", stdout);
-	Runner(true).run<SubsetsII>();
+	freopen("input.txt", "r", stdin);
+	Runner(true).run<RunningSumOf1dArray>();
 }
