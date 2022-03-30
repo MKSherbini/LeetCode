@@ -269,6 +269,7 @@
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="RunningSumOf1dArray.h" />
+    <ClInclude Include="DefangingAnIpAddress.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

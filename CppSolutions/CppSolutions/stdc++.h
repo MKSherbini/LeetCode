@@ -32,6 +32,7 @@
 #include "Runner.h"
 #include <unordered_map>
 #include <unordered_set>
+#include <regex>
 #include "Printer.h"
 #include "Validator.h"
 #include "Sorter.h"

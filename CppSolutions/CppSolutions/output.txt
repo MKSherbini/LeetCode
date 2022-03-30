@@ -1,9 +1,4 @@
-1 3 6 10 
-judge: Accepted
+1[.]1[.]1[.]1 judge: Accepted
 
-1 2 3 4 5 
-judge: Accepted
-
-3 4 6 16 17 
-judge: Accepted
+255[.]100[.]50[.]0 judge: Accepted
 
