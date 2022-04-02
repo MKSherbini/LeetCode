@@ -156,6 +156,7 @@
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
+    <ClInclude Include="D1000000.h" />
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DefangingAnIpAddress.h" />
     <ClInclude Include="DesignParkingSystem.h" />
@@ -180,8 +181,11 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="PowerOfTwo.h" />
+    <ClInclude Include="Printing3D.h" />
+    <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />

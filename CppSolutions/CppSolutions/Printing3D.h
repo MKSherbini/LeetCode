@@ -1,16 +1,9 @@
-#include "PermutationsII.h"
-#include "stdc++.h"
-
-// todo improve printing + examples running
-
 //#include <bits/stdc++.h>
-//using namespace std;
+using namespace std;
+#include "stdc++.h"
 
 int main()
 {
-	freopen("output.txt", "w", stdout);
-	freopen("input.txt", "r", stdin);
-	//Runner(true).run<PermutationsII>();
 
 	int T;
 	cin >> T;

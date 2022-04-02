@@ -18,6 +18,9 @@
       <Extensions>
       </Extensions>
     </Filter>
+    <Filter Include="GoogleCodeJam">
+      <UniqueIdentifier>{14101eef-261e-45dd-b922-cceba5db5677}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Runner.cpp">
@@ -270,6 +273,16 @@
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="RunningSumOf1dArray.h" />
     <ClInclude Include="DefangingAnIpAddress.h" />
+    <ClInclude Include="PermutationsII.h" />
+    <ClInclude Include="D1000000.h">
+      <Filter>GoogleCodeJam</Filter>
+    </ClInclude>
+    <ClInclude Include="Printing3D.h">
+      <Filter>GoogleCodeJam</Filter>
+    </ClInclude>
+    <ClInclude Include="PunchedCards.h">
+      <Filter>GoogleCodeJam</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
