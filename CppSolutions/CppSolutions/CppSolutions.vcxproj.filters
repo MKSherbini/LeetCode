@@ -256,24 +256,6 @@
     <ClInclude Include="Sum3.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="IntervalListIntersections.h" />
-    <ClInclude Include="ContainerWithMostWater.h" />
-    <ClInclude Include="FindAllAnagramsInAString.h" />
-    <ClInclude Include="SubarrayProductLessThanK.h" />
-    <ClInclude Include="MinimumSizeSubarraySum.h" />
-    <ClInclude Include="NumberOfIslands.h" />
-    <ClInclude Include="NumberOfProvinces.h" />
-    <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
-    <ClInclude Include="Utils.h" />
-    <ClInclude Include="SubtreeOfAnotherTree.h" />
-    <ClInclude Include="ShortestPathInBinaryMatrix.h" />
-    <ClInclude Include="SurroundedRegions.h" />
-    <ClInclude Include="AllPathsFromSourceToTarget.h" />
-    <ClInclude Include="Subsets.h" />
-    <ClInclude Include="SubsetsII.h" />
-    <ClInclude Include="RunningSumOf1dArray.h" />
-    <ClInclude Include="DefangingAnIpAddress.h" />
-    <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="D1000000.h">
       <Filter>GoogleCodeJam</Filter>
     </ClInclude>
@@ -282,6 +264,60 @@
     </ClInclude>
     <ClInclude Include="PunchedCards.h">
       <Filter>GoogleCodeJam</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="AllPathsFromSourceToTarget.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DefangingAnIpAddress.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindAllAnagramsInAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntervalListIntersections.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSizeSubarraySum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfIslands.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfProvinces.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutationsII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RunningSumOf1dArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestPathInBinaryMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubarrayProductLessThanK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Subsets.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubsetsII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubtreeOfAnotherTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SurroundedRegions.h">
+      <Filter>Solutions</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
