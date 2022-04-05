@@ -116,7 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp17</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
+    <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
@@ -173,6 +174,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="IntervalListIntersections.h" />
+    <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />

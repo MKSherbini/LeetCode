@@ -21,6 +21,9 @@
     <Filter Include="GoogleCodeJam">
       <UniqueIdentifier>{14101eef-261e-45dd-b922-cceba5db5677}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Algs">
+      <UniqueIdentifier>{ae67b1fb-86e3-418a-af54-a062909d582b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Runner.cpp">
@@ -318,6 +321,10 @@
     </ClInclude>
     <ClInclude Include="SurroundedRegions.h">
       <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="KClosestPointsToOrigin.h" />
+    <ClInclude Include="ArticulatePoint.h">
+      <Filter>Algs</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
