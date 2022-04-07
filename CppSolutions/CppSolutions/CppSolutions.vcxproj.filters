@@ -326,6 +326,7 @@
     <ClInclude Include="ArticulatePoint.h">
       <Filter>Algs</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,4 +1,4 @@
-﻿#include "KClosestPointsToOrigin.h"
+﻿#include "MinimumSumOfFourDigitNumberAfterSplittingDigits.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -10,5 +10,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<KClosestPointsToOrigin>();
+	Runner(true).run<MinimumSumOfFourDigitNumberAfterSplittingDigits>();
 }
