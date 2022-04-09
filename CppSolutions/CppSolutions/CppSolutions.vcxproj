@@ -161,6 +161,7 @@
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DefangingAnIpAddress.h" />
     <ClInclude Include="DesignParkingSystem.h" />
+    <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
@@ -176,6 +177,7 @@
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
+    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />

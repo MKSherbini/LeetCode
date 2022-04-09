@@ -1,4 +1,21 @@
-52 judge: Accepted
+ad 
+ae 
+af 
+bd 
+be 
+bf 
+cd 
+ce 
+cf 
 
-13 judge: Accepted
+judge: Accepted
+
+
+judge: Accepted
+
+a 
+b 
+c 
+
+judge: Accepted
 

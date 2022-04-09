@@ -327,6 +327,8 @@
       <Filter>Algs</Filter>
     </ClInclude>
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
+    <ClInclude Include="DoubleorOneThing.h" />
+    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
