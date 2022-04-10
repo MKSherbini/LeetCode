@@ -329,6 +329,7 @@
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
+    <ClInclude Include="GenerateParentheses.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
