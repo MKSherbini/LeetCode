@@ -1,4 +1,4 @@
-﻿#include "GenerateParentheses.h"
+﻿#include "WordSearch.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<GenerateParentheses>();
+	Runner(true).run<WordSearch>();
 }

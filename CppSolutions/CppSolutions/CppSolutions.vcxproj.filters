@@ -330,6 +330,7 @@
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="WordSearch.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
