@@ -175,6 +175,7 @@
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
+    <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />

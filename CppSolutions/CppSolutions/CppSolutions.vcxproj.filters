@@ -331,6 +331,7 @@
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="WordSearch.h" />
+    <ClInclude Include="HouseRobberIi.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
