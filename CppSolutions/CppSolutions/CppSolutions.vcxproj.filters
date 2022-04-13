@@ -332,6 +332,7 @@
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="HouseRobberIi.h" />
+    <ClInclude Include="JumpGame.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
