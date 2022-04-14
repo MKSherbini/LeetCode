@@ -178,6 +178,7 @@
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="JumpGame.h" />
+    <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />

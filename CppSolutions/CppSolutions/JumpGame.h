@@ -13,8 +13,7 @@ public:
 		return curse(nums, mem, 0);
 	}
 	bool curse(vector<int>& nums, vector<int>& mem, int i) {
-		if (i >= nums.size()) return 0;
-		if (i + 1 == nums.size()) return 1;
+		if (i + 1 >= nums.size()) return 1;
 		if (mem[i] != -1) return mem[i];
 
 		bool ret = 0;

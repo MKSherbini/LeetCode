@@ -333,6 +333,7 @@
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="JumpGame.h" />
+    <ClInclude Include="JumpGameII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
