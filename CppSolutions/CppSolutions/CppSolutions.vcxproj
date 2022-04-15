@@ -249,6 +249,7 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
+    <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidParentheses.h" />

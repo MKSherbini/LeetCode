@@ -334,6 +334,7 @@
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
+    <ClInclude Include="UniquePaths.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

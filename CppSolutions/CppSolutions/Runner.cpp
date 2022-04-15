@@ -1,4 +1,4 @@
-﻿#include "JumpGameII.h"
+﻿#include "UniquePaths.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<JumpGameII>();
+	Runner(true).run<UniquePaths>();
 }
