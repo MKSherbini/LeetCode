@@ -182,6 +182,7 @@
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
+    <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
