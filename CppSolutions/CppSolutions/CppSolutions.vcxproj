@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
+    <ClInclude Include="ArithmeticSlices.h" />
     <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />

@@ -336,6 +336,7 @@
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
+    <ClInclude Include="ArithmeticSlices.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
