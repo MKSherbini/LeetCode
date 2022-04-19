@@ -337,6 +337,7 @@
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="ArithmeticSlices.h" />
+    <ClInclude Include="DecodeWays.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

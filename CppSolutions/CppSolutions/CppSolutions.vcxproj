@@ -159,6 +159,7 @@
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="D1000000.h" />
+    <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DefangingAnIpAddress.h" />
     <ClInclude Include="DesignParkingSystem.h" />

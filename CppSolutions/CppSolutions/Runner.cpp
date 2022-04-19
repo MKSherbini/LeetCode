@@ -1,4 +1,4 @@
-﻿#include "ArithmeticSlices.h"
+﻿#include "DecodeWays.h"
 #include "stdc++.h"
 
 // todo improve printing + examples running
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<ArithmeticSlices>();
+	Runner(true).run<DecodeWays>();
 }
