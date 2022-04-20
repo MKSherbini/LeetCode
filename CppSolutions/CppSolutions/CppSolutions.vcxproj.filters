@@ -338,6 +338,7 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="ArithmeticSlices.h" />
     <ClInclude Include="DecodeWays.h" />
+    <ClInclude Include="WordBreak.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
