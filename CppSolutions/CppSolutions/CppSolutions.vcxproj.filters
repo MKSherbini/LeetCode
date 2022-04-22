@@ -339,6 +339,7 @@
     <ClInclude Include="ArithmeticSlices.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="WordBreak.h" />
+    <ClInclude Include="LongestIncreasingSubsequence.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
