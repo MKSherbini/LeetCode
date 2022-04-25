@@ -340,6 +340,8 @@
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
+    <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
+    <ClInclude Include="LongestCommonSubsequence.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

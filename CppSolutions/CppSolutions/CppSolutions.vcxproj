@@ -184,6 +184,7 @@
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
+    <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
@@ -193,6 +194,7 @@
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfIslands.h" />
+    <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfProvinces.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
