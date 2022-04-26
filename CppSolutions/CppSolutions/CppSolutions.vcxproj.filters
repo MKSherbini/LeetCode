@@ -342,6 +342,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="DeleteOperationForTwoStrings.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
