@@ -165,6 +165,7 @@
     <ClInclude Include="DeleteOperationForTwoStrings.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DoubleorOneThing.h" />
+    <ClInclude Include="EditDistance.h" />
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
