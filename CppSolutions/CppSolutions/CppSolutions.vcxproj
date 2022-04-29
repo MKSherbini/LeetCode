@@ -153,6 +153,7 @@
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="ClimbingStairs.h" />
+    <ClInclude Include="CoinChange.h" />
     <ClInclude Include="Combinations.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />

@@ -344,6 +344,7 @@
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="DeleteOperationForTwoStrings.h" />
     <ClInclude Include="EditDistance.h" />
+    <ClInclude Include="CoinChange.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
