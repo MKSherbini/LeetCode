@@ -345,6 +345,9 @@
     <ClInclude Include="DeleteOperationForTwoStrings.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="CoinChange.h" />
+    <ClInclude Include="LetterBlocks.h">
+      <Filter>GoogleCodeJam</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

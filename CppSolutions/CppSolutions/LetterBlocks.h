@@ -1,18 +1,9 @@
-﻿#include "CoinChange.h"
-#include "stdc++.h"
+#include <bits/stdc++.h>
+using namespace std;
 
-// todo improve printing + examples running
-
-//#include <bits/stdc++.h>
-//using namespace std;
-
-
+// WA
 int main()
 {
-	freopen("output.txt", "w", stdout);
-	freopen("input.txt", "r", stdin);
-	//Runner(true).run<CoinChange>();
-
 	int T;
 	cin >> T;
 	for (size_t t = 1; t <= T; t++)

@@ -186,6 +186,7 @@
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="LengthOfLastWord.h" />
+    <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
