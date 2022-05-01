@@ -1,7 +1,6 @@
-Case #1: JAMMICCODEEELXYZZZZZ
-Case #2: IMPOSSIBLE
-Case #3: IMPOSSIBLE
-Case #4: IMPOSSIBLE
-Case #5: BBBBBAAAAA
-Case #6: IMPOSSIBLE
-Case #7: IIIIIMMMMMZZZ
+1 judge: Accepted
+
+1 1 2 3 4 6 9 12 18 27 36 
+
+36 judge: Accepted
+

@@ -151,6 +151,7 @@
     <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
+    <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CoinChange.h" />
@@ -181,6 +182,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIi.h" />
+    <ClInclude Include="IntegerBreak.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />

@@ -348,6 +348,8 @@
     <ClInclude Include="LetterBlocks.h">
       <Filter>GoogleCodeJam</Filter>
     </ClInclude>
+    <ClInclude Include="IntegerBreak.h" />
+    <ClInclude Include="BitwiseAndOfNumbersRange.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
