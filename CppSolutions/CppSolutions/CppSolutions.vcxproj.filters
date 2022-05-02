@@ -350,6 +350,8 @@
     </ClInclude>
     <ClInclude Include="IntegerBreak.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
+    <ClInclude Include="ShuffleAnArray.h" />
+    <ClInclude Include="MaxPointsOnALine.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

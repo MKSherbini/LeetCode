@@ -194,6 +194,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
+    <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="NQueens.h" />
@@ -244,6 +245,7 @@
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
     <ClInclude Include="SingleNumber.h" />
