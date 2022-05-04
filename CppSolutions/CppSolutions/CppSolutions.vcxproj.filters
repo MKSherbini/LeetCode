@@ -352,6 +352,7 @@
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="MaxPointsOnALine.h" />
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

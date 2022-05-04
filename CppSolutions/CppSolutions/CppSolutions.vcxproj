@@ -245,6 +245,7 @@
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
