@@ -194,6 +194,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
+    <ClInclude Include="MaxNumberOfKSumPairs.h" />
     <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
