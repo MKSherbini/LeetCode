@@ -354,6 +354,8 @@
     <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
+    <ClInclude Include="FlattenNestedListIterator.h" />
+    <ClInclude Include="MaximumSubarray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
