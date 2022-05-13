@@ -356,6 +356,7 @@
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="MaximumSubarray.h" />
+    <ClInclude Include="CombinationSum.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

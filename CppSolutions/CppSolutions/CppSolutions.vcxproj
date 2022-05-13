@@ -156,6 +156,7 @@
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CoinChange.h" />
     <ClInclude Include="Combinations.h" />
+    <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
