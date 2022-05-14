@@ -1,24 +1,22 @@
-7 
-2 2 3 
+2 6 
+1 7 
+1 2 5 
+1 1 6 
 
 judge: Accepted
 
-6 6 
-3 3 6 
-3 3 3 3 
-2 3 7 
-2 2 2 6 
-2 2 2 3 3 
-2 2 2 2 2 2 
+5 
+1 2 2 
 
 judge: Accepted
 
-3 5 
-2 3 3 
-2 2 2 2 
 
 judge: Accepted
 
+2 6 
+1 7 
+1 2 5 
+1 1 6 
 
 judge: Accepted
 

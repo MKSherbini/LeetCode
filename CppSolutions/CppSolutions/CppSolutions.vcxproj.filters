@@ -357,6 +357,7 @@
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="CombinationSum.h" />
+    <ClInclude Include="CombinationSumII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
