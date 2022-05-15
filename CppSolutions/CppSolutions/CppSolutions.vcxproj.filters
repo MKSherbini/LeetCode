@@ -322,42 +322,102 @@
     <ClInclude Include="SurroundedRegions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="ArticulatePoint.h">
       <Filter>Algs</Filter>
     </ClInclude>
-    <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
-    <ClInclude Include="DoubleorOneThing.h" />
-    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
-    <ClInclude Include="GenerateParentheses.h" />
-    <ClInclude Include="WordSearch.h" />
-    <ClInclude Include="HouseRobberIi.h" />
-    <ClInclude Include="JumpGame.h" />
-    <ClInclude Include="JumpGameII.h" />
-    <ClInclude Include="UniquePaths.h" />
-    <ClInclude Include="LongestPalindromicSubstring.h" />
-    <ClInclude Include="ArithmeticSlices.h" />
-    <ClInclude Include="DecodeWays.h" />
-    <ClInclude Include="WordBreak.h" />
-    <ClInclude Include="LongestIncreasingSubsequence.h" />
-    <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
-    <ClInclude Include="LongestCommonSubsequence.h" />
-    <ClInclude Include="DeleteOperationForTwoStrings.h" />
-    <ClInclude Include="EditDistance.h" />
-    <ClInclude Include="CoinChange.h" />
     <ClInclude Include="LetterBlocks.h">
       <Filter>GoogleCodeJam</Filter>
     </ClInclude>
-    <ClInclude Include="IntegerBreak.h" />
-    <ClInclude Include="BitwiseAndOfNumbersRange.h" />
-    <ClInclude Include="ShuffleAnArray.h" />
-    <ClInclude Include="MaxPointsOnALine.h" />
-    <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
-    <ClInclude Include="MaxNumberOfKSumPairs.h" />
-    <ClInclude Include="FlattenNestedListIterator.h" />
-    <ClInclude Include="MaximumSubarray.h" />
-    <ClInclude Include="CombinationSum.h" />
-    <ClInclude Include="CombinationSumII.h" />
+    <ClInclude Include="ArithmeticSlices.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BitwiseAndOfNumbersRange.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinChange.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DecodeWays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteOperationForTwoStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleorOneThing.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="EditDistance.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenNestedListIterator.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobberIi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerBreak.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpGame.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpGameII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="KClosestPointsToOrigin.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinationsOfAPhoneNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestCommonSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestIncreasingSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxNumberOfKSumPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxPointsOnALine.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfLongestIncreasingSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShuffleAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePaths.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="WordBreak.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="WordSearch.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
