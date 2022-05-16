@@ -1,22 +1,12 @@
-2 6 
-1 7 
-1 2 5 
-1 1 6 
+bab judge: Accepted
 
-judge: Accepted
+bab judge: Accepted
 
-5 
-1 2 2 
+bb judge: Accepted
 
-judge: Accepted
+baaab judge: Accepted
 
+a judge: Accepted
 
-judge: Accepted
-
-2 6 
-1 7 
-1 2 5 
-1 1 6 
-
-judge: Accepted
+aca judge: Accepted
 
