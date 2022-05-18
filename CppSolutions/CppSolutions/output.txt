@@ -1,12 +1,6 @@
-bab judge: Accepted
+2 judge: Accepted
 
-bab judge: Accepted
+5 judge: Accepted
 
-bb judge: Accepted
-
-baaab judge: Accepted
-
-a judge: Accepted
-
-aca judge: Accepted
+3 judge: Accepted
 
