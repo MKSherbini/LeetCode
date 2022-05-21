@@ -418,6 +418,7 @@
     <ClInclude Include="WordSearch.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SubstringWithLargestVariance.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
