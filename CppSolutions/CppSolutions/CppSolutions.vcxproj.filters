@@ -419,6 +419,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="SubstringWithLargestVariance.h" />
+    <ClInclude Include="MergeSortedArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
