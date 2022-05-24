@@ -186,6 +186,7 @@
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="IntegerBreak.h" />
+    <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />

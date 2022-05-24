@@ -420,6 +420,7 @@
     </ClInclude>
     <ClInclude Include="SubstringWithLargestVariance.h" />
     <ClInclude Include="MergeSortedArray.h" />
+    <ClInclude Include="IntersectionOfTwoArraysIi.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
