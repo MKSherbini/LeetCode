@@ -421,6 +421,7 @@
     <ClInclude Include="SubstringWithLargestVariance.h" />
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
+    <ClInclude Include="ReshapeTheMatrix.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

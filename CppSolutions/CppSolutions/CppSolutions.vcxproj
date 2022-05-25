@@ -216,6 +216,7 @@
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
+    <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="RingsAndRods.h" />
