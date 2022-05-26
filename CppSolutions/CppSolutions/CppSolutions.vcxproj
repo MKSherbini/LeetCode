@@ -210,6 +210,7 @@
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="PowerOfTwo.h" />
