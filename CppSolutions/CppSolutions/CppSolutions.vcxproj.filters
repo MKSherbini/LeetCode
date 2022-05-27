@@ -423,6 +423,7 @@
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="PascalsTriangle.h" />
+    <ClInclude Include="ValidSudoku.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
