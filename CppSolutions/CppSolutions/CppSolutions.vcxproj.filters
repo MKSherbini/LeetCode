@@ -424,6 +424,7 @@
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="ValidSudoku.h" />
+    <ClInclude Include="MissingNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
