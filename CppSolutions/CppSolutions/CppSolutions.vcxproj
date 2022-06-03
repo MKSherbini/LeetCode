@@ -177,6 +177,7 @@
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
+    <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="GenerateParentheses.h" />
@@ -278,6 +279,7 @@
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="Utils.h" />
+    <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidSudoku.h" />
