@@ -428,6 +428,7 @@
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="ValidAnagram.h" />
+    <ClInclude Include="LinkedListCycle.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
