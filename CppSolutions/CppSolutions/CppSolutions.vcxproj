@@ -186,6 +186,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIi.h" />
+    <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IntegerBreak.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="IntervalListIntersections.h" />

@@ -429,6 +429,7 @@
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="LinkedListCycle.h" />
+    <ClInclude Include="ImplementQueueUsingStacks.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
