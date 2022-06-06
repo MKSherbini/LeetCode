@@ -430,6 +430,7 @@
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

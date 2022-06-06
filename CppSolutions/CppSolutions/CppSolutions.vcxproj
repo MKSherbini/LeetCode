@@ -189,6 +189,7 @@
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IntegerBreak.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
