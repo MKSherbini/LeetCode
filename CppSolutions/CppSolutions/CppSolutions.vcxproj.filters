@@ -431,6 +431,10 @@
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
+    <ClInclude Include="RemoveLinkedListElements.h" />
+    <ClInclude Include="LinkedListSupport.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

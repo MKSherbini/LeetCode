@@ -5,6 +5,12 @@ using namespace std;
 class Validator
 {
 public:
+	static int8_t valid(ListNode* node, ListNode* node2) {
+		if (node && node2)
+			return  node->val == node2->val && valid(node->next, node2->next);
+		return  (!node ^ !node2) == 0;
+	}
+
 	template<typename T>
 	static int8_t valid(const T& v, const T& v2) {
 		return v == v2;

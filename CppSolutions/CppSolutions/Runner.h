@@ -19,6 +19,16 @@ public:
 		run<T, T::inputs>();
 	}
 
+	template<typename T, int n>
+	void runList() {
+		runList<T, n>(T());
+	}
+
+	template<typename T>
+	void runList() {
+		runList<T, T::inputs>();
+	}
+
 private:
 	bool anyOrder = false;
 
@@ -48,11 +58,17 @@ private:
 	void run(T t) {
 		for (int i = 0; i < t.output.size(); i++)
 			run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i]);
-	}	
-	
+	}
+
 	template<typename T, int params, typename std::enable_if<params == 4, int*>::type = nullptr>
 	void run(T t) {
 		for (int i = 0; i < t.output.size(); i++)
 			run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i], t.input4[i]);
+	}
+
+	template<typename T, int params, typename std::enable_if<params == 2, int*>::type = nullptr>
+	void runList(T t) {
+		for (int i = 0; i < t.output.size(); i++)
+			run(t, LinkedListSupport::create(t.output[i]), LinkedListSupport::create(t.input1[i]), t.input2[i]);
 	}
 };

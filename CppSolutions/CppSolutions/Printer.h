@@ -19,6 +19,16 @@ public:
 		cout << '\n';
 	}
 
+	static void printOne(ListNode* head) {
+		auto t = head;
+		while (t)
+		{
+			cout << t->val << " ";
+			t = t->next;
+		}
+		cout << endl;
+	}
+
 	template<typename T>
 	static void printOne(const vector<T>& v) {
 		for (auto a : v) {

@@ -198,6 +198,7 @@
     <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LinkedListCycle.h" />
+    <ClInclude Include="LinkedListSupport.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
@@ -223,6 +224,7 @@
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
+    <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
