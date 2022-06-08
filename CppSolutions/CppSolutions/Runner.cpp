@@ -1,5 +1,5 @@
-﻿#include "IntersectionOfTwoLinkedLists.h"
-#include "stdc++.h"
+﻿#include "stdc++.h"
+#include "RemoveLinkedListElements.h"
 
 // todo improve printing + examples running
 
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<IntersectionOfTwoLinkedLists>();
+	Runner(true).runList<RemoveLinkedListElements>();
 }
