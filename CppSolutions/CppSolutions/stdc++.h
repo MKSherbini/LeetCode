@@ -37,6 +37,7 @@
 #include "Printer.h"
 #include "Sorter.h"
 #include "LinkedListSupport.h"
+#include "TreeSupport.h"
 #include "Utils.h"
 
  // C

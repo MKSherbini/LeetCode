@@ -435,6 +435,10 @@
     <ClInclude Include="LinkedListSupport.h">
       <Filter>Helpers</Filter>
     </ClInclude>
+    <ClInclude Include="TreeSupport.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePreorderTraversal.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

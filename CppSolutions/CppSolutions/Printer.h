@@ -29,6 +29,19 @@ public:
 		cout << endl;
 	}
 
+	static const int SPACING = 1;
+
+	static void printOne(TreeNode* root, int space = 0) {
+		if (root == NULL)
+			return;
+		space += SPACING;
+		printOne(root->right, space);
+		for (int i = SPACING; i < space; i++)
+			cout << "\t";
+		cout << root->val << "\n";
+		printOne(root->left, space);
+	}
+
 	template<typename T>
 	static void printOne(const vector<T>& v) {
 		for (auto a : v) {
