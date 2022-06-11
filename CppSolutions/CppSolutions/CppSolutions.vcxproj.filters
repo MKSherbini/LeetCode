@@ -439,6 +439,7 @@
       <Filter>Helpers</Filter>
     </ClInclude>
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
+    <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
