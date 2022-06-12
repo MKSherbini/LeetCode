@@ -440,6 +440,7 @@
     </ClInclude>
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
+    <ClInclude Include="MaximumErasureValue.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
