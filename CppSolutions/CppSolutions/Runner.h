@@ -81,6 +81,12 @@ private:
 	void runList(T t) {
 		for (int i = 0; i < t.output.size(); i++)
 			run(t, LinkedListSupport::create(t.output[i]), LinkedListSupport::create(t.input1[i]), t.input2[i]);
+	}	
+	
+	template<typename T, int params, typename std::enable_if<params == 1, int*>::type = nullptr>
+	void runList(T t) {
+		for (int i = 0; i < t.output.size(); i++)
+			run(t, LinkedListSupport::create(t.output[i]), LinkedListSupport::create(t.input1[i]));
 	}
 
 	template<typename T, int params, typename std::enable_if<params == 1, int*>::type = nullptr>

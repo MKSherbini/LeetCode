@@ -21,6 +21,10 @@ public:
 		return root;
 	}
 
+	static ListNode* create(int v) {
+		return v ? new ListNode(v) : NULL;
+	}
+
 	static ListNode* reverse(ListNode* head) {
 		ListNode* nxt = NULL;
 		while (head)

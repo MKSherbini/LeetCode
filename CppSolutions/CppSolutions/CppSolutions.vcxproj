@@ -199,6 +199,7 @@
     <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
     <ClInclude Include="LinkedListCycle.h" />
+    <ClInclude Include="LinkedListCycleIi.h" />
     <ClInclude Include="LinkedListSupport.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
