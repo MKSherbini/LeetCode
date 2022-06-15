@@ -442,6 +442,7 @@
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="LinkedListCycleIi.h" />
+    <ClInclude Include="LongestStringChain.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

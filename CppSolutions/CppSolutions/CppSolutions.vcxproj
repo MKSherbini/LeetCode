@@ -204,6 +204,7 @@
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
+    <ClInclude Include="LongestStringChain.h" />
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />

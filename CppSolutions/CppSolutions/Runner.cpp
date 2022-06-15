@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "LinkedListCycleIi.h"
+#include "LongestStringChain.h"
 
 // todo improve printing + examples running
 
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).runList<LinkedListCycleIi>();
+	Runner(false).run<LongestStringChain>();
 }
