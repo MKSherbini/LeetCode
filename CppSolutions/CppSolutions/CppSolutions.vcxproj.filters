@@ -443,6 +443,7 @@
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="LinkedListCycleIi.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="BinaryTreeCameras.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "LongestStringChain.h"
+#include "BinaryTreeCameras.h"
 
 // todo improve printing + examples running
 
@@ -11,5 +11,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<LongestStringChain>();
+	Runner(false).runTree<BinaryTreeCameras>();
 }
