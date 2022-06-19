@@ -68,6 +68,16 @@ public:
 		cout << '\n';
 	}
 
+	template<typename T, typename R>
+	static void printOne(const unordered_map<T, R>& v) {
+		for (auto a : v) {
+			printOne(a.first);
+			cout << ": ";
+			printOne(a.second);
+		}
+		cout << '\n';
+	}
+
 	static void printOne(const vector<string>& v) {
 		for (auto a : v) {
 			printOne(a);

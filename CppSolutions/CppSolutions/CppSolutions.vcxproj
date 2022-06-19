@@ -190,6 +190,7 @@
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IntegerBreak.h" />
+    <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="IntervalListIntersections.h" />
@@ -227,6 +228,7 @@
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="PowerOfTwo.h" />
+    <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
