@@ -446,6 +446,7 @@
     <ClInclude Include="BinaryTreeCameras.h" />
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
+    <ClInclude Include="SearchSuggestionsSystem.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

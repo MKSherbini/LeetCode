@@ -1,187 +1,51 @@
-bc : 3 9 
-c : 0 6 8 1 
-cabcbbbc : 6 
-accabac : 5 
-cab : 0 6 
-ca : 0 6 8 
-caba : 0 
-cabaab : 0 
-cabaa : 0 
-cabcbbbcc : 6 
-cabaaba : 0 
-cabc : 6 
-accabacc : 5 
-cabcbbbcca : 6 
-accabacca : 5 
-cabaabaa : 0 
-accabaccaa : 5 
-bacaabc : 2 
-ccbcabab : 1 
-cabaabaaa : 0 
-abcac : 4 
-ccbcababa : 1 
-cabaabaaaa : 0 
-bcc : 9 
-ccbca : 1 
-cc : 1 
-bcbbcbac : 3 
-bccb : 9 
-ccbcab : 1 
-ccb : 1 
-bcb : 3 
-ccbc : 1 
-bcbbcbaca : 3 
-bccba : 9 
-ccbcaba : 1 
-bcbb : 3 
-ba : 2 
-abcacc : 4 
-a : 7 4 5 
-ccbcababac : 1 
-b : 2 3 9 
-ac : 5 
-bacaabccb : 2 
-bac : 2 
-bacaabccba : 2 
-baca : 2 
-bacaa : 2 
-bacaab : 2 
-abcaccbcaa : 4 
-bacaabcc : 2 
-bccbac : 9 
-bcbbc : 3 
-bccbacb : 9 
-bcbbcb : 3 
-bcbbcba : 3 
-bcbbcbacaa : 3 
-abcaccb : 4 
-ab : 7 4 
-abcaccbc : 4 
-abc : 4 
-cac : 8 
-abcaccbca : 4 
-abca : 4 
-acc : 5 
-acca : 5 
-accab : 5 
-cabcbbb : 6 
-accaba : 5 
-cabcb : 6 
-cabcbb : 6 
-aba : 7 
-abab : 7 
-ababc : 7 
-ababcc : 7 
-ababcca : 7 
-ababccab : 7 
-ababccabc : 7 
-caccbbcba : 8 
-ababccabcb : 7 
-cacc : 8 
-caccb : 8 
-caccbb : 8 
-caccbbc : 8 
-caccbbcb : 8 
-caccbbcbab : 8 
-bccbacbc : 9 
-bccbacbcb : 9 
-bccbacbcba : 9 
+mobile 
+moneypot 
+monitor 
 
-aabccba : 2 
-ba : 2 9 
-ccbcababac : 1 
-a : 4 5 2 3 9 0 6 
-aa : 4 5 3 0 
-aaa : 0 
-aaaa : 0 
-baaaa : 0 
-abaaaa : 0 
-ccbcaa : 4 
-bcca : 6 
-bbbcca : 6 
-cca : 6 
-bbcca : 6 
-aabaaaa : 0 
-baabaaaa : 0 
-abaabaaaa : 0 
-cabaabaaaa : 0 
-c : 1 
-bac : 1 
-ac : 1 
-babac : 1 
-bccba : 2 
-abac : 1 
-ccba : 2 
-ababac : 1 
-bcababac : 1 
-cababac : 1 
-b : 7 8 
-ccaa : 5 
-cbcababac : 1 
-accbcaa : 4 
-cba : 2 9 
-abccba : 2 
-caabccba : 2 
-bacaabccba : 2 
-acaabccba : 2 
-bcaa : 4 
-caa : 4 5 3 
-bacaa : 3 
-acaa : 3 
-cbacaa : 3 
-bbcbacaa : 3 
-bcbacaa : 3 
-bcbbcbacaa : 3 
-cbbcbacaa : 3 
-cbcaa : 4 
-bcaccbcaa : 4 
-bab : 8 
-caccbcaa : 4 
-bccabcb : 7 
-abcaccbcaa : 4 
-abcbbbcca : 6 
-baccaa : 5 
-accaa : 5 
-bcbbbcca : 6 
-cbbbcca : 6 
-abaccaa : 5 
-cabaccaa : 5 
-ccabaccaa : 5 
-accabaccaa : 5 
-ca : 6 
-cabcbbbcca : 6 
-bcb : 7 
-cb : 7 
-abcb : 7 
-cabcb : 7 
-ccabcb : 7 
-abccabcb : 7 
-babccabcb : 7 
-ababccabcb : 7 
-ab : 8 
-bbcbab : 8 
-cbab : 8 
-bcbab : 8 
-cbbcbab : 8 
-ccbbcbab : 8 
-accbbcbab : 8 
-caccbbcbab : 8 
-bcba : 9 
-cbcba : 9 
-acbcba : 9 
-bacbcba : 9 
-cbacbcba : 9 
-ccbacbcba : 9 
-bccbacbcba : 9 
+mobile 
+moneypot 
+monitor 
+
+mouse 
+mousepad 
+
+mouse 
+mousepad 
+
+mouse 
+mousepad 
 
 
-bccbacbcba a 9 
-ab abcaccbcaa 4 
-a aa 5 
-cabaaba abaaaa 0 
-cacc accbbcbab 8 
-ccbcab bac 1 
-bac cba 2 
-ac accabaccaa 5 
-bcbb aa 3 
-ccbca cbcababac 1 
+judge: Accepted
+
+havana 
+
+havana 
+
+havana 
+
+havana 
+
+havana 
+
+havana 
+
+
+judge: Accepted
+
+baggage 
+bags 
+banner 
+
+bags 
+baggage 
+banner 
+
+bags 
+baggage 
+
+bags 
+
+
+judge: Wrong answer
+
