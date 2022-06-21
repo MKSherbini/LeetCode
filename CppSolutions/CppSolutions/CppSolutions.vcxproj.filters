@@ -447,6 +447,7 @@
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
+    <ClInclude Include="ShortEncodingOfWords.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

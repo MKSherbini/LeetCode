@@ -1,51 +1,12 @@
-mobile 
-moneypot 
-monitor 
-
-mobile 
-moneypot 
-monitor 
-
-mouse 
-mousepad 
-
-mouse 
-mousepad 
-
-mouse 
-mousepad 
+em 
+emit 
+lleb 
 
 
-judge: Accepted
+10 judge: Accepted
 
-havana 
-
-havana 
-
-havana 
-
-havana 
-
-havana 
-
-havana 
+t 
 
 
-judge: Accepted
-
-baggage 
-bags 
-banner 
-
-bags 
-baggage 
-banner 
-
-bags 
-baggage 
-
-bags 
-
-
-judge: Wrong answer
+2 judge: Accepted
 

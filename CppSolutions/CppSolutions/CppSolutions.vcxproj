@@ -270,6 +270,7 @@
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
+    <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="ShuffleAnArray.h" />
