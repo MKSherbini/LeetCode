@@ -448,6 +448,7 @@
     <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
+    <ClInclude Include="FurthestBuildingYouCanReach.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

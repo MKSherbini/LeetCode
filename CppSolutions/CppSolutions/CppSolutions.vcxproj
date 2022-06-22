@@ -182,6 +182,7 @@
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FloodFill.h" />
+    <ClInclude Include="FurthestBuildingYouCanReach.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="HappyNumber.h" />

@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "ShortEncodingOfWords.h"
+#include "FurthestBuildingYouCanReach.h"
 
 // todo improve printing + examples running
 
@@ -11,6 +11,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<ShortEncodingOfWords>();
+	Runner(true).run<FurthestBuildingYouCanReach>();
 }
 
