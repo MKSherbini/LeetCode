@@ -449,6 +449,7 @@
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="FurthestBuildingYouCanReach.h" />
+    <ClInclude Include="KthLargestElementInAnArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
