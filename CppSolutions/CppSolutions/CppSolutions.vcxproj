@@ -164,6 +164,7 @@
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
+    <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="D1000000.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DecodeXoredArray.h" />
@@ -220,6 +221,7 @@
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MissingNumber.h" />
+    <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NumberOf1Bits.h" />

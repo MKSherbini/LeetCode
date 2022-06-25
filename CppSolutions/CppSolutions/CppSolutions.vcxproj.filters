@@ -450,6 +450,8 @@
     <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="FurthestBuildingYouCanReach.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
+    <ClInclude Include="CourseScheduleIii.h" />
+    <ClInclude Include="NonDecreasingArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
