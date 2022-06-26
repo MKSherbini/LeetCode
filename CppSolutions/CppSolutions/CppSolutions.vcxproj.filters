@@ -452,6 +452,7 @@
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="NonDecreasingArray.h" />
+    <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

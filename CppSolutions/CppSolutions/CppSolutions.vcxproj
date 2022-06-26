@@ -211,6 +211,7 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
     <ClInclude Include="MaximumErasureValue.h" />
+    <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MaximumSubarray.h" />
