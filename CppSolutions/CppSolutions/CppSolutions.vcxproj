@@ -218,6 +218,7 @@
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
     <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="MergeSortedArray.h" />
+    <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />

@@ -453,6 +453,7 @@
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
+    <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
