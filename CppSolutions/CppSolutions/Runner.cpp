@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "MinimumDeletionsToMakeCharacterFrequenciesUnique.h"
+#include "QueueReconstructionByHeight.h"
 
 // todo improve printing + examples running
 
@@ -11,6 +11,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<MinimumDeletionsToMakeCharacterFrequenciesUnique>();
+	Runner(false).run<QueueReconstructionByHeight>();
 }
 

@@ -454,6 +454,7 @@
     <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
+    <ClInclude Include="QueueReconstructionByHeight.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
