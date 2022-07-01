@@ -456,6 +456,7 @@
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
+    <ClInclude Include="MaximumUnitsOnATruck.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
