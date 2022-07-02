@@ -210,6 +210,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />

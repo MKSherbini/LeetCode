@@ -457,6 +457,7 @@
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MaximumUnitsOnATruck.h" />
+    <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
