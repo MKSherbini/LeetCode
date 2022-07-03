@@ -309,6 +309,7 @@
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidSudoku.h" />
+    <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearch.h" />
   </ItemGroup>
