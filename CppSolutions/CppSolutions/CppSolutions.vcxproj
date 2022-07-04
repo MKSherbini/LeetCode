@@ -155,6 +155,7 @@
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
+    <ClInclude Include="Candy.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CoinChange.h" />
     <ClInclude Include="Combinations.h" />

@@ -459,6 +459,7 @@
     <ClInclude Include="MaximumUnitsOnATruck.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="WiggleSubsequence.h" />
+    <ClInclude Include="Candy.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
