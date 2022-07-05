@@ -460,6 +460,8 @@
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="Candy.h" />
+    <ClInclude Include="LongestConsecutiveSequence.h" />
+    <ClInclude Include="UnionFind.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

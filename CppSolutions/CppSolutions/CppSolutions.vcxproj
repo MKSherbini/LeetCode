@@ -208,6 +208,7 @@
     <ClInclude Include="LinkedListCycleIi.h" />
     <ClInclude Include="LinkedListSupport.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
+    <ClInclude Include="LongestConsecutiveSequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
@@ -304,6 +305,7 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
+    <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />
