@@ -461,7 +461,9 @@
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="Candy.h" />
     <ClInclude Include="LongestConsecutiveSequence.h" />
-    <ClInclude Include="UnionFind.h" />
+    <ClInclude Include="UnionFind.h">
+      <Filter>Algs</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

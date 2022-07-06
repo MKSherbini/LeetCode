@@ -28,6 +28,7 @@ public:
 		3,
 		832040,
 	};
+	static constexpr int const& inputs = 1;
 	vector<int> input1 = {
 		2,
 		3,
