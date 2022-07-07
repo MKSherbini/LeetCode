@@ -464,6 +464,7 @@
     <ClInclude Include="UnionFind.h">
       <Filter>Algs</Filter>
     </ClInclude>
+    <ClInclude Include="InterleavingString.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

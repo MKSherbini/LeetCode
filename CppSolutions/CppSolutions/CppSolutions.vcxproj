@@ -193,6 +193,7 @@
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IntegerBreak.h" />
+    <ClInclude Include="InterleavingString.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
