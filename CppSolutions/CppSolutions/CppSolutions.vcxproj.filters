@@ -465,6 +465,7 @@
       <Filter>Algs</Filter>
     </ClInclude>
     <ClInclude Include="InterleavingString.h" />
+    <ClInclude Include="JumpGameVi.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

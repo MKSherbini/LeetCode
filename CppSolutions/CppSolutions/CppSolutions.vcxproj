@@ -200,6 +200,7 @@
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
+    <ClInclude Include="JumpGameVi.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="LengthOfLastWord.h" />
