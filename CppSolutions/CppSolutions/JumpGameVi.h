@@ -7,8 +7,24 @@ using namespace std;
 class JumpGameVi
 {
 public:
-	// 295 ms, faster than 56.42% : 93.5 MB, less than 42.46%
+	// 230 ms, faster than 80.23% : 90.2 MB, less than 52.95%
 	int solution(vector<int> nums, int k) {
+		int n = nums.size();
+
+		priority_queue<pair<int, int>> pq;
+		int ans = 0;
+
+		for (int i = n - 1; i >= 0; i--) {
+			while (!pq.empty() && pq.top().second > i + k)
+				pq.pop();
+
+			ans = nums[i] + (pq.empty() ? 0 : pq.top().first);
+			pq.push({ ans, i });
+		}
+		return ans;
+	}
+	// 295 ms, faster than 56.42% : 93.5 MB, less than 42.46%
+	int solution4(vector<int> nums, int k) {
 		int n = nums.size();
 		vector<int> mem(n, 0);
 
