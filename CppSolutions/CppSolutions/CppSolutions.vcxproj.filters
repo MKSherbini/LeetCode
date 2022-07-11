@@ -466,6 +466,7 @@
     </ClInclude>
     <ClInclude Include="InterleavingString.h" />
     <ClInclude Include="JumpGameVi.h" />
+    <ClInclude Include="MinCostClimbingStairs.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

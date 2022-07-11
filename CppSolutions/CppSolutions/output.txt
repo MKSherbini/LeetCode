@@ -1,6 +1,6 @@
-7 judge: Accepted
+25 
+25 judge: Wrong answer
 
-17 judge: Accepted
-
-0 judge: Accepted
+6 
+6 judge: Accepted
 
