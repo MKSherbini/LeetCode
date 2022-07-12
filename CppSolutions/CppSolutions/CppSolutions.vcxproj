@@ -153,6 +153,7 @@
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BinaryTreeCameras.h" />
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
+    <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Candy.h" />
@@ -214,6 +215,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
