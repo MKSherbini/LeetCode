@@ -469,6 +469,7 @@
     <ClInclude Include="MinCostClimbingStairs.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="MatchsticksToSquare.h" />
+    <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
