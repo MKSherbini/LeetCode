@@ -7,7 +7,7 @@ using namespace std;
 class MaxAreaOfIsland
 {
 public:
-	// 12 ms, faster than 96.06% : 23.1 MB, less than 98.03%
+	// 11 ms, faster than 99.5% : 23.1 MB, less than 89.29%
 	int solution(vector<vector<int>>& grid) {
 		int mx = 0;
 		for (int i = 0; i < grid.size(); i++)
@@ -20,7 +20,6 @@ public:
 		return mx;
 	}
 
-private:
 	int sink(vector<vector<int>>& arr, int i, int j) {
 		if (i < 0 || j < 0 || i >= arr.size() || j >= arr[0].size() || arr[i][j] == 0)
 			return 0;
@@ -31,5 +30,13 @@ private:
 			+ sink(arr, i, j + 1)
 			+ sink(arr, i, j - 1);
 	}
+	vector<int> output = {
+		6,
+		0
+	};
+	static constexpr int const& inputs = 1;
+	vector<vector<vector<int>>> input1 = {
+		{{0,0,1,0,0,0,0,1,0,0,0,0,0},{0,0,0,0,0,0,0,1,1,1,0,0,0},{0,1,1,0,1,0,0,0,0,0,0,0,0},{0,1,0,0,1,1,0,0,1,0,1,0,0},{0,1,0,0,1,1,0,0,1,1,1,0,0},{0,0,0,0,0,0,0,0,0,0,1,0,0},{0,0,0,0,0,0,0,1,1,1,0,0,0},{0,0,0,0,0,0,0,1,1,0,0,0,0}},
+		{{0,0,0,0,0,0,0,0}}
+	};
 };
-
