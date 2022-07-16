@@ -470,6 +470,7 @@
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
