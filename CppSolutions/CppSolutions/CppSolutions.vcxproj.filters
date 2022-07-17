@@ -418,59 +418,147 @@
     <ClInclude Include="WordSearch.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="SubstringWithLargestVariance.h" />
-    <ClInclude Include="MergeSortedArray.h" />
-    <ClInclude Include="IntersectionOfTwoArraysIi.h" />
-    <ClInclude Include="ReshapeTheMatrix.h" />
-    <ClInclude Include="PascalsTriangle.h" />
-    <ClInclude Include="ValidSudoku.h" />
-    <ClInclude Include="MissingNumber.h" />
-    <ClInclude Include="MaximumProductOfWordLengths.h" />
-    <ClInclude Include="FirstUniqueCharacterInAString.h" />
-    <ClInclude Include="ValidAnagram.h" />
-    <ClInclude Include="LinkedListCycle.h" />
-    <ClInclude Include="ImplementQueueUsingStacks.h" />
-    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
-    <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="LinkedListSupport.h">
       <Filter>Helpers</Filter>
     </ClInclude>
     <ClInclude Include="TreeSupport.h">
       <Filter>Helpers</Filter>
     </ClInclude>
-    <ClInclude Include="BinaryTreePreorderTraversal.h" />
-    <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
-    <ClInclude Include="MaximumErasureValue.h" />
-    <ClInclude Include="LinkedListCycleIi.h" />
-    <ClInclude Include="LongestStringChain.h" />
-    <ClInclude Include="BinaryTreeCameras.h" />
-    <ClInclude Include="PrefixAndSuffixSearch.h" />
-    <ClInclude Include="IntersectionOfTwoArrays.h" />
-    <ClInclude Include="SearchSuggestionsSystem.h" />
-    <ClInclude Include="ShortEncodingOfWords.h" />
-    <ClInclude Include="FurthestBuildingYouCanReach.h" />
-    <ClInclude Include="KthLargestElementInAnArray.h" />
-    <ClInclude Include="CourseScheduleIii.h" />
-    <ClInclude Include="NonDecreasingArray.h" />
-    <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
-    <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
-    <ClInclude Include="QueueReconstructionByHeight.h" />
-    <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
-    <ClInclude Include="MaximumUnitsOnATruck.h" />
-    <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
-    <ClInclude Include="WiggleSubsequence.h" />
-    <ClInclude Include="Candy.h" />
-    <ClInclude Include="LongestConsecutiveSequence.h" />
     <ClInclude Include="UnionFind.h">
       <Filter>Algs</Filter>
     </ClInclude>
-    <ClInclude Include="InterleavingString.h" />
-    <ClInclude Include="JumpGameVi.h" />
-    <ClInclude Include="MinCostClimbingStairs.h" />
-    <ClInclude Include="BinaryTreeRightSideView.h" />
-    <ClInclude Include="MatchsticksToSquare.h" />
-    <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
-    <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
+    <ClInclude Include="BinaryTreeCameras.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeLevelOrderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePreorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeRightSideView.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Candy.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseScheduleIii.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstUniqueCharacterInAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FurthestBuildingYouCanReach.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ImplementQueueUsingStacks.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="InterleavingString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoArrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoArraysIi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpGameVi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="KthLargestElementInAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycleIi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestConsecutiveSequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestStringChain.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchsticksToSquare.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumErasureValue.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumPointsYouCanObtainFromCards.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumProductOfWordLengths.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumUnitsOnATruck.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinCostClimbingStairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumOperationsToReduceXToZero.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NonDecreasingArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PascalsTriangle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefixAndSuffixSearch.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueReconstructionByHeight.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveLinkedListElements.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReshapeTheMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchSuggestionsSystem.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortEncodingOfWords.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubstringWithLargestVariance.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidAnagram.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidSudoku.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="WiggleSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
