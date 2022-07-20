@@ -241,6 +241,7 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
+    <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="NumberOfProvinces.h" />
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PermutationsII.h" />

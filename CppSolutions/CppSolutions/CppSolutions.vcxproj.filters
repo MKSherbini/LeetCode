@@ -559,6 +559,7 @@
     <ClInclude Include="WiggleSubsequence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfMatchingSubsequences.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
