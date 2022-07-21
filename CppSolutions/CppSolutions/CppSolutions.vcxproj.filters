@@ -560,6 +560,7 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
+    <ClInclude Include="ReverseLinkedListII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
