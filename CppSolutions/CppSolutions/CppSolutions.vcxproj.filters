@@ -561,6 +561,7 @@
     </ClInclude>
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
+    <ClInclude Include="PartitionList.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
