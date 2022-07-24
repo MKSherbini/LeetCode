@@ -168,6 +168,7 @@
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
+    <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="D1000000.h" />
     <ClInclude Include="DecodeWays.h" />
@@ -290,6 +291,7 @@
     <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="RunningSumOf1dArray.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
+    <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />

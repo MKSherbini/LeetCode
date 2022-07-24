@@ -562,6 +562,8 @@
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
     <ClInclude Include="PartitionList.h" />
+    <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
+    <ClInclude Include="SearchA2dMatrixII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
