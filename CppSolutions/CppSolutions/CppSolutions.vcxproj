@@ -218,6 +218,7 @@
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumErasureValue.h" />
