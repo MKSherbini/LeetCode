@@ -565,6 +565,7 @@
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
     <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
+    <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
