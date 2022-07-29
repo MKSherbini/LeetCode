@@ -1,4 +1,11 @@
-1 judge: Accepted
+mee 
+aqq 
 
-0 judge: Accepted
+judge: Accepted
+
+a 
+b 
+c 
+
+judge: Accepted
 

@@ -566,6 +566,7 @@
     <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
+    <ClInclude Include="FindAndReplacePattern.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
