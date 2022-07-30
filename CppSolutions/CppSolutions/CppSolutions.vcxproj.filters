@@ -567,6 +567,7 @@
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FindAndReplacePattern.h" />
+    <ClInclude Include="WordSubsets.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

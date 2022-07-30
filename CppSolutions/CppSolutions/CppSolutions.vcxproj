@@ -330,6 +330,7 @@
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearch.h" />
+    <ClInclude Include="WordSubsets.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
