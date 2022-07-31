@@ -34,6 +34,7 @@
 #include <unordered_set>
 #include <regex>
 #include "Validator.h"
+#include "SegmentTree.h"
 #include "Printer.h"
 #include "Sorter.h"
 #include "LinkedListSupport.h"

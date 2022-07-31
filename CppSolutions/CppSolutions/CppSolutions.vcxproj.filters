@@ -568,6 +568,10 @@
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FindAndReplacePattern.h" />
     <ClInclude Include="WordSubsets.h" />
+    <ClInclude Include="SegmentTree.h">
+      <Filter>Algs</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumQueryMutable.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

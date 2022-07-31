@@ -256,6 +256,7 @@
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
+    <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
@@ -297,6 +298,7 @@
     <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
+    <ClInclude Include="SegmentTree.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
