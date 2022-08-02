@@ -58,6 +58,30 @@ public:
 		cout << '\n';
 	}
 
+	template<typename T>
+	static void printOne(const priority_queue<T>& v) {
+		priority_queue<T> t = v;
+		while (!t.empty())
+		{
+			printOne(t.top());
+			t.pop();
+			if (!t.empty()) printOne(", ");
+		}
+		cout << '\n';
+	}
+
+	template<typename T, typename R, typename V>
+	static void printOne(const priority_queue<T, R, V>& v) {
+		auto t = v;
+		while (!t.empty())
+		{
+			printOne(t.top());
+			t.pop();
+			if (!t.empty()) printOne(", ");
+		}
+		cout << '\n';
+	}
+
 	template<typename T, typename R>
 	static void printOne(const map<T, R>& v) {
 		for (auto a : v) {
@@ -76,6 +100,24 @@ public:
 			printOne(a.second);
 		}
 		cout << '\n';
+	}
+
+	template<typename T, typename R>
+	static void printOne(const pair<T, R>& v) {
+		printOne(v.first);
+		cout << ": ";
+		printOne(v.second);
+	}
+
+	template<typename T, typename R, typename V>
+	static void printOne(const tuple<T, R, V>& v) {
+		cout << "(";
+		printOne(get<0>(v));
+		cout << ", ";
+		printOne(get<1>(v));
+		cout << ", ";
+		printOne(get<2>(v));
+		cout << ")";
 	}
 
 	static void printOne(const vector<string>& v) {
