@@ -572,6 +572,7 @@
       <Filter>Algs</Filter>
     </ClInclude>
     <ClInclude Include="RangeSumQueryMutable.h" />
+    <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

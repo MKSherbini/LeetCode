@@ -209,6 +209,7 @@
     <ClInclude Include="JumpGameVi.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
+    <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
