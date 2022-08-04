@@ -574,6 +574,8 @@
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="MyCalendarI.h" />
+    <ClInclude Include="MirrorReflection.h" />
+    <ClInclude Include="CombinationSumIV.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

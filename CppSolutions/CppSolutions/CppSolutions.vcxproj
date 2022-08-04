@@ -163,6 +163,7 @@
     <ClInclude Include="Combinations.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />
+    <ClInclude Include="CombinationSumIV.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
@@ -239,6 +240,7 @@
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
+    <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="NonDecreasingArray.h" />
