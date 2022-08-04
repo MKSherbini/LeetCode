@@ -573,6 +573,7 @@
     </ClInclude>
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
+    <ClInclude Include="MyCalendarI.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

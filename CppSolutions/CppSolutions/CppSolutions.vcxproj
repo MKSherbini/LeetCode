@@ -240,6 +240,7 @@
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MissingNumber.h" />
+    <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
