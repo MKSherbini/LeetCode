@@ -576,6 +576,7 @@
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="CombinationSumIV.h" />
+    <ClInclude Include="CountVowelsPermutation.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

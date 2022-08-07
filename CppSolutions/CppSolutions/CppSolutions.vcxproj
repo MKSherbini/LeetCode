@@ -170,6 +170,7 @@
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
+    <ClInclude Include="CountVowelsPermutation.h" />
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="D1000000.h" />
     <ClInclude Include="DecodeWays.h" />
