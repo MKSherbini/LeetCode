@@ -577,6 +577,7 @@
     <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="CombinationSumIV.h" />
     <ClInclude Include="CountVowelsPermutation.h" />
+    <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

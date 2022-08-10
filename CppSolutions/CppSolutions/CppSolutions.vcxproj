@@ -167,6 +167,7 @@
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
+    <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
