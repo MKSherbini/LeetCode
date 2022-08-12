@@ -2,12 +2,12 @@
 #include "stdc++.h"
 using namespace std;
 
-//https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+//https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
-class LowestCommonAncestorOfABinaryTree
+class LowestCommonAncestorOfABinarySearchTree
 {
 public:
-	// 20 ms, faster than 73.61% : 17.3 MB, less than 11.09%
+	// 26 ms, faster than 98.43% : 23.2 MB, less than 91.99%
 	TreeNode* solution(TreeNode* root, TreeNode* p, TreeNode* q) {
 		vector<TreeNode*> path1;
 		vector<TreeNode*> path2;
@@ -16,8 +16,9 @@ public:
 		int i = size(path1) - 1, j = size(path2) - 1;
 
 		TreeNode* ans;
-		while (i >= 0 && j >= 0 && path1[i] == path2[j])
+		while (i >= 0 && j >= 0 && path1[i] == path2[j]) {
 			ans = path1[i], --i, --j;
+		}
 
 		return ans;
 	}
@@ -40,24 +41,24 @@ public:
 		return ret;
 	}
 	vector<int> output = {
-		3,
-		5,
-		1
+		6,
+		2,
+		2
 	};
 	static constexpr int const& inputs = 3;
 	vector<vector<int>> input1 = {
-		{3,5,1,6,2,0,8,NULL,NULL,7,4},
-		{3,5,1,6,2,0,8,NULL,NULL,7,4},
-		{1,2}
+		{6,2,8,0,4,7,9,NULL,NULL,3,5},
+		{6,2,8,0,4,7,9,NULL,NULL,3,5},
+		{2,1}
 	};
 	vector<int> input2 = {
-		5,
-		5,
-		1
+		2,
+		2,
+		2
 	};
 	vector<int> input3 = {
-		1,
+		8,
 		4,
-		2
+		1
 	};
 };

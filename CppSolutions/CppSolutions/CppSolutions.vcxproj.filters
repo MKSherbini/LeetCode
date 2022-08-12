@@ -578,6 +578,7 @@
     <ClInclude Include="CombinationSumIV.h" />
     <ClInclude Include="CountVowelsPermutation.h" />
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
+    <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
