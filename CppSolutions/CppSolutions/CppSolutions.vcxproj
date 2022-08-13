@@ -320,6 +320,7 @@
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
+    <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
     <ClInclude Include="SubstringWithLargestVariance.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
