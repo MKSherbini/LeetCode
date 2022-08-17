@@ -580,6 +580,7 @@
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
+    <ClInclude Include="UniqueMorseCodeWords.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
