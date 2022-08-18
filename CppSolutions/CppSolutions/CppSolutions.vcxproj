@@ -264,6 +264,7 @@
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
+    <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />

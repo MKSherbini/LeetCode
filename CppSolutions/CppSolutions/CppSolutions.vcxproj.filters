@@ -581,6 +581,7 @@
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
     <ClInclude Include="UniqueMorseCodeWords.h" />
+    <ClInclude Include="ReduceArraySizeToTheHalf.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
