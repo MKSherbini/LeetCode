@@ -317,6 +317,7 @@
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
+    <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="Subsets.h" />
