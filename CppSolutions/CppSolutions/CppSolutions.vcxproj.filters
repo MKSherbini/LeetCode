@@ -583,6 +583,7 @@
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
+    <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

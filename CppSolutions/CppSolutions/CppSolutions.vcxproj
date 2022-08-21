@@ -240,6 +240,7 @@
     <ClInclude Include="MinCostClimbingStairs.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
+    <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
