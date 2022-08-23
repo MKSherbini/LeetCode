@@ -584,6 +584,8 @@
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
+    <ClInclude Include="StampingTheSequence.h" />
+    <ClInclude Include="PowerOfFour.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

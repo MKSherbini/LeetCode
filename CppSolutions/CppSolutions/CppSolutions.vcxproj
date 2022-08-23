@@ -259,6 +259,7 @@
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
+    <ClInclude Include="PowerOfFour.h" />
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="Printing3D.h" />
@@ -319,6 +320,7 @@
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
+    <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="Subsets.h" />
