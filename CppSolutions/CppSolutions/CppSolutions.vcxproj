@@ -255,6 +255,7 @@
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PartitionList.h" />
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PermutationsII.h" />

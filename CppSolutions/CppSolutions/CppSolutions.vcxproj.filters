@@ -586,6 +586,7 @@
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="PowerOfFour.h" />
+    <ClInclude Include="PalindromeLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
