@@ -587,6 +587,7 @@
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="PowerOfFour.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
+    <ClInclude Include="PowerOfThree.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
