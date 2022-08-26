@@ -588,6 +588,7 @@
     <ClInclude Include="PowerOfFour.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PowerOfThree.h" />
+    <ClInclude Include="ReorderedPowerOf2.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

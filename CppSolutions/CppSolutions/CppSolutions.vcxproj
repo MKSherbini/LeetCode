@@ -271,6 +271,7 @@
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
+    <ClInclude Include="ReorderedPowerOf2.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
