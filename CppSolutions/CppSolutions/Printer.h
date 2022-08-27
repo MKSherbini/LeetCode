@@ -50,8 +50,16 @@ public:
 		cout << '\n';
 	}
 
-	template<typename T>
-	static void printOne(const set<T>& v) {
+	template<typename ...T>
+	static void printOne(const set<T...>& v) {
+		for (auto a : v) {
+			printOne(a);
+		}
+		cout << '\n';
+	}
+
+	template<typename ...T>
+	static void printOne(const multiset<T...>& v) {
 		for (auto a : v) {
 			printOne(a);
 		}
@@ -85,9 +93,8 @@ public:
 	template<typename T, typename R>
 	static void printOne(const map<T, R>& v) {
 		for (auto a : v) {
-			printOne(a.first);
-			cout << ": ";
-			printOne(a.second);
+			printOne(a);
+			cout << '\n';
 		}
 		cout << '\n';
 	}
@@ -95,18 +102,19 @@ public:
 	template<typename T, typename R>
 	static void printOne(const unordered_map<T, R>& v) {
 		for (auto a : v) {
-			printOne(a.first);
-			cout << ": ";
-			printOne(a.second);
+			printOne(a);
+			cout << '\n';
 		}
 		cout << '\n';
 	}
 
 	template<typename T, typename R>
 	static void printOne(const pair<T, R>& v) {
+		cout << "(";
 		printOne(v.first);
-		cout << ": ";
+		cout << ", ";
 		printOne(v.second);
+		cout << ")";
 	}
 
 	template<typename T, typename R, typename V>
