@@ -7,8 +7,25 @@ using namespace std;
 class ReorderedPowerOf2
 {
 public:
-	// 951 ms, faster than 5.08% : 139.6 MB, less than 5.37%
+	// 0 ms, faster than 100% : 6.3 MB, less than 40.11%
 	bool solution(int n) {
+		string s = to_string(n);
+		sort(begin(s), end(s));
+
+		vector<string> nums;
+		for (size_t i = 1; i < INT_MAX; i <<= 1)
+			nums.push_back(to_string(i));
+
+		for (auto x : nums) {
+			sort(begin(x), end(x));
+			if (x == s) return true;
+		}
+
+		return false;
+	}
+
+	// 951 ms, faster than 5.08% : 139.6 MB, less than 5.37%
+	bool solution3(int n) {
 		vector<int> nums;
 		while (n)
 			nums.push_back(n % 10), n /= 10;
