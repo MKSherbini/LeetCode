@@ -589,6 +589,7 @@
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PowerOfThree.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
+    <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
