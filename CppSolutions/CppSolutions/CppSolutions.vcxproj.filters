@@ -590,6 +590,7 @@
     <ClInclude Include="PowerOfThree.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
+    <ClInclude Include="SortTheMatrixDiagonally.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
