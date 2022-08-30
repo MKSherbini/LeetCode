@@ -591,6 +591,7 @@
     <ClInclude Include="ReorderedPowerOf2.h" />
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
+    <ClInclude Include="RotateImage.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
