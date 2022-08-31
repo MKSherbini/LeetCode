@@ -592,6 +592,7 @@
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
     <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="PacificAtlanticWaterFlow.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
