@@ -150,6 +150,7 @@
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="ArithmeticSlices.h" />
     <ClInclude Include="ArticulatePoint.h" />
+    <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BinaryTreeCameras.h" />

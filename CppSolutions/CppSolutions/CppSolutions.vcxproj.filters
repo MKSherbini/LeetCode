@@ -593,6 +593,7 @@
     <ClInclude Include="SortTheMatrixDiagonally.h" />
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
+    <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
