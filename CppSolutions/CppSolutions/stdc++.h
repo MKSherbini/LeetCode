@@ -41,6 +41,7 @@
 #include "Sorter.h"
 #include "LinkedListSupport.h"
 #include "TreeSupport.h"
+#include "NodeSupport.h"
 #include "Utils.h"
 
  // C
