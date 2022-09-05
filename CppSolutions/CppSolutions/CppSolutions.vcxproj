@@ -141,6 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="NodeSupport.cpp" />
     <ClCompile Include="Runner.cpp">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -250,6 +251,8 @@
     <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MyCalendarI.h" />
+    <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="NodeSupport.h" />
     <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
@@ -258,6 +261,7 @@
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PartitionList.h" />

@@ -29,6 +29,9 @@
     <ClCompile Include="Runner.cpp">
       <Filter>Helpers</Filter>
     </ClCompile>
+    <ClCompile Include="NodeSupport.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MoveZeroes.h">
@@ -594,6 +597,9 @@
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
+    <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
+    <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="NodeSupport.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
