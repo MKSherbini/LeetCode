@@ -600,6 +600,7 @@
     <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
     <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
     <ClInclude Include="NodeSupport.h" />
+    <ClInclude Include="BinaryTreePruning.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
