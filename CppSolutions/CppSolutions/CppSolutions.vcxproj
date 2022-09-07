@@ -169,6 +169,7 @@
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="CombinationSumIV.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
+    <ClInclude Include="ConstructStringFromBinaryTree.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />

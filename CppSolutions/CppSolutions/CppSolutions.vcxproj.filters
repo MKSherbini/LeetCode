@@ -601,6 +601,7 @@
     <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
     <ClInclude Include="NodeSupport.h" />
     <ClInclude Include="BinaryTreePruning.h" />
+    <ClInclude Include="ConstructStringFromBinaryTree.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
