@@ -155,6 +155,7 @@
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BinaryTreeCameras.h" />
+    <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="BinaryTreePruning.h" />
