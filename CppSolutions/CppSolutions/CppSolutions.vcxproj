@@ -116,7 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpp17</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
     </ClCompile>
     <Link>
@@ -141,7 +141,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="NodeSupport.cpp" />
     <ClCompile Include="Runner.cpp">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -347,6 +346,7 @@
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="SurroundedRegions.h" />
+    <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TreeSupport.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />

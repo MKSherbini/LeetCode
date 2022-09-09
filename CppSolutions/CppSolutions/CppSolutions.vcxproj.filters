@@ -29,9 +29,6 @@
     <ClCompile Include="Runner.cpp">
       <Filter>Helpers</Filter>
     </ClCompile>
-    <ClCompile Include="NodeSupport.cpp">
-      <Filter>Helpers</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MoveZeroes.h">
@@ -603,6 +600,7 @@
     <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="ConstructStringFromBinaryTree.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
+    <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
