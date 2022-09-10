@@ -601,6 +601,7 @@
     <ClInclude Include="ConstructStringFromBinaryTree.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

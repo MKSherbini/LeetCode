@@ -153,6 +153,7 @@
     <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
     <ClInclude Include="BinaryTreeCameras.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
