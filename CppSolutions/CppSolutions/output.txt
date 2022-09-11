@@ -1,40 +1,16 @@
-0 0 0 
-4 4 0 
+(1 , 9 )(5 , 7 )(2 , 5 )(10 , 4 )(3 , 3 )(8 , 2 )
 
-2 2 0 
-4 4 0 
+60 judge: Accepted
 
+(1 , 9 )(5 , 7 )(2 , 5 )(10 , 4 )(3 , 3 )(8 , 2 )
 
+68 judge: Accepted
 
-2 judge: Accepted
+(1 , 9 )(5 , 7 )(2 , 5 )(10 , 4 )(3 , 3 )(8 , 2 )
 
-7 4 0 
-9 6 0 
+72 judge: Accepted
 
-7 4 0 
-9 6 0 
+(8 , 7 )(2 , 2 )(2 , 1 )
 
-
-
-7 judge: Accepted
-
-11 10 7 0 
-17 16 9 0 
-
-15 14 7 0 
-17 16 9 0 
-
-
-
-15 judge: Accepted
-
-1 0 
-2 0 
-
-0 0 
-2 0 
-
-
-
-1 judge: Accepted
+56 judge: Accepted
 
