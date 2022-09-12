@@ -195,6 +195,7 @@
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
+    <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />

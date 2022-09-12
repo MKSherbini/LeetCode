@@ -603,6 +603,7 @@
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
+    <ClInclude Include="FindTheDuplicateNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
