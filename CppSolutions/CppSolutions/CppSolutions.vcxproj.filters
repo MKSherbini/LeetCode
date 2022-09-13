@@ -604,6 +604,7 @@
     <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
+    <ClInclude Include="BagOfTokens.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
