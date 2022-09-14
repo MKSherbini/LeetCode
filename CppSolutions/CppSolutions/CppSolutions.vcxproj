@@ -358,6 +358,7 @@
     <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="UniquePaths.h" />
+    <ClInclude Include="Utf8Validation.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="Validator.h" />

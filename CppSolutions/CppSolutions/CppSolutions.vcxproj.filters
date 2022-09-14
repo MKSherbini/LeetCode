@@ -605,6 +605,7 @@
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="BagOfTokens.h" />
+    <ClInclude Include="Utf8Validation.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
