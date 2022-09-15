@@ -194,6 +194,7 @@
     <ClInclude Include="FindAndReplacePattern.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
+    <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />

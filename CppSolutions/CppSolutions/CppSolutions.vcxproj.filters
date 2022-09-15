@@ -606,6 +606,7 @@
     <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="BagOfTokens.h" />
     <ClInclude Include="Utf8Validation.h" />
+    <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
