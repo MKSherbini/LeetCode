@@ -241,6 +241,7 @@
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
+    <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="MaximumUnitsOnATruck.h" />
