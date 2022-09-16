@@ -7,8 +7,60 @@ using namespace std;
 class MaximumScoreFromPerformingMultiplicationOperations
 {
 public:
-	// 423 ms, faster than 91.32% : 121.7 MB, less than 65.69%
+	// 351 ms, faster than 96.8% : 50.6 MB, less than 99.6%
 	int solution(vector<int> nums, vector<int> multipliers) {
+		int n = size(nums);
+		int m = size(multipliers);
+
+		vector mem(2, vector(m + 1, 0));
+
+		int cur = 0, other = 1;
+
+		for (int i = m - 1; i >= 0; i--)
+		{
+			for (int l = 0; l <= i; l++)
+			{
+				int r = n - 1 - (i - l);
+				mem[cur][l] = max(
+					mem[other][l + 1] + nums[l] * multipliers[i],
+					mem[other][l] + nums[r] * multipliers[i]
+				);
+			}
+			cur = other;
+			other = 1 - other;
+		}
+
+		Printer::print(mem);
+
+		return mem[other][0];
+	}
+
+	// 340 ms, faster than 97.46% : 119.7 MB, less than 72.63%
+	int solution3(vector<int> nums, vector<int> multipliers) {
+		int n = size(nums);
+		int m = size(multipliers);
+
+		vector mem(m + 1, vector(m + 1, 0));
+
+		for (int i = m - 1; i >= 0; i--)
+		{
+			for (int l = 0; l <= i; l++)
+			{
+				int r = n - 1 - (i - l);
+				mem[i][l] = max(
+					mem[i + 1][l + 1] + nums[l] * multipliers[i],
+					mem[i + 1][l] + nums[r] * multipliers[i]
+				);
+			}
+		}
+
+		Printer::print(mem);
+
+		return mem[0][0];
+	}
+
+	// 423 ms, faster than 91.32% : 121.7 MB, less than 65.69%
+	int solution2(vector<int> nums, vector<int> multipliers) {
 		this->nums = nums;
 		this->multipliers = multipliers;
 		int n = size(nums);
@@ -19,6 +71,7 @@ public:
 		int ans = 0;
 
 		ans = f(0, 0, n - 1);
+		Printer::print(mem);
 
 		return ans;
 	}
