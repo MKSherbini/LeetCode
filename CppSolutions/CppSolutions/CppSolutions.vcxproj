@@ -272,6 +272,7 @@
     <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
+    <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="PartitionList.h" />
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PermutationsII.h" />

@@ -608,6 +608,7 @@
     <ClInclude Include="Utf8Validation.h" />
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
+    <ClInclude Include="PalindromePairs.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
