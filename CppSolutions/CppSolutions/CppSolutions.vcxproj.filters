@@ -609,6 +609,7 @@
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
     <ClInclude Include="PalindromePairs.h" />
+    <ClInclude Include="TrappingRainWater.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

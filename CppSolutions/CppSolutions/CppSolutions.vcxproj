@@ -354,6 +354,7 @@
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="SurroundedRegions.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
+    <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TreeSupport.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
