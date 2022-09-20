@@ -192,6 +192,7 @@
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
     <ClInclude Include="FindAndReplacePattern.h" />
+    <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />

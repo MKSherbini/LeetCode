@@ -610,6 +610,7 @@
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
     <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="TrappingRainWater.h" />
+    <ClInclude Include="FindDuplicateFileInSystem.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
