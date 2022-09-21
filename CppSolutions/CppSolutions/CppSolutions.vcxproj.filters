@@ -611,6 +611,7 @@
     <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
+    <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
