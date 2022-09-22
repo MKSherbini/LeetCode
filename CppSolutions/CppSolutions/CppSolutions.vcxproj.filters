@@ -612,6 +612,7 @@
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
+    <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
