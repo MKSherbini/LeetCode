@@ -613,6 +613,7 @@
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
+    <ClInclude Include="PathSumII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
