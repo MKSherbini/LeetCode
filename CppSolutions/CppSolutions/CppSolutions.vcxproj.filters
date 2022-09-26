@@ -614,6 +614,7 @@
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
     <ClInclude Include="PathSumII.h" />
+    <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

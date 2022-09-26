@@ -328,6 +328,7 @@
     <ClInclude Include="RotateArray.h" />
     <ClInclude Include="RottingOranges.h" />
     <ClInclude Include="RunningSumOf1dArray.h" />
+    <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
