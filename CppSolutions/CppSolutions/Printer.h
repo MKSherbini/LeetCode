@@ -59,7 +59,23 @@ public:
 	}
 
 	template<typename ...T>
+	static void printOne(const unordered_set<T...>& v) {
+		for (auto a : v) {
+			printOne(a);
+		}
+		cout << '\n';
+	}
+
+	template<typename ...T>
 	static void printOne(const multiset<T...>& v) {
+		for (auto a : v) {
+			printOne(a);
+		}
+		cout << '\n';
+	}
+
+	template<typename ...T>
+	static void printOne(const list<T...>& v) {
 		for (auto a : v) {
 			printOne(a);
 		}

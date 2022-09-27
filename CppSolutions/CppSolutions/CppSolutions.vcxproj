@@ -286,6 +286,7 @@
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
+    <ClInclude Include="PushDominoes.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
