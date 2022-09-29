@@ -616,6 +616,7 @@
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
     <ClInclude Include="PushDominoes.h" />
+    <ClInclude Include="FindKClosestElements.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
