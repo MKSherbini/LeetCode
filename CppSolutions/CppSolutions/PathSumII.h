@@ -17,7 +17,6 @@ public:
 	void f(vector<vector<int>>& ans, TreeNode* node, vector<int>& row, int sum) {
 		if (!node) return;
 		sum -= node->val;
-		if (sum < 0) return;
 		row.push_back(node->val);
 
 		if (!node->left && !node->right && sum == 0) ans.push_back(row);

@@ -619,6 +619,7 @@
     <ClInclude Include="FindKClosestElements.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />
+    <ClInclude Include="PathSum.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

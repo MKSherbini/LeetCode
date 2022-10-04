@@ -280,6 +280,7 @@
     <ClInclude Include="PalindromePairs.h" />
     <ClInclude Include="PartitionList.h" />
     <ClInclude Include="PascalsTriangle.h" />
+    <ClInclude Include="PathSum.h" />
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
