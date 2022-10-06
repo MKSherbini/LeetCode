@@ -1,8 +1,8 @@
-3 judge: Accepted
-
-0 judge: Accepted
-
-2 judge: Accepted
-
-13 judge: Accepted
-
+ 
+bar 
+bar 
+baz 
+baz 
+1 
+0 
+1 

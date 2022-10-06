@@ -621,6 +621,7 @@
     <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />
     <ClInclude Include="PathSum.h" />
     <ClInclude Include="AddOneRowToTree.h" />
+    <ClInclude Include="TimeBasedKeyValueStore.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
