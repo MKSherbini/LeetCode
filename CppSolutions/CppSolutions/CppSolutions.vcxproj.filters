@@ -623,6 +623,7 @@
     <ClInclude Include="AddOneRowToTree.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="MyCalendarIII.h" />
+    <ClInclude Include="sumClosest3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -363,6 +363,7 @@
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
+    <ClInclude Include="sumClosest3.h" />
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
     <ClInclude Include="SurroundedRegions.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
