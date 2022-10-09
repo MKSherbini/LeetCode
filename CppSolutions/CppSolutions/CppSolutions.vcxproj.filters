@@ -624,6 +624,7 @@
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="MyCalendarIII.h" />
     <ClInclude Include="sumClosest3.h" />
+    <ClInclude Include="TwoSumIvInputIsABst.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -373,6 +373,7 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
+    <ClInclude Include="TwoSumIvInputIsABst.h" />
     <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="UniquePaths.h" />
