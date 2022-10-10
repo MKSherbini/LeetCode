@@ -163,6 +163,7 @@
     <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
+    <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Candy.h" />
     <ClInclude Include="ClimbingStairs.h" />

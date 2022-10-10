@@ -625,6 +625,7 @@
     <ClInclude Include="MyCalendarIII.h" />
     <ClInclude Include="sumClosest3.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
+    <ClInclude Include="BreakAPalindrome.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
