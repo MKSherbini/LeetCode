@@ -627,6 +627,7 @@
     <ClInclude Include="TwoSumIvInputIsABst.h" />
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
+    <ClInclude Include="LargestPerimeterTriangle.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
