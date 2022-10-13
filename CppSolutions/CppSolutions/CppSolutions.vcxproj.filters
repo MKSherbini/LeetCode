@@ -628,6 +628,7 @@
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="LargestPerimeterTriangle.h" />
+    <ClInclude Include="DeleteNodeInALinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

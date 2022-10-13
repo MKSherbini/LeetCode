@@ -186,6 +186,7 @@
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DecodeXoredArray.h" />
     <ClInclude Include="DefangingAnIpAddress.h" />
+    <ClInclude Include="DeleteNodeInALinkedList.h" />
     <ClInclude Include="DeleteOperationForTwoStrings.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DoubleorOneThing.h" />
