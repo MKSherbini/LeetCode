@@ -188,6 +188,7 @@
     <ClInclude Include="DefangingAnIpAddress.h" />
     <ClInclude Include="DeleteNodeInALinkedList.h" />
     <ClInclude Include="DeleteOperationForTwoStrings.h" />
+    <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
