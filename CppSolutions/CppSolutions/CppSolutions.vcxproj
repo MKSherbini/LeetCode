@@ -259,6 +259,7 @@
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MinCostClimbingStairs.h" />
+    <ClInclude Include="MinimizeMaximumOfArray.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />

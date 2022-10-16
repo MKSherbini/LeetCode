@@ -630,6 +630,7 @@
     <ClInclude Include="LargestPerimeterTriangle.h" />
     <ClInclude Include="DeleteNodeInALinkedList.h" />
     <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
+    <ClInclude Include="MinimizeMaximumOfArray.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
