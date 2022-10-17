@@ -631,6 +631,7 @@
     <ClInclude Include="DeleteNodeInALinkedList.h" />
     <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
     <ClInclude Include="MinimizeMaximumOfArray.h" />
+    <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
