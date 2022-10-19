@@ -633,6 +633,7 @@
     <ClInclude Include="MinimizeMaximumOfArray.h" />
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CountAndSay.h" />
+    <ClInclude Include="TopKFrequentWords.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
