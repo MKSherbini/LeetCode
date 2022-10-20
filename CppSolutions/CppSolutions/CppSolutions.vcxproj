@@ -220,6 +220,7 @@
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="IntegerBreak.h" />
+    <ClInclude Include="IntegerToRoman.h" />
     <ClInclude Include="InterleavingString.h" />
     <ClInclude Include="IntersectionOfTwoArrays.h" />
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />

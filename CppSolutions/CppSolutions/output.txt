@@ -1,12 +1,13 @@
-i 
-love 
+0 3 I  1 I 
+III judge: Accepted
 
-judge: Accepted
+5 8 V  1 I 
+0 50 L VIII 10 X 
+LVIII judge: Accepted
 
-the 
-is 
-sunny 
-day 
-
-judge: Accepted
+199 4 IV  1 I 
+19 90 XC IV 10 X 
+1 900 CM XCIV 100 C 
+0 1000 M CMXCIV 1000 M 
+MCMXCIV judge: Accepted
 
