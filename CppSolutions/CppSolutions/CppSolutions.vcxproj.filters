@@ -635,6 +635,7 @@
     <ClInclude Include="CountAndSay.h" />
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="IntegerToRoman.h" />
+    <ClInclude Include="ContainsDuplicateII.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
