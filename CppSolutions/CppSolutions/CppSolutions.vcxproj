@@ -271,6 +271,7 @@
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />
+    <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MyCalendarI.h" />
