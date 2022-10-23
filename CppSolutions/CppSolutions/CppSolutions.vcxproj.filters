@@ -637,6 +637,7 @@
     <ClInclude Include="IntegerToRoman.h" />
     <ClInclude Include="ContainsDuplicateII.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
+    <ClInclude Include="SetMismatch.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
