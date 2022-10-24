@@ -638,6 +638,12 @@
     <ClInclude Include="ContainsDuplicateII.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="SetMismatch.h" />
+    <ClInclude Include="Tricks.h">
+      <Filter>Algs</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

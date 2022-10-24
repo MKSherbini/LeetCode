@@ -250,6 +250,7 @@
     <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumErasureValue.h" />
+    <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
@@ -384,6 +385,7 @@
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TreeSupport.h" />
     <ClInclude Include="Triangle.h" />
+    <ClInclude Include="Tricks.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
