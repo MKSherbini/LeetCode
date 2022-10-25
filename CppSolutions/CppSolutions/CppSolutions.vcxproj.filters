@@ -644,6 +644,9 @@
     <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
