@@ -179,6 +179,7 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="ContainsDuplicateII.h" />
+    <ClInclude Include="ContinuousSubarraySum.h" />
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="CountAndSay.h" />
     <ClInclude Include="CountingBits.h" />
