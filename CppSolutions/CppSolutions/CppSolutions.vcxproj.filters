@@ -650,6 +650,9 @@
     <ClInclude Include="ContinuousSubarraySum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ImageOverlap.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -220,6 +220,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIi.h" />
+    <ClInclude Include="ImageOverlap.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="IntegerBreak.h" />
