@@ -1,6 +1,22 @@
-3 judge: Accepted
+eat 
+tea 
+ate 
 
-1 judge: Accepted
+tan 
+nat 
 
-0 judge: Accepted
+bat 
+
+
+judge: Wrong answer
+
+ 
+
+
+judge: Accepted
+
+a 
+
+
+judge: Accepted
 

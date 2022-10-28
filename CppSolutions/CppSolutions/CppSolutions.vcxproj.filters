@@ -653,6 +653,7 @@
     <ClInclude Include="ImageOverlap.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="GroupAnagrams.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
