@@ -359,6 +359,7 @@
     <ClInclude Include="SegmentTree.h" />
     <ClInclude Include="SetMismatch.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
+    <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="ShuffleAnArray.h" />

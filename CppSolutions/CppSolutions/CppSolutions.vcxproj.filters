@@ -654,6 +654,9 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="GroupAnagrams.h" />
+    <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
