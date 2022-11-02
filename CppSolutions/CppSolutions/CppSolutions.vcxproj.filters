@@ -660,6 +660,9 @@
     <ClInclude Include="ToeplitzMatrix.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumGeneticMutation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
