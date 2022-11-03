@@ -663,6 +663,9 @@
     <ClInclude Include="MinimumGeneticMutation.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestPalindromeByConcatenatingTwoLetterWords.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

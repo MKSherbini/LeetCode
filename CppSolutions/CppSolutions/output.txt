@@ -1,6 +1,26 @@
-1 judge: Accepted
+(lc , 1 )
+(cl , 1 )
+(gg , 1 )
 
+
+1 1 
+6 judge: Accepted
+
+(cl , 1 )
+(ab , 2 )
+(ty , 1 )
+(lc , 1 )
+(yt , 1 )
+
+
+2 0 
+8 judge: Accepted
+
+(cc , 1 )
+(xx , 1 )
+(ll , 1 )
+
+
+0 1 
 2 judge: Accepted
-
-3 judge: Accepted
 
