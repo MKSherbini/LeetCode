@@ -394,6 +394,7 @@
     <ClInclude Include="TreeSupport.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="Tricks.h" />
+    <ClInclude Include="TrieNode.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
@@ -409,6 +410,7 @@
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearch.h" />
+    <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />
   </ItemGroup>
   <ItemGroup>

@@ -666,6 +666,12 @@
     <ClInclude Include="LongestPalindromeByConcatenatingTwoLetterWords.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="WordSearchII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieNode.h">
+      <Filter>Algs</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

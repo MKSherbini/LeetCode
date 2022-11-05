@@ -31,6 +31,20 @@ public:
 
 	static const int SPACING = 1;
 
+	static void printOne(TrieNode* root, int space = 0) {
+		if (root == NULL)
+			return;
+
+		for (int i = 0; i < space; i++)
+			cout << "\t";
+		printOne(root->c);
+		printOne(root->isTerminal, 1);
+
+		for (auto& p : root->next) {
+			printOne(p.second, space + 1);
+		}
+	}
+
 	static void printOne(TreeNode* root, int space = 0) {
 		if (root == NULL)
 			return;
