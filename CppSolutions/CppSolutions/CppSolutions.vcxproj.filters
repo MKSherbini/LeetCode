@@ -559,85 +559,9 @@
     <ClInclude Include="WiggleSubsequence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="NumberOfMatchingSubsequences.h" />
-    <ClInclude Include="ReverseLinkedListII.h" />
-    <ClInclude Include="PartitionList.h" />
-    <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
-    <ClInclude Include="SearchA2dMatrixII.h" />
-    <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
-    <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
-    <ClInclude Include="FindAndReplacePattern.h" />
-    <ClInclude Include="WordSubsets.h" />
     <ClInclude Include="SegmentTree.h">
       <Filter>Algs</Filter>
     </ClInclude>
-    <ClInclude Include="RangeSumQueryMutable.h" />
-    <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
-    <ClInclude Include="MyCalendarI.h" />
-    <ClInclude Include="MirrorReflection.h" />
-    <ClInclude Include="CombinationSumIV.h" />
-    <ClInclude Include="CountVowelsPermutation.h" />
-    <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
-    <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
-    <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
-    <ClInclude Include="UniqueMorseCodeWords.h" />
-    <ClInclude Include="ReduceArraySizeToTheHalf.h" />
-    <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
-    <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
-    <ClInclude Include="StampingTheSequence.h" />
-    <ClInclude Include="PowerOfFour.h" />
-    <ClInclude Include="PalindromeLinkedList.h" />
-    <ClInclude Include="PowerOfThree.h" />
-    <ClInclude Include="ReorderedPowerOf2.h" />
-    <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
-    <ClInclude Include="SortTheMatrixDiagonally.h" />
-    <ClInclude Include="RotateImage.h" />
-    <ClInclude Include="PacificAtlanticWaterFlow.h" />
-    <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
-    <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
-    <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
-    <ClInclude Include="NodeSupport.h" />
-    <ClInclude Include="BinaryTreePruning.h" />
-    <ClInclude Include="ConstructStringFromBinaryTree.h" />
-    <ClInclude Include="BinaryTreeInorderTraversal.h" />
-    <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
-    <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
-    <ClInclude Include="MaximumPerformanceOfATeam.h" />
-    <ClInclude Include="FindTheDuplicateNumber.h" />
-    <ClInclude Include="BagOfTokens.h" />
-    <ClInclude Include="Utf8Validation.h" />
-    <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
-    <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
-    <ClInclude Include="PalindromePairs.h" />
-    <ClInclude Include="TrappingRainWater.h" />
-    <ClInclude Include="FindDuplicateFileInSystem.h" />
-    <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
-    <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
-    <ClInclude Include="PathSumII.h" />
-    <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
-    <ClInclude Include="PushDominoes.h" />
-    <ClInclude Include="FindKClosestElements.h" />
-    <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
-    <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />
-    <ClInclude Include="PathSum.h" />
-    <ClInclude Include="AddOneRowToTree.h" />
-    <ClInclude Include="TimeBasedKeyValueStore.h" />
-    <ClInclude Include="MyCalendarIII.h" />
-    <ClInclude Include="sumClosest3.h" />
-    <ClInclude Include="TwoSumIvInputIsABst.h" />
-    <ClInclude Include="BreakAPalindrome.h" />
-    <ClInclude Include="IncreasingTripletSubsequence.h" />
-    <ClInclude Include="LargestPerimeterTriangle.h" />
-    <ClInclude Include="DeleteNodeInALinkedList.h" />
-    <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
-    <ClInclude Include="MinimizeMaximumOfArray.h" />
-    <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
-    <ClInclude Include="CountAndSay.h" />
-    <ClInclude Include="TopKFrequentWords.h" />
-    <ClInclude Include="IntegerToRoman.h" />
-    <ClInclude Include="ContainsDuplicateII.h" />
-    <ClInclude Include="MinimumWindowSubstring.h" />
-    <ClInclude Include="SetMismatch.h" />
     <ClInclude Include="Tricks.h">
       <Filter>Algs</Filter>
     </ClInclude>
@@ -653,7 +577,6 @@
     <ClInclude Include="ImageOverlap.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h">
       <Filter>Solutions</Filter>
     </ClInclude>
@@ -671,6 +594,240 @@
     </ClInclude>
     <ClInclude Include="TrieNode.h">
       <Filter>Algs</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderlyQueue.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="AddOneRowToTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="AverageOfLevelsInBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BagOfTokens.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStockIV.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeInorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePruning.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakAPalindrome.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckIfTheSentenceIsPangram.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumIV.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructStringFromBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainsDuplicateII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CountAndSay.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CountOfSmallerNumbersAfterSelf.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="CountVowelsPermutation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteNodeInALinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindAndReplacePattern.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindDuplicateFileInSystem.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKClosestElements.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindOriginalArrayFromDoubledArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTheDuplicateNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenBinaryTreeToLinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupAnagrams.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingTripletSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerToRoman.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSmallestElementInASortedMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LargestPerimeterTriangle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorOfABinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumLengthOfRepeatedSubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumPerformanceOfATeam.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimizeMaximumOfArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumNumberOfRefuelingStops.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumTimeToMakeRopeColorful.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumWindowSubstring.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MirrorReflection.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCalendarI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCalendarIII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NAryTreeLevelOrderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeSupport.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfDiceRollsWithTargetSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfMatchingSubsequences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="NumbersWithSameConsecutiveDifferences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PacificAtlanticWaterFlow.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeLinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromePairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSumII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerOfFour.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerOfThree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PushDominoes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumQueryMutable.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReduceArraySizeToTheHalf.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReorderedPowerOf2.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLinkedListII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateImage.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SatisfiabilityOfEqualityEquations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchA2dMatrixII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SetMismatch.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SortTheMatrixDiagonally.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="StampingTheSequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SubstringWithConcatenationOfAllWords.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="sumClosest3.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SumOfEvenNumbersAfterQueries.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeBasedKeyValueStore.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TopKFrequentWords.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TrappingRainWater.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumIvInputIsABst.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueMorseCodeWords.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="Utf8Validation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="WordSubsets.h">
+      <Filter>Solutions</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
