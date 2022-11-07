@@ -1,7 +1,6 @@
-cba 
-bac 
-acb 
-acb judge: Accepted
+9969 judge: Accepted
 
-aaabc judge: Accepted
+9999 judge: Accepted
+
+9999 judge: Accepted
 

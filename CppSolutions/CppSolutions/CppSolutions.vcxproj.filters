@@ -829,6 +829,9 @@
     <ClInclude Include="WordSubsets.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="Maximum69Number.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

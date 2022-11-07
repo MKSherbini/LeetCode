@@ -253,6 +253,7 @@
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MatchsticksToSquare.h" />
+    <ClInclude Include="Maximum69Number.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h" />
