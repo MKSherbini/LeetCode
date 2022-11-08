@@ -832,6 +832,9 @@
     <ClInclude Include="Maximum69Number.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MakeTheStringGreat.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
