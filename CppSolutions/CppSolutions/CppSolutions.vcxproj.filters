@@ -835,6 +835,9 @@
     <ClInclude Include="MakeTheStringGreat.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="OnlineStockSpan.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

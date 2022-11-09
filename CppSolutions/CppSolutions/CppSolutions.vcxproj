@@ -297,6 +297,7 @@
     <ClInclude Include="NumberOfMatchingSubsequences.h" />
     <ClInclude Include="NumberOfProvinces.h" />
     <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
+    <ClInclude Include="OnlineStockSpan.h" />
     <ClInclude Include="OrderlyQueue.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="PalindromeLinkedList.h" />

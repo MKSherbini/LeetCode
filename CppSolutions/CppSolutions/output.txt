@@ -1,19 +1,9 @@
-0 leEeetcode 
-1 leEeetcode 
-0 leetcode 
-1 leetcode 
-2 leetcode 
-3 leetcode 
-4 leetcode 
-5 leetcode 
-6 leetcode 
-leetcode judge: Accepted
-
-0 abBAcC 
-1 abBAcC 
-0 aAcC 
-0 cC 
- judge: Accepted
-
-s judge: Accepted
-
+1 
+1 
+1 
+2 
+1 
+4 
+6 
+8 
+1 
