@@ -1,9 +1,23 @@
-1 
-1 
-1 
-2 
-1 
-4 
-6 
-8 
-1 
+0  
+1 l 
+2 le 
+3 l 
+4 le 
+5 lee 
+6 leet 
+7 leetc 
+8 leetco 
+9 leetcod 
+leetcode judge: Accepted
+
+0  
+1 a 
+2 ab 
+3 a 
+4  
+5 c 
+ judge: Accepted
+
+0  
+s judge: Accepted
+

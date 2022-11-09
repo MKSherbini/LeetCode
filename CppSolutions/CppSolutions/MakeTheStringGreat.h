@@ -7,10 +7,31 @@ using namespace std;
 class MakeTheStringGreat
 {
 public:
-	// 3 ms, faster than 82.74% : 6.9 MB, less than 22.08%
+	// 0 ms, faster than 100% : 6 MB, less than 97.68%
 	string solution(string s) {
 		int n = size(s);
-		int i = 0, j = 1;
+		int i = 0;
+
+		string ans;
+
+		while (i < n) {
+			Printer::print(i, ans);
+			if (!ans.empty() &&
+				tolower(s[i]) == tolower(ans.back()) &&
+				s[i] != ans.back())
+				ans.pop_back();
+			else
+				ans.push_back(s[i]);
+			i++;
+		}
+
+		return ans;
+	}
+
+	// 3 ms, faster than 82.74% : 6.9 MB, less than 22.08%
+	string solution2(string s) {
+		int n = size(s);
+		int i = 0;
 
 		while (i < n - 1) {
 			Printer::print(i, s);
