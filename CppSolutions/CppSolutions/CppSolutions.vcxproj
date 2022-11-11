@@ -319,6 +319,7 @@
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
+    <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />

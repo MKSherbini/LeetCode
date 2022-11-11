@@ -841,6 +841,9 @@
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
