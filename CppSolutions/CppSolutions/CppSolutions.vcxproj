@@ -283,6 +283,7 @@
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MirrorReflection.h" />
     <ClInclude Include="MissingNumber.h" />
+    <ClInclude Include="MostStonesRemovedWithSameRowOrColumn.h" />
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="MyCalendarIII.h" />
     <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
