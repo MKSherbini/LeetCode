@@ -7,7 +7,7 @@ using namespace std;
 class TwoSumIvInputIsABst
 {
 public:
-	//
+	// 42 ms, faster than 93.23% : 35.9 MB, less than 98.68%
 	bool solution(TreeNode* root, int k) {
 		this->root = root;
 		this->k = k;
