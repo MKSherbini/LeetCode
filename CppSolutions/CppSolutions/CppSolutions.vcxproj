@@ -329,6 +329,7 @@
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
+    <ClInclude Include="ReverseWordsInAString.h" />
     <ClInclude Include="RingsAndRods.h" />
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RotateImage.h" />

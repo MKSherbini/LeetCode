@@ -850,6 +850,9 @@
     <ClInclude Include="CountCompleteTreeNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ReverseWordsInAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "MostStonesRemovedWithSameRowOrColumn.h"
+#include "ReverseWordsInAString.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<MostStonesRemovedWithSameRowOrColumn>();
+	Runner(true).run<ReverseWordsInAString>();
 }
 
