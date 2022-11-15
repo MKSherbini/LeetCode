@@ -847,6 +847,9 @@
     <ClInclude Include="MostStonesRemovedWithSameRowOrColumn.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountCompleteTreeNodes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

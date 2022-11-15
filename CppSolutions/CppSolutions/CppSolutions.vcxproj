@@ -182,6 +182,7 @@
     <ClInclude Include="ContinuousSubarraySum.h" />
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="CountAndSay.h" />
+    <ClInclude Include="CountCompleteTreeNodes.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
