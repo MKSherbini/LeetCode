@@ -218,6 +218,7 @@
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
     <ClInclude Include="GroupAnagrams.h" />
+    <ClInclude Include="GuessNumberHigherOrLower.h" />
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="HouseRobber.h" />
@@ -414,6 +415,7 @@
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="Validator.h" />
+    <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="WiggleSubsequence.h" />

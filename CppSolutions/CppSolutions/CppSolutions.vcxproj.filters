@@ -853,6 +853,12 @@
     <ClInclude Include="ReverseWordsInAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidPalindrome.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="GuessNumberHigherOrLower.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
