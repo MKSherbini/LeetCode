@@ -1,6 +1,4 @@
-blue is sky the judge: Accepted
+45 judge: Accepted
 
-world hello judge: Accepted
-
-example good a judge: Accepted
+16 judge: Accepted
 

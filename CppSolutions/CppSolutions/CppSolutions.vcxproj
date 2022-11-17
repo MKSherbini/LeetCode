@@ -320,6 +320,7 @@
     <ClInclude Include="PushDominoes.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
+    <ClInclude Include="RectangleArea.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
