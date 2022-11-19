@@ -198,6 +198,7 @@
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
+    <ClInclude Include="ErectTheFence.h" />
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />
