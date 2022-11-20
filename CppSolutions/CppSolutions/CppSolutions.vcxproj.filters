@@ -868,6 +868,9 @@
     <ClInclude Include="ErectTheFence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BasicCalculator.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
