@@ -291,6 +291,7 @@
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="MyCalendarIII.h" />
     <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="NearestExitFromEntranceInMaze.h" />
     <ClInclude Include="NodeSupport.h" />
     <ClInclude Include="NonDecreasingArray.h" />
     <ClInclude Include="NQueens.h" />
