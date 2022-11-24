@@ -12,6 +12,10 @@ public:
 	unordered_map<char, TrieNode*> next;
 	TrieNode() {
 	}
+	~TrieNode() {
+		for (auto c : next)
+			delete c.second;
+	}
 	TrieNode(char c) {
 		this->c = c;
 	}

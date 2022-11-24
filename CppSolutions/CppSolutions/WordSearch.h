@@ -7,15 +7,50 @@ using namespace std;
 class WordSearch
 {
 public:
-	// 480 ms, faster than 55.83% : 7.8 MB, less than 91.39%
+	// 433 ms, faster than 73.2% : 9.1 MB, less than 5.54%, better but small set
 	bool solution(vector<vector<char>> board, string word) {
+		TrieNode trie;
+		trie.add(word);
+		bool ret = false;
+		for (size_t i = 0; i < board.size(); i++) {
+			for (size_t j = 0; j < board[0].size(); j++) {
+				ret |= f(board, &trie, 0, i, j);
+				if (ret) break;
+			}
+		}
+
+		return ret;
+	}
+	bool f(vector<vector<char>>& board, TrieNode* p, int curr, int i, int j) {
+		if (i < 0 || i >= board.size() || j < 0 || j >= board[0].size() || board[i][j] == '*') return false;
+		auto node = p->next[board[i][j]];
+		if (!node) return false;
+		char t = board[i][j];
+		board[i][j] = '*';
+
+		if (node->isTerminal) return true;
+
+		int dx[] = { 1,-1,0,0 };
+		int dy[] = { 0,0,1,-1 };
+
+		bool ret = false;
+		for (int z = 0; z < 4; z++) {
+			ret |= f(board, node, curr + 1, i + dx[z], j + dy[z]);
+			if (ret) break;
+		}
+
+		board[i][j] = t;
+
+		return ret;
+	}
+	// 480 ms, faster than 55.83% : 7.8 MB, less than 91.39%
+	bool solution2(vector<vector<char>> board, string word) {
 		bool ret = false;
 		for (size_t i = 0; i < board.size(); i++)
 		{
 			for (size_t j = 0; j < board[0].size(); j++)
 			{
 				ret |= curse(board, word, 0, i, j);
-
 			}
 		}
 		return ret;
