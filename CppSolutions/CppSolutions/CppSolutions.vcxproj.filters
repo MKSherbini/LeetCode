@@ -877,6 +877,9 @@
     <ClInclude Include="PerfectSquares.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SumOfSubarrayMinimums.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
