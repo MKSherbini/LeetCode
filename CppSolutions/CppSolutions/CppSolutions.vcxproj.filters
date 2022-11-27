@@ -880,6 +880,9 @@
     <ClInclude Include="SumOfSubarrayMinimums.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumProfitInJobScheduling.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
