@@ -150,6 +150,7 @@
     <ClInclude Include="AddOneRowToTree.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="ArithmeticSlices.h" />
+    <ClInclude Include="ArithmeticSlicesIiSubsequence.h" />
     <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
