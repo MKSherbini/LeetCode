@@ -211,6 +211,7 @@
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="FindPeakElement.h" />
+    <ClInclude Include="FindPlayersWithZeroOrOneLosses.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
