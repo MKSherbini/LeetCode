@@ -892,6 +892,9 @@
     <ClInclude Include="InsertDeleteGetrandomO1.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UniqueNumberOfOccurrences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
