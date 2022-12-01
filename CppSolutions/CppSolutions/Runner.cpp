@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "UniqueNumberOfOccurrences.h"
+#include "DetermineIfStringHalvesAreAlike.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<UniqueNumberOfOccurrences>();
+	Runner(false).run<DetermineIfStringHalvesAreAlike>();
 }
 

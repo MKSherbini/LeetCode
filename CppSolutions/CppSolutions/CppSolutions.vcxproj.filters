@@ -895,6 +895,9 @@
     <ClInclude Include="UniqueNumberOfOccurrences.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DetermineIfStringHalvesAreAlike.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
