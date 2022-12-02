@@ -199,6 +199,7 @@
     <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DetermineIfStringHalvesAreAlike.h" />
+    <ClInclude Include="DetermineIfTwoStringsAreClose.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="ErectTheFence.h" />
