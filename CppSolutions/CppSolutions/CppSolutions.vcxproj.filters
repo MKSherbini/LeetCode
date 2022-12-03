@@ -901,6 +901,9 @@
     <ClInclude Include="DetermineIfTwoStringsAreClose.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortCharactersByFrequency.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
