@@ -1,6 +1,4 @@
-eetr judge: Accepted
+3 judge: Accepted
 
-cccaaa judge: Accepted
-
-bbaA1 judge: Accepted
+0 judge: Accepted
 

@@ -904,6 +904,9 @@
     <ClInclude Include="SortCharactersByFrequency.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumAverageDifference.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
