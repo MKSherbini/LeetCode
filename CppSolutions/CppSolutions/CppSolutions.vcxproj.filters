@@ -910,6 +910,9 @@
     <ClInclude Include="OddEvenLinkedList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TopKFrequentElements.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

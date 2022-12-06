@@ -414,6 +414,7 @@
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="ToeplitzMatrix.h" />
+    <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TreeSupport.h" />
