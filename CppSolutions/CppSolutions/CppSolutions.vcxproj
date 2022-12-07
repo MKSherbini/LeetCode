@@ -331,6 +331,7 @@
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="PushDominoes.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
+    <ClInclude Include="RangeSumOfBst.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="RectangleArea.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
