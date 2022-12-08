@@ -247,6 +247,7 @@
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestPerimeterTriangle.h" />
+    <ClInclude Include="LeafSimilarTrees.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />

@@ -916,6 +916,9 @@
     <ClInclude Include="RangeSumOfBst.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LeafSimilarTrees.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
