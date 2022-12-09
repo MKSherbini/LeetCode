@@ -14,3 +14,5 @@
 //bool valid(int x, int n) {
 //	return x >= 0 && x < n;
 //}
+
+// 26 1 case, 
