@@ -922,6 +922,9 @@
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumProductOfSplittedBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

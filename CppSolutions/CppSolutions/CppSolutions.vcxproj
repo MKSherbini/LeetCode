@@ -272,6 +272,7 @@
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
+    <ClInclude Include="MaximumProductOfSplittedBinaryTree.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumProfitInJobScheduling.h" />
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
