@@ -161,6 +161,7 @@
     <ClInclude Include="BinaryTreeCameras.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="BinaryTreeMaximumPathSum.h" />
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
