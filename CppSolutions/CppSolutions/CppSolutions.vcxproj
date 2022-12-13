@@ -288,6 +288,7 @@
     <ClInclude Include="MinimizeMaximumOfArray.h" />
     <ClInclude Include="MinimumAverageDifference.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
+    <ClInclude Include="MinimumFallingPathSum.h" />
     <ClInclude Include="MinimumGeneticMutation.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />

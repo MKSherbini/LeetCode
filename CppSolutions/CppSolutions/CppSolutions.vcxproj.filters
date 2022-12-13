@@ -928,6 +928,9 @@
     <ClInclude Include="BinaryTreeMaximumPathSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumFallingPathSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
