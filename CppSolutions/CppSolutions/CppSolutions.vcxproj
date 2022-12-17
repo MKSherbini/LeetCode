@@ -204,6 +204,7 @@
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="ErectTheFence.h" />
+    <ClInclude Include="EvaluateReversePolishNotation.h" />
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />
     <ClInclude Include="FindAllAnagramsInAString.h" />

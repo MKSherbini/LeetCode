@@ -931,6 +931,9 @@
     <ClInclude Include="MinimumFallingPathSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="EvaluateReversePolishNotation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

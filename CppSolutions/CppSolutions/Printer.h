@@ -108,6 +108,18 @@ public:
 		cout << '\n';
 	}
 
+	template<typename T>
+	static void printOne(const stack<T>& v) {
+		auto t = v;
+		while (!t.empty())
+		{
+			printOne(t.top());
+			t.pop();
+			if (!t.empty()) printOne(", ");
+		}
+		cout << '\n';
+	}
+
 	template<typename T, typename R, typename V>
 	static void printOne(const priority_queue<T, R, V>& v) {
 		auto t = v;
