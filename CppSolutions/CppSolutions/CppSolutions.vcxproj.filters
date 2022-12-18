@@ -934,6 +934,9 @@
     <ClInclude Include="EvaluateReversePolishNotation.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DailyTemperatures.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
