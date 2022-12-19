@@ -212,6 +212,7 @@
     <ClInclude Include="FindAndReplacePattern.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
+    <ClInclude Include="FindIfPathExistsInGraph.h" />
     <ClInclude Include="FindKClosestElements.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
