@@ -940,6 +940,9 @@
     <ClInclude Include="FindIfPathExistsInGraph.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KeysAndRooms.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
