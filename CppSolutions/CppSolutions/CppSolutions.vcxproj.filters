@@ -943,6 +943,9 @@
     <ClInclude Include="KeysAndRooms.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PossibleBipartition.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -332,6 +332,7 @@
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
+    <ClInclude Include="PossibleBipartition.h" />
     <ClInclude Include="PowerOfFour.h" />
     <ClInclude Include="PowerOfThree.h" />
     <ClInclude Include="PowerOfTwo.h" />
