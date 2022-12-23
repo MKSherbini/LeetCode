@@ -419,6 +419,7 @@
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="sumClosest3.h" />
+    <ClInclude Include="SumOfDistancesInTree.h" />
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
     <ClInclude Include="SumOfSubarrayMinimums.h" />
     <ClInclude Include="SurroundedRegions.h" />
