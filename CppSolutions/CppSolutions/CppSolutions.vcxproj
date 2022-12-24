@@ -158,6 +158,7 @@
     <ClInclude Include="BasicCalculator.h" />
     <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockIV.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockWithCooldown.h" />
     <ClInclude Include="BinaryTreeCameras.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
