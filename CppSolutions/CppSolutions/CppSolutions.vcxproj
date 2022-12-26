@@ -267,6 +267,7 @@
     <ClInclude Include="LongestPalindromeByConcatenatingTwoLetterWords.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="LongestSubsequenceWithLimitedSum.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MakeTheStringGreat.h" />

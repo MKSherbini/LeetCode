@@ -955,6 +955,9 @@
     <ClInclude Include="DominoAndTrominoTiling.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestSubsequenceWithLimitedSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
