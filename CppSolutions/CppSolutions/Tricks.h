@@ -16,3 +16,6 @@
 //}
 
 // 26 1 case, 
+
+//	std::lower_bound - returns iterator to first element in the given range which is EQUAL_TO or Greater than val.
+//	std::upper_bound - returns iterator to first element in the given range which is Greater than val.
