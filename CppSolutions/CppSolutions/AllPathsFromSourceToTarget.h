@@ -7,8 +7,27 @@ using namespace std;
 class AllPathsFromSourceToTarget
 {
 public:
-	// 20 ms, faster than 63.23% : 14 MB, less than 45.79%
+	// 6 ms, faster than 99.3% : 10.4 MB, less than 98.77%
 	vector<vector<int>> solution(vector<vector<int>> graph) {
+		vector<vector<int>> ans;
+		vector<int> row = { 0 };
+		f(graph, ans, row, 0);
+		return ans;
+	}
+	void f(vector<vector<int>>& graph, vector<vector<int>>& ans, vector<int>& row, int i) {
+		//Printer::printAll(i, "->", row);
+		if (i == graph.size() - 1) return ans.push_back(row);
+
+		for (int j = 0; j < graph[i].size(); j++)
+		{
+			row.push_back(graph[i][j]);
+			f(graph, ans, row, graph[i][j]);
+			row.pop_back();
+		}
+	}
+
+	// 20 ms, faster than 63.23% : 14 MB, less than 45.79%
+	vector<vector<int>> solution2(vector<vector<int>> graph) {
 		vector<vector<int>> ans;
 		curse(graph, ans, { 0 }, 0);
 		return ans;
