@@ -447,6 +447,7 @@
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="UniqueNumberOfOccurrences.h" />
     <ClInclude Include="UniquePaths.h" />
+    <ClInclude Include="UniquePathsIII.h" />
     <ClInclude Include="Utf8Validation.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />

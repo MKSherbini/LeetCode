@@ -967,6 +967,9 @@
     <ClInclude Include="SingleThreadedCpu.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UniquePathsIII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
