@@ -457,6 +457,7 @@
     <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
+    <ClInclude Include="WordPattern.h" />
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />

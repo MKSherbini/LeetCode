@@ -1,20 +1,21 @@
-1 0 0 0 
-0 0 0 0 
-0 0 2 -1 
+dog 
+cat 
+cat 
+dog 
+1 judge: Accepted
 
-
-2 judge: Accepted
-
-1 0 0 0 
-0 0 0 0 
-0 0 0 2 
-
-
-4 judge: Accepted
-
-0 1 
-2 0 
-
-
+dog 
+cat 
+cat 
+fish 
 0 judge: Accepted
+
+dog 
+cat 
+0 judge: Accepted
+
+b 
+c 
+a 
+1 judge: Accepted
 
