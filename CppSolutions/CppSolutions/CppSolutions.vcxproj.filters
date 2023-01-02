@@ -973,6 +973,9 @@
     <ClInclude Include="WordPattern.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DetectCapital.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

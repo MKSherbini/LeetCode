@@ -1,21 +1,4 @@
-dog 
-cat 
-cat 
-dog 
 1 judge: Accepted
 
-dog 
-cat 
-cat 
-fish 
 0 judge: Accepted
-
-dog 
-cat 
-0 judge: Accepted
-
-b 
-c 
-a 
-1 judge: Accepted
 
