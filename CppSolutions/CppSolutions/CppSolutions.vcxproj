@@ -303,6 +303,7 @@
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
+    <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />

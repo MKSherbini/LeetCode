@@ -979,6 +979,9 @@
     <ClInclude Include="DeleteColumnsToMakeSorted.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumRoundsToCompleteAllTasks.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
