@@ -163,6 +163,7 @@
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
+    <ClInclude Include="BinaryTreePostorderTraversal.h" />
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
@@ -432,6 +433,7 @@
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
     <ClInclude Include="SumOfSubarrayMinimums.h" />
     <ClInclude Include="SurroundedRegions.h" />
+    <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="ToeplitzMatrix.h" />

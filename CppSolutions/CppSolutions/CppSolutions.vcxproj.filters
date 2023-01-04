@@ -982,6 +982,12 @@
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SymmetricTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePostorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
