@@ -988,6 +988,9 @@
     <ClInclude Include="BinaryTreePostorderTraversal.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveDuplicatesFromSortedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
