@@ -302,6 +302,7 @@
     <ClInclude Include="MinimumFallingPathSum.h" />
     <ClInclude Include="MinimumGeneticMutation.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
+    <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />

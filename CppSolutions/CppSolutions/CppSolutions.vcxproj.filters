@@ -991,6 +991,9 @@
     <ClInclude Include="RemoveDuplicatesFromSortedList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
