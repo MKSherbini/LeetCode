@@ -994,6 +994,12 @@
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="InvertBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumIceCreamBars.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -249,6 +249,7 @@
     <ClInclude Include="IntersectionOfTwoArraysIi.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="IntervalListIntersections.h" />
+    <ClInclude Include="InvertBinaryTree.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="JumpGameVi.h" />
@@ -280,6 +281,7 @@
     <ClInclude Include="MaximumBagsWithFullCapacityOfRocks.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumErasureValue.h" />
+    <ClInclude Include="MaximumIceCreamBars.h" />
     <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
