@@ -462,6 +462,7 @@
     <ClInclude Include="Utf8Validation.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />
+    <ClInclude Include="ValidateBinarySearchTree.h" />
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
