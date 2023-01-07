@@ -1009,6 +1009,9 @@
     <ClInclude Include="ValidateBinarySearchTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="GasStation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
