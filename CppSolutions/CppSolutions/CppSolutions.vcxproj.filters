@@ -1003,6 +1003,9 @@
     <ClInclude Include="SearchInABinarySearchTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="InsertIntoABinarySearchTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
