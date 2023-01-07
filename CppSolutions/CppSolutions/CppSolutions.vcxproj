@@ -403,6 +403,7 @@
     <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchA2dMatrixII.h" />
+    <ClInclude Include="SearchInABinarySearchTree.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="SegmentTree.h" />
