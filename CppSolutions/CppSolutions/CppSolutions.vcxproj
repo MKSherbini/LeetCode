@@ -312,6 +312,7 @@
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
+    <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MinimumTimeToMakeRopeColorful.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MirrorReflection.h" />

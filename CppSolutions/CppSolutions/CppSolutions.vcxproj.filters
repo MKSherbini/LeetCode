@@ -1012,6 +1012,10 @@
     <ClInclude Include="GasStation.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SameTree.h" />
+    <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
