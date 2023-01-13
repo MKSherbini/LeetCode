@@ -1019,6 +1019,9 @@
     <ClInclude Include="NumberOfNodesInTheSubTreeWithTheSameLabel.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestPathWithDifferentAdjacentCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
