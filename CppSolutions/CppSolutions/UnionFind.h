@@ -46,3 +46,34 @@ public:
 		return setsize[findSet(i)];
 	}
 };
+
+class UnionFind {
+private:
+	int numsets;
+public:
+	unordered_map<int, int> p;
+	UnionFind() {
+		numsets = 0;
+	}
+
+	int findSet(int i) {
+		if (p.find(i) == end(p)) p[i] = i, ++numsets;
+		return (p[i] == i) ? i : p[i] = findSet(p[i]);
+	}
+
+	bool sameSet(int i, int j) {
+		return (findSet(i) == findSet(j));
+	}
+
+	void unionSet(int i, int j) {
+		if (!sameSet(i, j)) {
+			numsets--;
+			int x = findSet(i), y = findSet(j);
+			p[x] = y;
+		}
+	}
+
+	int numOfSets() {
+		return numsets;
+	}
+};

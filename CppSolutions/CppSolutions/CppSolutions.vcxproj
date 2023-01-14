@@ -264,6 +264,7 @@
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterBlocks.h" />
     <ClInclude Include="LetterCombinationsOfAPhoneNumber.h" />
+    <ClInclude Include="LexicographicallySmallestEquivalentString.h" />
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="LinkedListCycleIi.h" />
     <ClInclude Include="LinkedListSupport.h" />
