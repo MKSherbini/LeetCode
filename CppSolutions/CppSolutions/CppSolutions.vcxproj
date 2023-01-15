@@ -330,6 +330,7 @@
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
+    <ClInclude Include="NumberOfGoodPaths.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
     <ClInclude Include="NumberOfMatchingSubsequences.h" />

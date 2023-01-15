@@ -1,6 +1,6 @@
-makkek judge: Accepted
+6 judge: Accepted
 
-hdld judge: Accepted
+7 judge: Accepted
 
-aauaaaaada judge: Accepted
+1 judge: Accepted
 
