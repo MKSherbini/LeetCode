@@ -243,6 +243,7 @@
     <ClInclude Include="ImplementQueueUsingStacks.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetrandomO1.h" />
+    <ClInclude Include="InsertInterval.h" />
     <ClInclude Include="InsertIntoABinarySearchTree.h" />
     <ClInclude Include="IntegerBreak.h" />
     <ClInclude Include="IntegerToRoman.h" />

@@ -1028,6 +1028,9 @@
     <ClInclude Include="NumberOfGoodPaths.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="InsertInterval.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
