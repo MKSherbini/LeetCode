@@ -228,6 +228,7 @@
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />
+    <ClInclude Include="FlipStringToMonotoneIncreasing.h" />
     <ClInclude Include="FloodFill.h" />
     <ClInclude Include="FurthestBuildingYouCanReach.h" />
     <ClInclude Include="GasStation.h" />

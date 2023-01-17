@@ -1,5 +1,12 @@
 #pragma once
 
+class Printer
+{
+public:
+	template<typename... Args>
+	static void print(const Args&... args) {
+	}
+};
 // assume answer and try to prove it with searching
 // int vis = (taken & (1 << i));  taken | (1 << i)
 
