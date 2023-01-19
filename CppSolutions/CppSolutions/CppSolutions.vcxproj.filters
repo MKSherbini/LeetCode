@@ -1035,6 +1035,9 @@
     <ClInclude Include="MaximumSumCircularSubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SubarraySumsDivisibleByK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

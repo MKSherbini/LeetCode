@@ -437,6 +437,7 @@
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="stdc++.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
+    <ClInclude Include="SubarraySumsDivisibleByK.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
