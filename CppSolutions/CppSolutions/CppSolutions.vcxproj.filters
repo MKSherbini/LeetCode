@@ -1031,6 +1031,10 @@
     <ClInclude Include="InsertInterval.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FlipStringToMonotoneIncreasing.h" />
+    <ClInclude Include="MaximumSumCircularSubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
