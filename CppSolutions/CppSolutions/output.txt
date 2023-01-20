@@ -1,4 +1,15 @@
-7 judge: Accepted
+7 7 
+6 7 
+6 7 7 
+4 7 
+4 7 7 
+4 6 
+4 6 7 
+4 6 7 7 
 
-0 judge: Accepted
+judge: Accepted
+
+4 4 
+
+judge: Accepted
 

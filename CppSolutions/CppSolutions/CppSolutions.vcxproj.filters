@@ -1038,6 +1038,9 @@
     <ClInclude Include="SubarraySumsDivisibleByK.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NonDecreasingSubsequences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
