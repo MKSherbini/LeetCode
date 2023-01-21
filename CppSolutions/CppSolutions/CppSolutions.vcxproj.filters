@@ -1041,6 +1041,9 @@
     <ClInclude Include="NonDecreasingSubsequences.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RestoreIpAddresses.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
