@@ -1012,7 +1012,6 @@
     <ClInclude Include="GasStation.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="SameTree.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
@@ -1031,7 +1030,6 @@
     <ClInclude Include="InsertInterval.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="FlipStringToMonotoneIncreasing.h" />
     <ClInclude Include="MaximumSumCircularSubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
@@ -1042,6 +1040,12 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="RestoreIpAddresses.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipStringToMonotoneIncreasing.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="SameTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
   </ItemGroup>
