@@ -225,6 +225,7 @@
     <ClInclude Include="FindPlayersWithZeroOrOneLosses.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
+    <ClInclude Include="FindTheTownJudge.h" />
     <ClInclude Include="FirstUniqueCharacterInAString.h" />
     <ClInclude Include="FlattenBinaryTreeToLinkedList.h" />
     <ClInclude Include="FlattenNestedListIterator.h" />

@@ -1048,6 +1048,9 @@
     <ClInclude Include="SameTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheTownJudge.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
