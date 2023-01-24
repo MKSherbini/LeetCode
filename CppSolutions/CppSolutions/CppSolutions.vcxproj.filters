@@ -1051,6 +1051,9 @@
     <ClInclude Include="FindTheTownJudge.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SnakesAndLadders.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

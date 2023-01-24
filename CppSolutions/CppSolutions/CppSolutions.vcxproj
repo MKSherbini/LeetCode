@@ -431,6 +431,7 @@
     <ClInclude Include="ShuffleTheArray.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SingleThreadedCpu.h" />
+    <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />
