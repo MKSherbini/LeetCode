@@ -1054,6 +1054,9 @@
     <ClInclude Include="SnakesAndLadders.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindClosestNodeToGivenTwoNodes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
