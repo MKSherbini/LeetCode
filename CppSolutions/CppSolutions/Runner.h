@@ -76,6 +76,12 @@ private:
 			run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i], t.input4[i]);
 	}
 	
+	template<typename T, int params, typename std::enable_if<params == 5, int*>::type = nullptr>
+	void run(T t) {
+		for (int i = 0; i < t.output.size(); i++)
+			run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i], t.input4[i], t.input5[i]);
+	}
+
 	template<typename T, int params, typename std::enable_if<params == 8, int*>::type = nullptr>
 	void run(T t) {
 		for (int i = 0; i < t.output.size(); i++)

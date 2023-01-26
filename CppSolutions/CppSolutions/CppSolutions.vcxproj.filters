@@ -1057,6 +1057,9 @@
     <ClInclude Include="FindClosestNodeToGivenTwoNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheapestFlightsWithinKStops.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

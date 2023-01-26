@@ -171,6 +171,7 @@
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Candy.h" />
+    <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h" />
     <ClInclude Include="ClimbingStairs.h" />
