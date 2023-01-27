@@ -180,6 +180,7 @@
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="CombinationSumIV.h" />
+    <ClInclude Include="ConcatenatedWords.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
     <ClInclude Include="ConstructStringFromBinaryTree.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
