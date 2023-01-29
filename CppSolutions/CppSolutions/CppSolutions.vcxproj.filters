@@ -1066,6 +1066,9 @@
     <ClInclude Include="DataStreamAsDisjointIntervals.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LFUCache.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
