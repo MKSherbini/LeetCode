@@ -1,10 +1,4 @@
-catsdogcats 
-dogcatsdog 
-ratcatdogcat 
+4 judge: Accepted
 
-judge: Accepted
-
-catdog 
-
-judge: Accepted
+1389537 judge: Accepted
 

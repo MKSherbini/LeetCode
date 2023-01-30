@@ -338,6 +338,7 @@
     <ClInclude Include="NonDecreasingSubsequences.h" />
     <ClInclude Include="NQueens.h" />
     <ClInclude Include="NQueens2.h" />
+    <ClInclude Include="NThTribonacciNumber.h" />
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfGoodPaths.h" />
