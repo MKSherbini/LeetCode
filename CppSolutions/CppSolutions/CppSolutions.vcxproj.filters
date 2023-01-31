@@ -1072,6 +1072,9 @@
     <ClInclude Include="NThTribonacciNumber.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BestTeamWithNoConflicts.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
