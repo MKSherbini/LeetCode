@@ -1075,6 +1075,9 @@
     <ClInclude Include="BestTeamWithNoConflicts.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="GreatestCommonDivisorOfStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

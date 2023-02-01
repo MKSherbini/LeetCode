@@ -1,6 +1,6 @@
-34 judge: Accepted
+ABC judge: Accepted
 
-16 judge: Accepted
+AB judge: Accepted
 
-6 judge: Accepted
+ judge: Accepted
 

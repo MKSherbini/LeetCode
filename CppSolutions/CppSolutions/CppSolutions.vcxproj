@@ -240,6 +240,7 @@
     <ClInclude Include="GasStation.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GoalParserInterpretation.h" />
+    <ClInclude Include="GreatestCommonDivisorOfStrings.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="GuessNumberHigherOrLower.h" />
     <ClInclude Include="HappyNumber.h" />
