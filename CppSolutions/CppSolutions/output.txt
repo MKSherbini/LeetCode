@@ -1,6 +1,6 @@
-ABC judge: Accepted
+1 judge: Accepted
 
-AB judge: Accepted
+0 judge: Accepted
 
- judge: Accepted
+0 judge: Accepted
 

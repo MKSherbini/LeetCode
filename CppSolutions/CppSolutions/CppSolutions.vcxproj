@@ -490,6 +490,7 @@
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidSudoku.h" />
+    <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordPattern.h" />
