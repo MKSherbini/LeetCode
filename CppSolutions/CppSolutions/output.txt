@@ -1,6 +1,6 @@
-1 judge: Accepted
+PAHNAPLSIIGYIR judge: Accepted
 
-0 judge: Accepted
+PINALSIGYAHRPI judge: Accepted
 
-0 judge: Accepted
+A judge: Accepted
 

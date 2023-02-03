@@ -497,6 +497,7 @@
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />
+    <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
