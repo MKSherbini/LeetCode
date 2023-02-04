@@ -1,6 +1,17 @@
-PAHNAPLSIIGYIR judge: Accepted
+0 1 
+1 2 
+2 2 
+3 1 
+4 0 
+1 judge: Accepted
 
-PINALSIGYAHRPI judge: Accepted
-
-A judge: Accepted
+0 2 
+1 2 
+2 2 
+3 1 
+4 2 
+5 1 
+6 2 
+7 2 
+0 judge: Accepted
 
