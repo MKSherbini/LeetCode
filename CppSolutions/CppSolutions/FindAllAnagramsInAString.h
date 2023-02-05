@@ -7,8 +7,38 @@ using namespace std;
 class FindAllAnagramsInAString
 {
 public:
-	// 8 ms, faster than 97.2% : 8.5 MB, less than 98.38%
+	// 0 ms, faster than 100% : 8.5 MB, less than 99.32%
 	vector<int> solution(string s, string p) {
+		vector<int> target(26);
+		for (int i = 0; i < size(p); i++)
+			target[p[i] - 'a']++;
+
+		int n = size(p), chars = n, st = 0;
+		vector<int> ans;
+		for (int i = 0; i < size(s); i++) {
+			int charIdx = s[i] - 'a';
+
+			if (target[charIdx] > 0)
+				--target[charIdx], --chars;
+			else {
+				while (st <= i) {
+					if (s[st] == s[i]) {
+						++st;
+						break;
+					}
+					++target[s[st] - 'a'], ++chars, ++st;
+				}
+			}
+
+			Printer::print(i, chars);
+			if (chars == 0)  ans.push_back(st);
+		}
+
+		return ans;
+	}
+
+	// 8 ms, faster than 97.2% : 8.5 MB, less than 98.38%
+	vector<int> solution2(string s, string p) {
 		vector<int> ans;
 		vector<int> pCharsCount(26, 0);
 		for (int i = 0; i < p.size(); i++)
