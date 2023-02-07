@@ -1084,6 +1084,9 @@
     <ClInclude Include="ZigzagConversion.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FruitIntoBaskets.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
