@@ -334,6 +334,7 @@
     <ClInclude Include="MostStonesRemovedWithSameRowOrColumn.h" />
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="MyCalendarIII.h" />
+    <ClInclude Include="NamingACompany.h" />
     <ClInclude Include="NAryTreeLevelOrderTraversal.h" />
     <ClInclude Include="NearestExitFromEntranceInMaze.h" />
     <ClInclude Include="NodeSupport.h" />
