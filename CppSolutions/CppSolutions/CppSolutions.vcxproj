@@ -436,6 +436,7 @@
     <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
+    <ClInclude Include="ShortestPathWithAlternatingColors.h" />
     <ClInclude Include="ShortestUnsortedContinuousSubarray.h" />
     <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="ShuffleString.h" />

@@ -1093,6 +1093,9 @@
     <ClInclude Include="AsFarFromLandAsPossible.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ShortestPathWithAlternatingColors.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
