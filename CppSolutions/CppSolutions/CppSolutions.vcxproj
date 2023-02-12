@@ -319,6 +319,7 @@
     <ClInclude Include="MinimumAverageDifference.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumFallingPathSum.h" />
+    <ClInclude Include="MinimumFuelCostToReportToTheCapital.h" />
     <ClInclude Include="MinimumGeneticMutation.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
