@@ -194,6 +194,7 @@
     <ClInclude Include="CountCompleteTreeNodes.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CountItemsMatchingARule.h" />
+    <ClInclude Include="CountOddNumbersInAnIntervalRange.h" />
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
     <ClInclude Include="CountVowelsPermutation.h" />
     <ClInclude Include="CourseScheduleIii.h" />

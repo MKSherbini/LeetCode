@@ -1099,6 +1099,9 @@
     <ClInclude Include="MinimumFuelCostToReportToTheCapital.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountOddNumbersInAnIntervalRange.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
