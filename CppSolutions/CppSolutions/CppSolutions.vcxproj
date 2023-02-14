@@ -147,6 +147,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddOneRowToTree.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="ArithmeticSlices.h" />
