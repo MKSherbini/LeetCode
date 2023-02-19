@@ -171,6 +171,7 @@
     <ClInclude Include="BinaryTreePreorderTraversal.h" />
     <ClInclude Include="BinaryTreePruning.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
+    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
