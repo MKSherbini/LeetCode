@@ -1111,6 +1111,10 @@
     <ClInclude Include="MinimumDistanceBetweenBstNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
+    <ClInclude Include="SingleElementInASortedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
