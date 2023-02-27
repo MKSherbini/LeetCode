@@ -188,6 +188,7 @@
     <ClInclude Include="CombinationSumIV.h" />
     <ClInclude Include="ConcatenatedWords.h" />
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndInorderTraversal.h" />
+    <ClInclude Include="ConstructQuadTree.h" />
     <ClInclude Include="ConstructStringFromBinaryTree.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />

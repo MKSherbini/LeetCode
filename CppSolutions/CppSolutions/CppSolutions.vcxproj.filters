@@ -1121,6 +1121,9 @@
     <ClInclude Include="MinimizeDeviationInArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConstructQuadTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
