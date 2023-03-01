@@ -1127,6 +1127,9 @@
     <ClInclude Include="FindDuplicateSubtrees.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
