@@ -1133,6 +1133,9 @@
     <ClInclude Include="StringCompression.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheIndexOfTheFirstOccurrenceInAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
