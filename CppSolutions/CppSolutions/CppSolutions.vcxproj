@@ -201,6 +201,7 @@
     <ClInclude Include="CountItemsMatchingARule.h" />
     <ClInclude Include="CountOddNumbersInAnIntervalRange.h" />
     <ClInclude Include="CountOfSmallerNumbersAfterSelf.h" />
+    <ClInclude Include="CountSubarraysWithFixedBounds.h" />
     <ClInclude Include="CountVowelsPermutation.h" />
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="D1000000.h" />

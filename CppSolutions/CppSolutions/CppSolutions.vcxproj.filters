@@ -1136,6 +1136,9 @@
     <ClInclude Include="FindTheIndexOfTheFirstOccurrenceInAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountSubarraysWithFixedBounds.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
