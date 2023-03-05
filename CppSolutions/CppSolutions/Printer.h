@@ -97,6 +97,18 @@ public:
 	}
 
 	template<typename T>
+	static void printOne(const queue<T>& v) {
+		auto t = v;
+		while (!t.empty())
+		{
+			printOne(t.front());
+			t.pop();
+			if (!t.empty()) printOne(", ");
+		}
+		cout << '\n';
+	}
+	
+	template<typename T>
 	static void printOne(const priority_queue<T>& v) {
 		priority_queue<T> t = v;
 		while (!t.empty())
