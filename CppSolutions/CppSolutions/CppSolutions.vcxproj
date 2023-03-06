@@ -279,6 +279,7 @@
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="KeysAndRooms.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
+    <ClInclude Include="KthMissingPositiveNumber.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestPerimeterTriangle.h" />
     <ClInclude Include="LeafSimilarTrees.h" />
