@@ -29,3 +29,5 @@ public:
 
 //sort(begin(ans), end(ans));
 //ans.erase(unique(begin(ans), end(ans)), end(ans));
+
+//priority_queue<int, vector<int>, greater<int>> q;

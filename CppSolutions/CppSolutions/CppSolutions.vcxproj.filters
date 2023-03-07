@@ -1145,6 +1145,9 @@
     <ClInclude Include="KthMissingPositiveNumber.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumTimeToCompleteTrips.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
