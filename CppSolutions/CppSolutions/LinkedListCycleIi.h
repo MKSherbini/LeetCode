@@ -4,11 +4,32 @@ using namespace std;
 
 //https://leetcode.com/problems/linked-list-cycle-ii/
 
-class LinkedListCycleIi
+class LinkedListCycleII
 {
 public:
-	// 4 ms, faster than 97.1% : 7.4 MB, less than 99.05%
+	// 0 ms, faster than 100% : 7.5 MB, less than 84.91%
 	ListNode* solution(ListNode* head) {
+		if (!head || !head->next) return NULL;
+		ListNode* slow = head->next;
+		ListNode* fast = head->next->next;
+
+		while (fast != slow) {
+			slow = slow->next;
+			if (!fast || !fast->next) return NULL;
+			fast = fast->next->next;
+		}
+
+		fast = head;
+		while (fast != slow) {
+			slow = slow->next;
+			fast = fast->next;
+		}
+
+		return fast;
+	}
+
+	// 4 ms, faster than 97.1% : 7.4 MB, less than 99.05%
+	ListNode* solution2(ListNode* head) {
 		ListNode* fast = head;
 		ListNode* slow = head;
 

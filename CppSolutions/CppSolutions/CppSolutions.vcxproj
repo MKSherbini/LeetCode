@@ -290,7 +290,7 @@
     <ClInclude Include="LexicographicallySmallestEquivalentString.h" />
     <ClInclude Include="LFUCache.h" />
     <ClInclude Include="LinkedListCycle.h" />
-    <ClInclude Include="LinkedListCycleIi.h" />
+    <ClInclude Include="LinkedListCycleII.h" />
     <ClInclude Include="LinkedListSupport.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestConsecutiveSequence.h" />

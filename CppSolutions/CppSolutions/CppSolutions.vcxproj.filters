@@ -478,7 +478,7 @@
     <ClInclude Include="LinkedListCycle.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedListCycleIi.h">
+    <ClInclude Include="LinkedListCycleII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="LongestConsecutiveSequence.h">
