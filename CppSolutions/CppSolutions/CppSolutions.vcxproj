@@ -326,6 +326,7 @@
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
     <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />
+    <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MinCostClimbingStairs.h" />
     <ClInclude Include="MinimizeDeviationInArray.h" />

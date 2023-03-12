@@ -1154,6 +1154,9 @@
     <ClInclude Include="ConvertSortedListToBinarySearchTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MergeKSortedLists.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
