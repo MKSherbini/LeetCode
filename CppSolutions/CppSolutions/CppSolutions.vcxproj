@@ -178,6 +178,7 @@
     <ClInclude Include="Candy.h" />
     <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
+    <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h" />
     <ClInclude Include="ClimbingStairs.h" />

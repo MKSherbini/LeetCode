@@ -1160,6 +1160,9 @@
     <ClInclude Include="SumRootToLeafNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckCompletenessOfABinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
