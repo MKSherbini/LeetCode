@@ -31,17 +31,17 @@ public:
 
 	static const int SPACING = 1;
 
-	static void printOne(TrieNode* root, int space = 0) {
+	static void printOne(TrieNode* root, char c = '.', int space = 0) {
 		if (root == NULL)
 			return;
 
 		for (int i = 0; i < space; i++)
 			cout << "\t";
-		printOne(root->c);
+		printOne(c);
 		printOne(root->isTerminal, 1);
 
-		for (auto& p : root->next) {
-			printOne(p.second, space + 1);
+		for (auto& [c, trie] : root->next) {
+			printOne(trie, c, space + 1);
 		}
 	}
 
@@ -107,7 +107,7 @@ public:
 		}
 		cout << '\n';
 	}
-	
+
 	template<typename T>
 	static void printOne(const priority_queue<T>& v) {
 		priority_queue<T> t = v;

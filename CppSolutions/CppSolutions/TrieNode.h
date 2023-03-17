@@ -4,43 +4,45 @@ using namespace std;
 
 class TrieNode {
 public:
-	string word = "";
-	char c = 0;
 	bool isTerminal = false;
-	bool isDeleted = false;
-	TrieNode* parent = NULL;
-	unordered_map<char, TrieNode*> next;
+	TrieNode* next[26] = { NULL };
 	TrieNode() {
 	}
 	~TrieNode() {
-		for (auto c : next)
-			delete c.second;
 	}
-	TrieNode(char c) {
-		this->c = c;
+	void add(string& s) {
+		TrieNode* node = findNode(s, true);
+		node->isTerminal = true;
 	}
-	void add(string& s, int i = 0) {
-		int c = s[i];
-		if (i < size(s)) {
-			if (!next[c]) {
-				auto newnode = new TrieNode(c);
-				next[c] = newnode;
+
+	bool search(string& s) {
+		TrieNode* node = findNode(s, false);
+		return node && node->isTerminal;
+	}
+
+	bool searchPrefix(string& s) {
+		return findNode(s, false);
+	}
+
+	void remove(string& s) {
+		TrieNode* node = findNode(s, false);
+		node->isTerminal = false;
+	}
+
+private:
+	TrieNode* findNode(string& s, bool createPath) {
+		TrieNode* node = this;
+		for (auto c : s) {
+			c = tolower(c) - 'a';
+			if (!node->next[c]) {
+				if (createPath)
+					node->next[c] = new TrieNode();
+				else
+					return NULL;
 			}
-			next[c]->add(s, i + 1);
+			node = node->next[c];
 		}
-		else
-		{
-			isTerminal = true;
-			word = s;
-		}
+		return node;
 	}
-	void remove() {
-		isTerminal = false;
-		//if (next.empty() && parent) deleted = true, parent->remove(this->c);
-	}
-	void remove(char c) {
-		//delete next[c];
-		next.erase(c);
-		if (next.empty() && parent) isDeleted = true, parent->remove(this->c);
-	}
+
 };
