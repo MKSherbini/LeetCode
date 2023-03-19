@@ -1169,6 +1169,9 @@
     <ClInclude Include="DesignBrowserHistory.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DesignAddAndSearchWordsDataStructure.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -31,6 +31,7 @@ public:
 
 	static const int SPACING = 1;
 
+#ifdef TRIE_NODE
 	static void printOne(TrieNode* root, char c = '.', int space = 0) {
 		if (root == NULL)
 			return;
@@ -44,6 +45,7 @@ public:
 			printOne(trie, c, space + 1);
 		}
 	}
+#endif
 
 	static void printOne(TreeNode* root, int space = 0) {
 		if (root == NULL)

@@ -2,6 +2,7 @@
 #include "stdc++.h"
 using namespace std;
 
+#define TRIE_NODE
 class TrieNode {
 public:
 	bool isTerminal = false;
@@ -44,5 +45,4 @@ private:
 		}
 		return node;
 	}
-
 };
