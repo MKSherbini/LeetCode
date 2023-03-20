@@ -176,6 +176,7 @@
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Candy.h" />
+    <ClInclude Include="CanPlaceFlowers.h" />
     <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
