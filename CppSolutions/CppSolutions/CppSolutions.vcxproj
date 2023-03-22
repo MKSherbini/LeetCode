@@ -347,6 +347,7 @@
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
+    <ClInclude Include="MinimumScoreOfAPathBetweenTwoCities.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />

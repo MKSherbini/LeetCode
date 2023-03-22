@@ -1178,6 +1178,9 @@
     <ClInclude Include="NumberOfZeroFilledSubarrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumScoreOfAPathBetweenTwoCities.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
