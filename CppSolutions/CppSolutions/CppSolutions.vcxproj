@@ -412,6 +412,7 @@
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveStonesToMinimizeTheTotal.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
+    <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="RestoreIpAddresses.h" />
     <ClInclude Include="ReverseBits.h" />
