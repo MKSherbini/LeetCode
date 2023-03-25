@@ -1187,6 +1187,9 @@
     <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountUnreachablePairsOfNodesInAnUndirectedGraph.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
