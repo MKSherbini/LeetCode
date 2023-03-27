@@ -1190,6 +1190,9 @@
     <ClInclude Include="CountUnreachablePairsOfNodesInAnUndirectedGraph.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumPathSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
