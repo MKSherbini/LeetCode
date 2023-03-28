@@ -338,6 +338,7 @@
     <ClInclude Include="MinimizeDeviationInArray.h" />
     <ClInclude Include="MinimizeMaximumOfArray.h" />
     <ClInclude Include="MinimumAverageDifference.h" />
+    <ClInclude Include="MinimumCostForTickets.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumDistanceBetweenBstNodes.h" />
     <ClInclude Include="MinimumFallingPathSum.h" />

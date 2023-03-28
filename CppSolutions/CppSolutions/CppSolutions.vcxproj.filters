@@ -1193,6 +1193,9 @@
     <ClInclude Include="MinimumPathSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumCostForTickets.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
