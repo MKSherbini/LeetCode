@@ -1196,6 +1196,9 @@
     <ClInclude Include="MinimumCostForTickets.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ReducingDishes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
