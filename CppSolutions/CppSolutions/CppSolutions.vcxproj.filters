@@ -1199,6 +1199,9 @@
     <ClInclude Include="ReducingDishes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ScrambleString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
