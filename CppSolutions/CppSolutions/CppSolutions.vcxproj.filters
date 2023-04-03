@@ -1205,6 +1205,9 @@
     <ClInclude Include="SuccessfulPairsOfSpellsAndPotions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BoatsToSavePeople.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

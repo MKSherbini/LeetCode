@@ -173,6 +173,7 @@
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
+    <ClInclude Include="BoatsToSavePeople.h" />
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="Candy.h" />
