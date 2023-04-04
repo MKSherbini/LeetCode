@@ -1208,6 +1208,9 @@
     <ClInclude Include="BoatsToSavePeople.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="OptimalPartitionOfString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

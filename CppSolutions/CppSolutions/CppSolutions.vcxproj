@@ -385,6 +385,7 @@
     <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
     <ClInclude Include="OnlineStockSpan.h" />
+    <ClInclude Include="OptimalPartitionOfString.h" />
     <ClInclude Include="OrderlyQueue.h" />
     <ClInclude Include="PacificAtlanticWaterFlow.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
