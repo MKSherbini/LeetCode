@@ -373,6 +373,7 @@
     <ClInclude Include="NQueens2.h" />
     <ClInclude Include="NThTribonacciNumber.h" />
     <ClInclude Include="NumberOf1Bits.h" />
+    <ClInclude Include="NumberOfClosedIslands.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
     <ClInclude Include="NumberOfGoodPaths.h" />
     <ClInclude Include="NumberOfIslands.h" />
