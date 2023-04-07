@@ -375,6 +375,7 @@
     <ClInclude Include="NumberOf1Bits.h" />
     <ClInclude Include="NumberOfClosedIslands.h" />
     <ClInclude Include="NumberOfDiceRollsWithTargetSum.h" />
+    <ClInclude Include="NumberOfEnclaves.h" />
     <ClInclude Include="NumberOfGoodPaths.h" />
     <ClInclude Include="NumberOfIslands.h" />
     <ClInclude Include="NumberOfLongestIncreasingSubsequence.h" />
