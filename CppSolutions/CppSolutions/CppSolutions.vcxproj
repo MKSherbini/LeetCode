@@ -184,6 +184,7 @@
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h" />
     <ClInclude Include="ClimbingStairs.h" />
+    <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="CoinChange.h" />
     <ClInclude Include="Combinations.h" />
     <ClInclude Include="CombinationSum.h" />
