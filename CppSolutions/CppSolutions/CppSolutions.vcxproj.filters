@@ -1220,6 +1220,9 @@
     <ClInclude Include="CloneGraph.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LargestColorValueInADirectedGraph.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
