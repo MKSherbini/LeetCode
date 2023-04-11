@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "LargestColorValueInADirectedGraph.h"
+#include "RemovingStarsFromAString.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<LargestColorValueInADirectedGraph>();
+	Runner(true).run<RemovingStarsFromAString>();
 }
 
