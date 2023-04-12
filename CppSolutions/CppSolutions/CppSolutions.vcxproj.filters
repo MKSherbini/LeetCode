@@ -1226,6 +1226,9 @@
     <ClInclude Include="RemovingStarsFromAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SimplifyPath.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
