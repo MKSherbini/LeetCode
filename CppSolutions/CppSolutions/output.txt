@@ -1,16 +1,4 @@
-home 
+1 judge: Accepted
 
-
-/home judge: Accepted
-
-.. 
-
-
-/ judge: Accepted
-
-home 
-foo 
-
-
-/home/foo judge: Accepted
+0 judge: Accepted
 

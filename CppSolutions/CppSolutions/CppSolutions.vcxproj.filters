@@ -1229,6 +1229,9 @@
     <ClInclude Include="SimplifyPath.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidateStackSequences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
