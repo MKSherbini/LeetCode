@@ -306,6 +306,7 @@
     <ClInclude Include="LongestConsecutiveSequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
     <ClInclude Include="LongestPalindromeByConcatenatingTwoLetterWords.h" />
+    <ClInclude Include="LongestPalindromicSubsequence.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestPathWithDifferentAdjacentCharacters.h" />
     <ClInclude Include="LongestStringChain.h" />
