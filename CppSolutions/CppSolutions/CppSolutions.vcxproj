@@ -387,6 +387,7 @@
     <ClInclude Include="NumberOfNodesInTheSubTreeWithTheSameLabel.h" />
     <ClInclude Include="NumberOfOperationsToMakeNetworkConnected.h" />
     <ClInclude Include="NumberOfProvinces.h" />
+    <ClInclude Include="NumberOfWaysToFormATargetStringGivenADictionary.h" />
     <ClInclude Include="NumberOfZeroFilledSubarrays.h" />
     <ClInclude Include="NumbersWithSameConsecutiveDifferences.h" />
     <ClInclude Include="OddEvenLinkedList.h" />
