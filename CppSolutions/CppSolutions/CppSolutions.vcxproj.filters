@@ -1241,6 +1241,9 @@
     <ClInclude Include="NumberOfWaysToFormATargetStringGivenADictionary.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

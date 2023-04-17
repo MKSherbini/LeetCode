@@ -287,6 +287,7 @@
     <ClInclude Include="JumpGameVi.h" />
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="KeysAndRooms.h" />
+    <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h" />
     <ClInclude Include="KokoEatingBananas.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="KthMissingPositiveNumber.h" />
