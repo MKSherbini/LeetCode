@@ -1247,6 +1247,9 @@
     <ClInclude Include="MergeStringsAlternately.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestZigzagPathInABinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

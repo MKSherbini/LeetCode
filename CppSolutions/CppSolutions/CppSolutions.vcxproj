@@ -312,6 +312,7 @@
     <ClInclude Include="LongestPathWithDifferentAdjacentCharacters.h" />
     <ClInclude Include="LongestStringChain.h" />
     <ClInclude Include="LongestSubsequenceWithLimitedSum.h" />
+    <ClInclude Include="LongestZigzagPathInABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="MakeTheStringGreat.h" />
