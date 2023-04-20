@@ -336,6 +336,7 @@
     <ClInclude Include="MaximumSumCircularSubarray.h" />
     <ClInclude Include="MaximumUnitsOnATruck.h" />
     <ClInclude Include="MaximumValueOfKCoinsFromPiles.h" />
+    <ClInclude Include="MaximumWidthOfBinaryTree.h" />
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
     <ClInclude Include="MaxPointsOnALine.h" />
     <ClInclude Include="MaxSumOfRectangleNoLargerThanK.h" />

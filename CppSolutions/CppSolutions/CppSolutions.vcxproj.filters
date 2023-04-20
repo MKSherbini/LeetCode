@@ -1250,6 +1250,9 @@
     <ClInclude Include="LongestZigzagPathInABinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumWidthOfBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
