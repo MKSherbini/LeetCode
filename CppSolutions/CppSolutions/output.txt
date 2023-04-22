@@ -1,6 +1,6 @@
-apbqcr judge: Accepted
+0 judge: Accepted
 
-apbqrs judge: Accepted
+2 judge: Accepted
 
-apbqcd judge: Accepted
+5 judge: Accepted
 

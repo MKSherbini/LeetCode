@@ -353,6 +353,7 @@
     <ClInclude Include="MinimumFallingPathSum.h" />
     <ClInclude Include="MinimumFuelCostToReportToTheCapital.h" />
     <ClInclude Include="MinimumGeneticMutation.h" />
+    <ClInclude Include="MinimumInsertionStepsToMakeAStringPalindrome.h" />
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
