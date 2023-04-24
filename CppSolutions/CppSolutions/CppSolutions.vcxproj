@@ -294,6 +294,7 @@
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestColorValueInADirectedGraph.h" />
     <ClInclude Include="LargestPerimeterTriangle.h" />
+    <ClInclude Include="LastStoneWeight.h" />
     <ClInclude Include="LeafSimilarTrees.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="LetterBlocks.h" />
