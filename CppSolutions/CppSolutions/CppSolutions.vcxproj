@@ -494,6 +494,7 @@
     <ClInclude Include="SingleElementInASortedArray.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SingleThreadedCpu.h" />
+    <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SortAnArray.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
