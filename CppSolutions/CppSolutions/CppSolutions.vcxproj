@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddBinary.h" />
+    <ClInclude Include="AddDigits.h" />
     <ClInclude Include="AddOneRowToTree.h" />
     <ClInclude Include="AddToArrayFormOfInteger.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
