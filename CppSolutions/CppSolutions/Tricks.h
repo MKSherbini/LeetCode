@@ -31,3 +31,6 @@ bool valid(int x, int n) {
 //ans.erase(unique(begin(ans), end(ans)), end(ans));
 
 //priority_queue<int, vector<int>, greater<int>> q;
+
+// sum of all until n = n*(n+1)/2
+// sum of odds = n*n, where n = number of odds

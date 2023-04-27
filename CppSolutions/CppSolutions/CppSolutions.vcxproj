@@ -177,6 +177,7 @@
     <ClInclude Include="BoatsToSavePeople.h" />
     <ClInclude Include="BreakAPalindrome.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
+    <ClInclude Include="BulbSwitcher.h" />
     <ClInclude Include="Candy.h" />
     <ClInclude Include="CanPlaceFlowers.h" />
     <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
