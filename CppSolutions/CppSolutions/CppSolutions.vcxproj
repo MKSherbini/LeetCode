@@ -492,6 +492,7 @@
     <ClInclude Include="ShuffleAnArray.h" />
     <ClInclude Include="ShuffleString.h" />
     <ClInclude Include="ShuffleTheArray.h" />
+    <ClInclude Include="SimilarStringGroups.h" />
     <ClInclude Include="SimplifyPath.h" />
     <ClInclude Include="SingleElementInASortedArray.h" />
     <ClInclude Include="SingleNumber.h" />

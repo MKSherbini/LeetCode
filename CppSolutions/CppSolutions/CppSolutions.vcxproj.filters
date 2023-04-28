@@ -1271,6 +1271,9 @@
     <ClInclude Include="BulbSwitcher.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SimilarStringGroups.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
