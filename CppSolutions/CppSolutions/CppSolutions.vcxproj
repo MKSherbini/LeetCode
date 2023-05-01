@@ -157,6 +157,7 @@
     <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="AsFarFromLandAsPossible.h" />
     <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
+    <ClInclude Include="AverageSalaryExcludingTheMinimumAndMaximumSalary.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
     <ClInclude Include="BagOfTokens.h" />
     <ClInclude Include="BasicCalculator.h" />

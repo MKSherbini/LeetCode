@@ -1277,6 +1277,9 @@
     <ClInclude Include="RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AverageSalaryExcludingTheMinimumAndMaximumSalary.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

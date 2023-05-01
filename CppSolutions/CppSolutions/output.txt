@@ -1,6 +1,4 @@
-2 judge: Accepted
+2500 judge: Accepted
 
-0 judge: Accepted
-
--1 judge: Accepted
+2000 judge: Accepted
 
