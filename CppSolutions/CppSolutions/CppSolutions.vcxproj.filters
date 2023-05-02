@@ -1280,6 +1280,9 @@
     <ClInclude Include="AverageSalaryExcludingTheMinimumAndMaximumSalary.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SignOfTheProductOfAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
