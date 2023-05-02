@@ -516,6 +516,7 @@
     <ClInclude Include="SubarraySumsDivisibleByK.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
+    <ClInclude Include="SubstringsOfSizeThreeWithDistinctCharacters.h" />
     <ClInclude Include="SubstringWithConcatenationOfAllWords.h" />
     <ClInclude Include="SubstringWithLargestVariance.h" />
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />

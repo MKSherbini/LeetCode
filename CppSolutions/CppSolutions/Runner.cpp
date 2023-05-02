@@ -1,5 +1,5 @@
 ﻿#include "stdc++.h"
-#include "SignOfTheProductOfAnArray.h"
+#include "SubstringsOfSizeThreeWithDistinctCharacters.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<SignOfTheProductOfAnArray>();
+	Runner(true).run<SubstringsOfSizeThreeWithDistinctCharacters>();
 }
 

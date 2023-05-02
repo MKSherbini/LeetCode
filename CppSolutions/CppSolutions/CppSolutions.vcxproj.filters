@@ -1283,6 +1283,9 @@
     <ClInclude Include="SignOfTheProductOfAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SubstringsOfSizeThreeWithDistinctCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
