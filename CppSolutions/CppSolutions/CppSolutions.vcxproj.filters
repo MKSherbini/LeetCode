@@ -1286,6 +1286,9 @@
     <ClInclude Include="SubstringsOfSizeThreeWithDistinctCharacters.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheDifferenceOfTwoArrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
