@@ -230,6 +230,7 @@
     <ClInclude Include="DetermineIfStringHalvesAreAlike.h" />
     <ClInclude Include="DetermineIfTwoStringsAreClose.h" />
     <ClInclude Include="DominoAndTrominoTiling.h" />
+    <ClInclude Include="Dota2Senate.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="ErectTheFence.h" />
