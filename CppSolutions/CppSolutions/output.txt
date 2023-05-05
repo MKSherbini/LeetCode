@@ -1,8 +1,6 @@
-Radiant judge: Accepted
+3 judge: Accepted
 
-Dire judge: Accepted
+2 judge: Accepted
 
-Radiant judge: Accepted
-
-Radiant judge: Accepted
+2 judge: Accepted
 
