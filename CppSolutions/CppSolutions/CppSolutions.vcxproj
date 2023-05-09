@@ -513,6 +513,7 @@
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
+    <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="stdc++.h" />
