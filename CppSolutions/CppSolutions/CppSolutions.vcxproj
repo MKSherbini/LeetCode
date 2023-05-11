@@ -551,6 +551,7 @@
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
     <ClInclude Include="UglyNumber.h" />
+    <ClInclude Include="UncrossedLines.h" />
     <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="UniqueNumberOfOccurrences.h" />

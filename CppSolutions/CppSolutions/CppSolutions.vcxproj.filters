@@ -1307,6 +1307,9 @@
     <ClInclude Include="SpiralMatrixII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UncrossedLines.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
