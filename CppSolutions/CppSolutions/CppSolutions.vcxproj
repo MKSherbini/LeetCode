@@ -507,6 +507,7 @@
     <ClInclude Include="SingleThreadedCpu.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SnakesAndLadders.h" />
+    <ClInclude Include="SolvingQuestionsWithBrainpower.h" />
     <ClInclude Include="SortAnArray.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
     <ClInclude Include="SortedSquares.h" />
