@@ -212,6 +212,7 @@
     <ClInclude Include="CountSubarraysWithFixedBounds.h" />
     <ClInclude Include="CountUnreachablePairsOfNodesInAnUndirectedGraph.h" />
     <ClInclude Include="CountVowelsPermutation.h" />
+    <ClInclude Include="CountWaysToBuildGoodStrings.h" />
     <ClInclude Include="CourseScheduleIii.h" />
     <ClInclude Include="D1000000.h" />
     <ClInclude Include="DailyTemperatures.h" />

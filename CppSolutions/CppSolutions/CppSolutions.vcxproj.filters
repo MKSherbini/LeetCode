@@ -1313,6 +1313,9 @@
     <ClInclude Include="SolvingQuestionsWithBrainpower.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountWaysToBuildGoodStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
