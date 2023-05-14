@@ -34,3 +34,8 @@ bool valid(int x, int n) {
 
 // sum of all until n = n*(n+1)/2
 // sum of odds = n*n, where n = number of odds
+
+int gcd(int a, int b) {
+	if (b > a) return gcd(b, a);
+	return b == 0 ? a : gcd(b, a % b);
+}

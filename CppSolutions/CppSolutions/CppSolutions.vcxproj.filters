@@ -1316,6 +1316,9 @@
     <ClInclude Include="CountWaysToBuildGoodStrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximizeScoreAfterNOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
