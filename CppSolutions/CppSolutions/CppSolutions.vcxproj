@@ -539,6 +539,7 @@
     <ClInclude Include="SumOfSubarrayMinimums.h" />
     <ClInclude Include="SumRootToLeafNumbers.h" />
     <ClInclude Include="SurroundedRegions.h" />
+    <ClInclude Include="SwappingNodesInALinkedList.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />

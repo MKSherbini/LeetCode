@@ -1319,6 +1319,9 @@
     <ClInclude Include="MaximizeScoreAfterNOperations.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SwappingNodesInALinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
