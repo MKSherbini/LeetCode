@@ -1322,6 +1322,9 @@
     <ClInclude Include="SwappingNodesInALinkedList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SwapNodesInPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
