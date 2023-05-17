@@ -1325,6 +1325,9 @@
     <ClInclude Include="SwapNodesInPairs.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumTwinSumOfALinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
