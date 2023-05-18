@@ -369,6 +369,7 @@
     <ClInclude Include="MinimumMovesToEqualArrayElementsIi.h" />
     <ClInclude Include="MinimumNumberOfArrowsToBurstBalloons.h" />
     <ClInclude Include="MinimumNumberOfRefuelingStops.h" />
+    <ClInclude Include="MinimumNumberOfVerticesToReachAllNodes.h" />
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
