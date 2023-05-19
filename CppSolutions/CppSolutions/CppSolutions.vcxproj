@@ -288,6 +288,7 @@
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="IntervalListIntersections.h" />
     <ClInclude Include="InvertBinaryTree.h" />
+    <ClInclude Include="IsGraphBipartite.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="JumpGameII.h" />
     <ClInclude Include="JumpGameIV.h" />

@@ -1111,7 +1111,6 @@
     <ClInclude Include="MinimumDistanceBetweenBstNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
-    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="SingleElementInASortedArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
@@ -1329,6 +1328,12 @@
       <Filter>Solutions</Filter>
     </ClInclude>
     <ClInclude Include="MinimumNumberOfVerticesToReachAllNodes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="IsGraphBipartite.h">
       <Filter>Solutions</Filter>
     </ClInclude>
   </ItemGroup>
