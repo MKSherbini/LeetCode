@@ -235,6 +235,7 @@
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="ErectTheFence.h" />
+    <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
     <ClInclude Include="FibonacciNumber.h" />
     <ClInclude Include="FinalValueOfVariableAfterPerformingOperations.h" />

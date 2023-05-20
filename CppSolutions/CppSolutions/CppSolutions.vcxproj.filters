@@ -1336,6 +1336,9 @@
     <ClInclude Include="IsGraphBipartite.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="EvaluateDivision.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
