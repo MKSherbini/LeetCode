@@ -299,6 +299,7 @@
     <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h" />
     <ClInclude Include="KokoEatingBananas.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
+    <ClInclude Include="KthLargestElementInAStream.h" />
     <ClInclude Include="KthMissingPositiveNumber.h" />
     <ClInclude Include="KthSmallestElementInASortedMatrix.h" />
     <ClInclude Include="LargestColorValueInADirectedGraph.h" />
