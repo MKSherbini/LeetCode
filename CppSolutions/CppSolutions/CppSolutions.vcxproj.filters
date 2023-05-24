@@ -1342,6 +1342,9 @@
     <ClInclude Include="KthLargestElementInAStream.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumSubsequenceScore.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

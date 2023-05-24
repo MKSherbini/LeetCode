@@ -347,6 +347,7 @@
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MaximumSubarray.h" />
+    <ClInclude Include="MaximumSubsequenceScore.h" />
     <ClInclude Include="MaximumSumCircularSubarray.h" />
     <ClInclude Include="MaximumTwinSumOfALinkedList.h" />
     <ClInclude Include="MaximumUnitsOnATruck.h" />
