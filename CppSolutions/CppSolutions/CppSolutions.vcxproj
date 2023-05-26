@@ -527,6 +527,7 @@
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="stdc++.h" />
+    <ClInclude Include="StoneGameII.h" />
     <ClInclude Include="StringCompression.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubarraySumsDivisibleByK.h" />

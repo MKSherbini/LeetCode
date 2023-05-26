@@ -1345,6 +1345,9 @@
     <ClInclude Include="MaximumSubsequenceScore.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="StoneGameII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
