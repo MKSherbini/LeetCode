@@ -1,4 +1,6 @@
-10 judge: Accepted
+Bob judge: Accepted
 
-104 judge: Accepted
+Alice judge: Accepted
+
+Tie judge: Accepted
 
