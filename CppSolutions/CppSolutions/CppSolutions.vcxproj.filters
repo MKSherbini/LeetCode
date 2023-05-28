@@ -1351,6 +1351,9 @@
     <ClInclude Include="StoneGameIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumCostToCutAStick.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
