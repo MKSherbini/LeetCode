@@ -226,6 +226,7 @@
     <ClInclude Include="DeleteTheMiddleNodeOfALinkedList.h" />
     <ClInclude Include="DesignAddAndSearchWordsDataStructure.h" />
     <ClInclude Include="DesignBrowserHistory.h" />
+    <ClInclude Include="DesignHashset.h" />
     <ClInclude Include="DesignParkingSystem.h" />
     <ClInclude Include="DetectCapital.h" />
     <ClInclude Include="DetermineIfStringHalvesAreAlike.h" />
