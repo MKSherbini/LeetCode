@@ -228,6 +228,7 @@
     <ClInclude Include="DesignBrowserHistory.h" />
     <ClInclude Include="DesignHashset.h" />
     <ClInclude Include="DesignParkingSystem.h" />
+    <ClInclude Include="DesignUndergroundSystem.h" />
     <ClInclude Include="DetectCapital.h" />
     <ClInclude Include="DetermineIfStringHalvesAreAlike.h" />
     <ClInclude Include="DetermineIfTwoStringsAreClose.h" />

@@ -1357,6 +1357,9 @@
     <ClInclude Include="DesignHashset.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DesignUndergroundSystem.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
