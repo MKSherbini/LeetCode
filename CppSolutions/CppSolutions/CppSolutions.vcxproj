@@ -232,6 +232,7 @@
     <ClInclude Include="DetectCapital.h" />
     <ClInclude Include="DetermineIfStringHalvesAreAlike.h" />
     <ClInclude Include="DetermineIfTwoStringsAreClose.h" />
+    <ClInclude Include="DetonateTheMaximumBombs.h" />
     <ClInclude Include="DominoAndTrominoTiling.h" />
     <ClInclude Include="Dota2Senate.h" />
     <ClInclude Include="DoubleorOneThing.h" />

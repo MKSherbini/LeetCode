@@ -1360,6 +1360,9 @@
     <ClInclude Include="DesignUndergroundSystem.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DetonateTheMaximumBombs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
