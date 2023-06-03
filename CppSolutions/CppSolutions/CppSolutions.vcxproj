@@ -556,6 +556,7 @@
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
+    <ClInclude Include="TimeNeededToInformAllEmployees.h" />
     <ClInclude Include="ToeplitzMatrix.h" />
     <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
