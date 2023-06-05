@@ -184,6 +184,7 @@
     <ClInclude Include="CapacityToShipPackagesWithinDDays.h" />
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
+    <ClInclude Include="CheckIfItIsAStraightLine.h" />
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h" />
     <ClInclude Include="ClimbingStairs.h" />

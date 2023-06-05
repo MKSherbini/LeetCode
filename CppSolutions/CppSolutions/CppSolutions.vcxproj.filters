@@ -1366,6 +1366,9 @@
     <ClInclude Include="TimeNeededToInformAllEmployees.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfItIsAStraightLine.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
