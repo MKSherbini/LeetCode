@@ -372,6 +372,7 @@
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
     <ClInclude Include="MinimumDistanceBetweenBstNodes.h" />
     <ClInclude Include="MinimumFallingPathSum.h" />
+    <ClInclude Include="MinimumFlipsToMakeAOrBEqualToC.h" />
     <ClInclude Include="MinimumFuelCostToReportToTheCapital.h" />
     <ClInclude Include="MinimumGeneticMutation.h" />
     <ClInclude Include="MinimumInsertionStepsToMakeAStringPalindrome.h" />
