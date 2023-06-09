@@ -1,4 +1,6 @@
-8 judge: Accepted
+c judge: Accepted
 
-0 judge: Accepted
+f judge: Accepted
+
+x judge: Accepted
 

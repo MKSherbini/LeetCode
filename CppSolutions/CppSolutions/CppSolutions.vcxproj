@@ -256,6 +256,7 @@
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="FindPeakElement.h" />
     <ClInclude Include="FindPlayersWithZeroOrOneLosses.h" />
+    <ClInclude Include="FindSmallestLetterGreaterThanTarget.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FindTheDifferenceOfTwoArrays.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
