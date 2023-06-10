@@ -357,6 +357,7 @@
     <ClInclude Include="MaximumSumCircularSubarray.h" />
     <ClInclude Include="MaximumTwinSumOfALinkedList.h" />
     <ClInclude Include="MaximumUnitsOnATruck.h" />
+    <ClInclude Include="MaximumValueAtAGivenIndexInABoundedArray.h" />
     <ClInclude Include="MaximumValueOfKCoinsFromPiles.h" />
     <ClInclude Include="MaximumWidthOfBinaryTree.h" />
     <ClInclude Include="MaxNumberOfKSumPairs.h" />
