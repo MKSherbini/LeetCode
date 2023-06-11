@@ -1381,6 +1381,9 @@
     <ClInclude Include="MaximumValueAtAGivenIndexInABoundedArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SnapshotArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
