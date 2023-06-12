@@ -1384,6 +1384,9 @@
     <ClInclude Include="SnapshotArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SummaryRanges.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
