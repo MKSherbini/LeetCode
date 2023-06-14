@@ -239,6 +239,7 @@
     <ClInclude Include="Dota2Senate.h" />
     <ClInclude Include="DoubleorOneThing.h" />
     <ClInclude Include="EditDistance.h" />
+    <ClInclude Include="EqualRowAndColumnPairs.h" />
     <ClInclude Include="ErectTheFence.h" />
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="EvaluateReversePolishNotation.h" />
@@ -369,6 +370,7 @@
     <ClInclude Include="MinCostClimbingStairs.h" />
     <ClInclude Include="MinimizeDeviationInArray.h" />
     <ClInclude Include="MinimizeMaximumOfArray.h" />
+    <ClInclude Include="MinimumAbsoluteDifferenceInBst.h" />
     <ClInclude Include="MinimumAverageDifference.h" />
     <ClInclude Include="MinimumCostForTickets.h" />
     <ClInclude Include="MinimumCostToCutAStick.h" />
