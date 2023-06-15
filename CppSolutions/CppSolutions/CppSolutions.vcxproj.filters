@@ -1393,6 +1393,9 @@
     <ClInclude Include="MinimumAbsoluteDifferenceInBst.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumLevelSumOfABinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
