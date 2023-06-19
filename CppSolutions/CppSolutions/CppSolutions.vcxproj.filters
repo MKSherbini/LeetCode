@@ -1402,6 +1402,9 @@
     <ClInclude Include="NumberOfIncreasingPathsInAGrid.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheHighestAltitude.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

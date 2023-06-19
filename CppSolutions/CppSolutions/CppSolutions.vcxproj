@@ -261,6 +261,7 @@
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
     <ClInclude Include="FindTheDifferenceOfTwoArrays.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
+    <ClInclude Include="FindTheHighestAltitude.h" />
     <ClInclude Include="FindTheIndexOfTheFirstOccurrenceInAString.h" />
     <ClInclude Include="FindTheLongestValidObstacleCourseAtEachPosition.h" />
     <ClInclude Include="FindTheTownJudge.h" />
