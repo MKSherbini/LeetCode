@@ -1405,6 +1405,9 @@
     <ClInclude Include="FindTheHighestAltitude.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KRadiusSubarrayAverages.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

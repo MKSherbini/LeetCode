@@ -306,6 +306,7 @@
     <ClInclude Include="KeysAndRooms.h" />
     <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h" />
     <ClInclude Include="KokoEatingBananas.h" />
+    <ClInclude Include="KRadiusSubarrayAverages.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />
     <ClInclude Include="KthLargestElementInAStream.h" />
     <ClInclude Include="KthMissingPositiveNumber.h" />
