@@ -1411,6 +1411,9 @@
     <ClInclude Include="BestTimeToBuyAndSellStockWithTransactionFee.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountAllPossibleRoutes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
