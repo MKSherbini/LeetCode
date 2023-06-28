@@ -255,6 +255,7 @@
     <ClInclude Include="FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="FindIfPathExistsInGraph.h" />
     <ClInclude Include="FindKClosestElements.h" />
+    <ClInclude Include="FindKPairsWithSmallestSums.h" />
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="FindOriginalArrayFromDoubledArray.h" />
     <ClInclude Include="FindPeakElement.h" />
