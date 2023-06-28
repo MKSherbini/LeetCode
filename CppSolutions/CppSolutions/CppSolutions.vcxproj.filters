@@ -1414,6 +1414,11 @@
     <ClInclude Include="CountAllPossibleRoutes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindKPairsWithSmallestSums.h" />
+    <ClInclude Include="TotalCostToHireKWorkers.h" />
+    <ClInclude Include="PathWithMaximumProbability.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

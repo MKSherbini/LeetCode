@@ -442,6 +442,7 @@
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PathSum.h" />
     <ClInclude Include="PathSumII.h" />
+    <ClInclude Include="PathWithMaximumProbability.h" />
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
