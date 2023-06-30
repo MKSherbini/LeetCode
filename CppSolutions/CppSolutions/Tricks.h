@@ -14,6 +14,7 @@ public:
 // SetMismatch, use array index and values +ve/-ve to mark visited
 
 //const vector<pair<int, int>> dir = { {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
+//const vector<pair<int, int>> dir = { {-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, -1}, {-1, 1}, {1, -1}, {1, 1} };
 //for (auto [dx, dy] : dir)
 
 //function<int(int, int)> valid = [&](int x, int n)->int {

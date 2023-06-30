@@ -1,6 +1,8 @@
-0.25 judge: Accepted
+2 judge: Accepted
 
-0.3 judge: Accepted
+1 judge: Accepted
 
-0 judge: Accepted
+3 judge: Accepted
+
+3 judge: Accepted
 
