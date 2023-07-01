@@ -1422,6 +1422,9 @@
     <ClInclude Include="LastDayWhereYouCanStillCross.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FairDistributionOfCookies.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
