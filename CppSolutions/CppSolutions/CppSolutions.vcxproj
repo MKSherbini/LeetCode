@@ -354,6 +354,7 @@
     <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
+    <ClInclude Include="MaximumNumberOfAchievableTransferRequests.h" />
     <ClInclude Include="MaximumNumberOfVowelsInASubstringOfGivenLength.h" />
     <ClInclude Include="MaximumPerformanceOfATeam.h" />
     <ClInclude Include="MaximumPointsYouCanObtainFromCards.h" />
