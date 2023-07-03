@@ -178,6 +178,7 @@
     <ClInclude Include="BitwiseAndOfNumbersRange.h" />
     <ClInclude Include="BoatsToSavePeople.h" />
     <ClInclude Include="BreakAPalindrome.h" />
+    <ClInclude Include="BuddyStrings.h" />
     <ClInclude Include="BuildArrayFromPermutation.h" />
     <ClInclude Include="BulbSwitcher.h" />
     <ClInclude Include="Candy.h" />

@@ -1428,6 +1428,9 @@
     <ClInclude Include="MaximumNumberOfAchievableTransferRequests.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BuddyStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
