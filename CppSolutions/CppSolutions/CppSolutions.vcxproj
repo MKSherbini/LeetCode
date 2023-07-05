@@ -337,6 +337,7 @@
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LongestPathWithDifferentAdjacentCharacters.h" />
     <ClInclude Include="LongestStringChain.h" />
+    <ClInclude Include="LongestSubarrayOf1sAfterDeletingOneElement.h" />
     <ClInclude Include="LongestSubsequenceWithLimitedSum.h" />
     <ClInclude Include="LongestZigzagPathInABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
