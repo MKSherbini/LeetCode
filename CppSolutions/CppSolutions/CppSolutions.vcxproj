@@ -460,6 +460,7 @@
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="PushDominoes.h" />
+    <ClInclude Include="PutMarblesInBags.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RangeSumOfBst.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
