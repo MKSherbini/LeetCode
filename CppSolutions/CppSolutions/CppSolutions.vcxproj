@@ -347,6 +347,7 @@
     <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="MatrixDiagonalSum.h" />
     <ClInclude Include="MaximizeScoreAfterNOperations.h" />
+    <ClInclude Include="MaximizeTheConfusionOfAnExam.h" />
     <ClInclude Include="Maximum69Number.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
     <ClInclude Include="MaximumBagsWithFullCapacityOfRocks.h" />
