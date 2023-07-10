@@ -1440,6 +1440,9 @@
     <ClInclude Include="PutMarblesInBags.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumDepthOfBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

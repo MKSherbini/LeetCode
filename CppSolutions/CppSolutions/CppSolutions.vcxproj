@@ -388,6 +388,7 @@
     <ClInclude Include="MinimumCostForTickets.h" />
     <ClInclude Include="MinimumCostToCutAStick.h" />
     <ClInclude Include="MinimumDeletionsToMakeCharacterFrequenciesUnique.h" />
+    <ClInclude Include="MinimumDepthOfBinaryTree.h" />
     <ClInclude Include="MinimumDistanceBetweenBstNodes.h" />
     <ClInclude Include="MinimumFallingPathSum.h" />
     <ClInclude Include="MinimumFlipsToMakeAOrBEqualToC.h" />
