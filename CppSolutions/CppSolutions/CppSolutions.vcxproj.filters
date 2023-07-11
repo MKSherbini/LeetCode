@@ -1443,6 +1443,9 @@
     <ClInclude Include="MinimumDepthOfBinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AllNodesDistanceKInBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
