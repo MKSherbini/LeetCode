@@ -332,6 +332,7 @@
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="LinkedListCycleII.h" />
     <ClInclude Include="LinkedListSupport.h" />
+    <ClInclude Include="LongestArithmeticSubsequenceOfGivenDifference.h" />
     <ClInclude Include="LongestCommonSubsequence.h" />
     <ClInclude Include="LongestConsecutiveSequence.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
