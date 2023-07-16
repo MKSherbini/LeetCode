@@ -547,6 +547,7 @@
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SingleThreadedCpu.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
+    <ClInclude Include="SmallestSufficientTeam.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SnapshotArray.h" />
     <ClInclude Include="SolvingQuestionsWithBrainpower.h" />
