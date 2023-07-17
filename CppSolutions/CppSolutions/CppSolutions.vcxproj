@@ -151,6 +151,7 @@
     <ClInclude Include="AddDigits.h" />
     <ClInclude Include="AddOneRowToTree.h" />
     <ClInclude Include="AddToArrayFormOfInteger.h" />
+    <ClInclude Include="AddTwoNumbersII.h" />
     <ClInclude Include="AllNodesDistanceKInBinaryTree.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
     <ClInclude Include="ArithmeticSlices.h" />
