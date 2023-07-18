@@ -347,6 +347,7 @@
     <ClInclude Include="LongestZigzagPathInABinaryTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinarySearchTree.h" />
     <ClInclude Include="LowestCommonAncestorOfABinaryTree.h" />
+    <ClInclude Include="LRUCache.h" />
     <ClInclude Include="MakeArrayStrictlyIncreasing.h" />
     <ClInclude Include="MakeTheStringGreat.h" />
     <ClInclude Include="MatchsticksToSquare.h" />

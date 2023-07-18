@@ -1464,6 +1464,9 @@
     <ClInclude Include="AddTwoNumbersII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LRUCache.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
