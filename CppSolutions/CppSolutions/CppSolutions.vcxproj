@@ -158,6 +158,7 @@
     <ClInclude Include="ArithmeticSlicesIiSubsequence.h" />
     <ClInclude Include="ArticulatePoint.h" />
     <ClInclude Include="AsFarFromLandAsPossible.h" />
+    <ClInclude Include="AsteroidCollision.h" />
     <ClInclude Include="AverageOfLevelsInBinaryTree.h" />
     <ClInclude Include="AverageSalaryExcludingTheMinimumAndMaximumSalary.h" />
     <ClInclude Include="BackspaceStringCompare.h" />
