@@ -315,6 +315,7 @@
     <ClInclude Include="KClosestPointsToOrigin.h" />
     <ClInclude Include="KeysAndRooms.h" />
     <ClInclude Include="KidsWithTheGreatestNumberOfCandies.h" />
+    <ClInclude Include="KnightProbabilityInChessboard.h" />
     <ClInclude Include="KokoEatingBananas.h" />
     <ClInclude Include="KRadiusSubarrayAverages.h" />
     <ClInclude Include="KthLargestElementInAnArray.h" />

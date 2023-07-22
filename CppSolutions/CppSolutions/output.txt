@@ -1,9 +1,4 @@
-5 10 
-judge: Accepted
+0.0625 judge: Accepted
 
-
-judge: Accepted
-
-10 
-judge: Accepted
+1 judge: Accepted
 

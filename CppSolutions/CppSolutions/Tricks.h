@@ -17,7 +17,7 @@ public:
 //const vector<pair<int, int>> dir = { {-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, -1}, {-1, 1}, {1, -1}, {1, 1} };
 //for (auto [dx, dy] : dir)
 
-//function<int(int, int)> valid = [&](int x, int n)->int {
+//function<bool(int, int)> valid = [&](int x, int n) -> bool {
 //	return x >= 0 && x < n;
 //};
 bool valid(int x, int n) {
