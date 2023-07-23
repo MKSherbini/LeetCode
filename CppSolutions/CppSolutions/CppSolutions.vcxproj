@@ -154,6 +154,7 @@
     <ClInclude Include="AddTwoNumbersII.h" />
     <ClInclude Include="AllNodesDistanceKInBinaryTree.h" />
     <ClInclude Include="AllPathsFromSourceToTarget.h" />
+    <ClInclude Include="AllPossibleFullBinaryTrees.h" />
     <ClInclude Include="ArithmeticSlices.h" />
     <ClInclude Include="ArithmeticSlicesIiSubsequence.h" />
     <ClInclude Include="ArticulatePoint.h" />
