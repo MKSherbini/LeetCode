@@ -1479,6 +1479,9 @@
     <ClInclude Include="AllPossibleFullBinaryTrees.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PowXN.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

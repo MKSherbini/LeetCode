@@ -1,4 +1,6 @@
-0.0625 judge: Accepted
+1024 judge: Accepted
 
-1 judge: Accepted
+9.261 judge: Wrong answer
+
+0.25 judge: Accepted
 
