@@ -414,6 +414,7 @@
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
     <ClInclude Include="MinimumScoreOfAPathBetweenTwoCities.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
+    <ClInclude Include="MinimumSpeedToArriveOnTime.h" />
     <ClInclude Include="MinimumSumOfFourDigitNumberAfterSplittingDigits.h" />
     <ClInclude Include="MinimumTimeToCollectAllApplesInATree.h" />
     <ClInclude Include="MinimumTimeToCompleteTrips.h" />

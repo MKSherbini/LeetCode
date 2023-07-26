@@ -1485,6 +1485,9 @@
     <ClInclude Include="PeakIndexInAMountainArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumSpeedToArriveOnTime.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
