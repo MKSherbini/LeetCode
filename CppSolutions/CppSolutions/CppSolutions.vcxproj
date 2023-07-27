@@ -374,6 +374,7 @@
     <ClInclude Include="MaximumProductOfSplittedBinaryTree.h" />
     <ClInclude Include="MaximumProductOfWordLengths.h" />
     <ClInclude Include="MaximumProfitInJobScheduling.h" />
+    <ClInclude Include="MaximumRunningTimeOfNComputers.h" />
     <ClInclude Include="MaximumScoreFromPerformingMultiplicationOperations.h" />
     <ClInclude Include="MaximumScoreWordsFormedByLetters.h" />
     <ClInclude Include="MaximumSubarray.h" />

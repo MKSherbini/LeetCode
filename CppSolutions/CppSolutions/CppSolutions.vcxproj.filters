@@ -1488,6 +1488,9 @@
     <ClInclude Include="MinimumSpeedToArriveOnTime.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumRunningTimeOfNComputers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
