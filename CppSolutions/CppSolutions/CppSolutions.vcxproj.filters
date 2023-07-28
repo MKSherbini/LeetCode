@@ -1491,6 +1491,9 @@
     <ClInclude Include="MaximumRunningTimeOfNComputers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PredictTheWinner.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

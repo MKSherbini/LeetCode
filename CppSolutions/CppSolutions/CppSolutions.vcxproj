@@ -472,6 +472,7 @@
     <ClInclude Include="PowerOfThree.h" />
     <ClInclude Include="PowerOfTwo.h" />
     <ClInclude Include="PowXN.h" />
+    <ClInclude Include="PredictTheWinner.h" />
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="PunchedCards.h" />
