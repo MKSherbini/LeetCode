@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "SoupServings.h"
+#include "StrangePrinter.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<SoupServings>();
+	Runner(false).run<StrangePrinter>();
 }
 

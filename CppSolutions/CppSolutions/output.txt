@@ -1,17 +1,4 @@
-1 
-1 
-5 
-0.625 judge: Accepted
+2 judge: Accepted
 
-1 
-1 
-1 
-1 
-5 
-1 
-1 
-5 
-1 
-5 
-0.71875 judge: Accepted
+2 judge: Accepted
 

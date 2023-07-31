@@ -1497,6 +1497,9 @@
     <ClInclude Include="SoupServings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="StrangePrinter.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
