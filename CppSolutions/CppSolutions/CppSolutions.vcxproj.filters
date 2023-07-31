@@ -1500,6 +1500,9 @@
     <ClInclude Include="StrangePrinter.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumAsciiDeleteSumForTwoStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
