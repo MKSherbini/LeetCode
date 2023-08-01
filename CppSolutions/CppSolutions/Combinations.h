@@ -7,6 +7,40 @@ using namespace std;
 class Combinations
 {
 public:
+
+	// 22 ms, faster than 84.57% : 8.8 MB, less than 99.58%
+	vector<vector<int>> solution(int n, int k) {
+		vector<vector<int>> arr;
+		vector<int> row(k);
+
+		function<void(int, int)> f = [&](int i, int top) -> void {
+			if (i == k) return arr.push_back(row);
+
+			for (size_t j = top; j <= n; j++) {
+				row[i] = j;
+				f(i + 1, j + 1);
+			}
+		};
+
+		f(0, 1);
+		return arr;
+	}
+
+	// 1 2 3 4
+	// 1 2
+	// 1 3
+	// 1 4
+	// 2 3
+	// 2 4
+	// 3 4
+
+	// 1 2 3
+	// 1 2 4
+	// 1 3 4
+	// 2 3 4
+
+
+
 	// 52 ms, faster than 29.92% : 69.8 MB, less than 21.69%
 	vector<vector<int>> solution2(int n, int k) {
 		vector<vector<int>> arr;
@@ -15,7 +49,7 @@ public:
 	}
 
 	// 12 ms, faster than 92.51% : 14.4 MB, less than 38.20%
-	vector<vector<int>> solution(int n, int k) {
+	vector<vector<int>> solution3(int n, int k) {
 		vector<vector<int>> arr;
 		curse(arr, n, k, {});
 		return arr;
@@ -60,7 +94,7 @@ public:
 				break;
 		}
 	}
-
+	static constexpr int const& inputs = 2;
 	vector<vector<vector<int>>> output = {
 		{{1,2}},
 		{{1,2},{1,3},{1,4},{2,3},{2,4},{3,4}},
@@ -77,3 +111,5 @@ public:
 		20,
 	};
 };
+
+
