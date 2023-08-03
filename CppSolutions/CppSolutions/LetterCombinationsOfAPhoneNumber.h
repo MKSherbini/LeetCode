@@ -7,8 +7,38 @@ using namespace std;
 class LetterCombinationsOfAPhoneNumber
 {
 public:
-	// 0 ms, faster than 100% : 6.6 MB, less than 59.62%
+	// 0 ms, faster than 100% : 6.6 MB, less than 31.4%
 	vector<string> solution(string digits) {
+		int n = size(digits);
+		if (n == 0) return {};
+
+		vector<string> ans;
+		string row(digits);
+		function<void(int)> f = [&](int i) -> void {
+			if (i >= n) return ans.push_back(row);
+
+			for (auto c : lettersMap[digits[i]]) {
+				row[i] = c;
+				f(i + 1);
+			}
+		};
+		f(0);
+
+		return ans;
+	}
+	map<char, vector<char>> lettersMap = {
+		{'2', {'a', 'b', 'c'}},
+		{'3', {'d', 'e', 'f'}},
+		{'4', {'g', 'h', 'i'}},
+		{'5', {'j', 'k', 'l'}},
+		{'6', {'m', 'n', 'o'}},
+		{'7', {'p', 'q', 'r', 's'}},
+		{'8', {'t', 'u', 'v'}},
+		{'9', {'w', 'x', 'y', 'z'}},
+	};
+
+	// 0 ms, faster than 100% : 6.6 MB, less than 59.62%
+	vector<string> solution2(string digits) {
 		if (digits.size() == 0) return {};
 		map<char, vector<char>> lettersMap;
 		for (size_t i = 2; i <= 6; i++)
