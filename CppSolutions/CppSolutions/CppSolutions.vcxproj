@@ -542,6 +542,7 @@
     <ClInclude Include="SearchA2dMatrixII.h" />
     <ClInclude Include="SearchInABinarySearchTree.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="SearchInRotatedSortedArrayII.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="SegmentTree.h" />
     <ClInclude Include="SetMismatch.h" />
