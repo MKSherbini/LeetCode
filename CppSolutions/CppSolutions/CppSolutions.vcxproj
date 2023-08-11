@@ -196,6 +196,7 @@
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CloneGraph.h" />
     <ClInclude Include="CoinChange.h" />
+    <ClInclude Include="CoinChangeII.h" />
     <ClInclude Include="Combinations.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="CombinationSumII.h" />

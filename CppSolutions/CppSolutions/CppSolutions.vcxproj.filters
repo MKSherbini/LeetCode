@@ -1512,6 +1512,9 @@
     <ClInclude Include="SearchInRotatedSortedArrayII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CoinChangeII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
