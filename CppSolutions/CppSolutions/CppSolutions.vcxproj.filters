@@ -1518,6 +1518,9 @@
     <ClInclude Include="UniquePathsII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfThereIsAValidPartitionForTheArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -191,6 +191,7 @@
     <ClInclude Include="CheapestFlightsWithinKStops.h" />
     <ClInclude Include="CheckCompletenessOfABinaryTree.h" />
     <ClInclude Include="CheckIfItIsAStraightLine.h" />
+    <ClInclude Include="CheckIfThereIsAValidPartitionForTheArray.h" />
     <ClInclude Include="CheckIfTheSentenceIsPangram.h" />
     <ClInclude Include="CheckIfTwoStringArraysAreEquivalent.h" />
     <ClInclude Include="ClimbingStairs.h" />
