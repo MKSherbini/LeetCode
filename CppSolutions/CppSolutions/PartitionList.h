@@ -7,6 +7,35 @@ using namespace std;
 class PartitionList
 {
 public:
+	// 0 ms, faster than 100% : 10.2 MB, less than 83.57%
+	ListNode* solution(ListNode* head, int x) {
+		ListNode* smaller = NULL;
+		ListNode* smallerSt = NULL;
+		ListNode* larger = NULL;
+		ListNode* largerSt = NULL;
+
+		while (head) {
+			if (head->val < x) {
+				if (!smaller) smaller = head, smallerSt = smaller;
+				else smaller->next = head, smaller = smaller->next;
+			}
+			else {
+				if (!larger) larger = head, largerSt = larger;
+				else larger->next = head, larger = larger->next;
+			}
+			head = head->next;
+		}
+		if (larger) larger->next = NULL;
+
+		if (smaller) {
+			smaller->next = largerSt;
+			return smallerSt;
+		}
+		else {
+			return largerSt;
+		}
+	}
+
 	// 0 ms, faster than 100% : 10.1 MB, less than 99.85%
 	ListNode* solution(ListNode* head, int x) {
 		if (!head) return head;
