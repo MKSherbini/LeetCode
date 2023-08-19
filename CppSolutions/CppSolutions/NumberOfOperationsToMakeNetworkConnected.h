@@ -31,18 +31,24 @@ public:
 			if (ranks[x] > ranks[y]) {
 				p[y] = x;
 				setsize[x] += setsize[y];
+				maxSize = max(maxSize, setsize[x]);
 			}
 			else {
 				p[x] = y;
 				setsize[y] += setsize[x];
 				if (ranks[x] == ranks[y])
 					ranks[y]++;
+				maxSize = max(maxSize, setsize[y]);
 			}
 		}
 	}
 
 	int numOfSets() {
 		return numsets;
+	}
+
+	int getMaxSize() {
+		return maxSize;
 	}
 
 	int sizeOfSet(int i) {

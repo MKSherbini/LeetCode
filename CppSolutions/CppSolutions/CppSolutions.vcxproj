@@ -259,6 +259,7 @@
     <ClInclude Include="FindAllAnagramsInAString.h" />
     <ClInclude Include="FindAndReplacePattern.h" />
     <ClInclude Include="FindClosestNodeToGivenTwoNodes.h" />
+    <ClInclude Include="FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.h" />
     <ClInclude Include="FindDuplicateFileInSystem.h" />
     <ClInclude Include="FindDuplicateSubtrees.h" />
     <ClInclude Include="FindEventualSafeStates.h" />
