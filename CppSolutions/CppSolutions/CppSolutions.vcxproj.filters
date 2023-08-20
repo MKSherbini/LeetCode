@@ -1530,6 +1530,9 @@
     <ClInclude Include="FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortItemsByGroupsRespectingDependencies.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

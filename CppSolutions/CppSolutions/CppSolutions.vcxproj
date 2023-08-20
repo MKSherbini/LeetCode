@@ -575,6 +575,7 @@
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />
+    <ClInclude Include="SortItemsByGroupsRespectingDependencies.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
     <ClInclude Include="SoupServings.h" />
     <ClInclude Include="SpiralMatrix.h" />
