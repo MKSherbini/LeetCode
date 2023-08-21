@@ -481,6 +481,7 @@
     <ClInclude Include="PredictTheWinner.h" />
     <ClInclude Include="PrefixAndSuffixSearch.h" />
     <ClInclude Include="Printing3D.h" />
+    <ClInclude Include="ProductOfArrayExceptSelf.h" />
     <ClInclude Include="PunchedCards.h" />
     <ClInclude Include="PushDominoes.h" />
     <ClInclude Include="PutMarblesInBags.h" />
