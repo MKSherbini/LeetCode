@@ -1,9 +1,4 @@
-24 12 8 6 
-judge: Accepted
+1 judge: Accepted
 
-0 0 9 0 0 
-judge: Accepted
-
--51438240 -28576800 -128595600 28576800 28576800 36741600 32148900 -36741600 28576800 -25719120 
-judge: Accepted
+0 judge: Accepted
 

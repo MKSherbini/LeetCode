@@ -1539,6 +1539,9 @@
     <ClInclude Include="ProductOfArrayExceptSelf.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="IsSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
