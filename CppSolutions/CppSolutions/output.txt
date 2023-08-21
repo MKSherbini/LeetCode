@@ -1,32 +1,6 @@
-0 1 2 3 4 
+1 judge: Accepted
 
+0 judge: Accepted
 
-6 
-5 
-6 
-3 6 
-
-
-
-
-
-0 6 1 5 2 3 4 7 
-
-6 3 4 5 2 0 1 7 
-judge: Wrong answer
-
-0 1 2 3 4 
-
-
-6 
-5 
-6 
-3 
-
-4 
-
-
-
-
-judge: Accepted
+1 judge: Accepted
 

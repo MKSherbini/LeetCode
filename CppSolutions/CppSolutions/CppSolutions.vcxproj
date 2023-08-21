@@ -500,6 +500,7 @@
     <ClInclude Include="RemovingStarsFromAString.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
     <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h" />
+    <ClInclude Include="RepeatedSubstringPattern.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="RestoreIpAddresses.h" />
     <ClInclude Include="RestoreTheArray.h" />
