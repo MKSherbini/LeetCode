@@ -365,6 +365,7 @@
     <ClInclude Include="MaximizeTheConfusionOfAnExam.h" />
     <ClInclude Include="Maximum69Number.h" />
     <ClInclude Include="MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.h" />
+    <ClInclude Include="MaximumAverageSubarrayI.h" />
     <ClInclude Include="MaximumBagsWithFullCapacityOfRocks.h" />
     <ClInclude Include="MaximumDifferenceBetweenNodeAndAncestor.h" />
     <ClInclude Include="MaximumErasureValue.h" />
