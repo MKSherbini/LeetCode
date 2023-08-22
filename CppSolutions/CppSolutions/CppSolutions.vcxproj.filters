@@ -1542,6 +1542,9 @@
     <ClInclude Include="IsSubsequence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ExcelSheetColumnTitle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

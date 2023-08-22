@@ -1,4 +1,11 @@
-1 judge: Accepted
+0 0 
+A judge: Accepted
 
-0 judge: Accepted
+1 1 
+0 0 
+AB judge: Accepted
+
+24 26 
+25 0 
+ZY judge: Accepted
 
