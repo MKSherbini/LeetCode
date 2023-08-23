@@ -1554,6 +1554,9 @@
     <ClInclude Include="NumberOfRecentCalls.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ReorganizeString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,6 +1,4 @@
-3 judge: Accepted
+aba judge: Accepted
 
--1 judge: Accepted
-
-0 judge: Accepted
+ judge: Accepted
 
