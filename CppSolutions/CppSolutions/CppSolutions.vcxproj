@@ -616,6 +616,7 @@
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="SwappingNodesInALinkedList.h" />
     <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="TextJustification.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="TimeNeededToInformAllEmployees.h" />
