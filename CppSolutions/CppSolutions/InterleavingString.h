@@ -7,8 +7,95 @@ using namespace std;
 class InterleavingString
 {
 public:
-	// 3 ms, faster than 86.41% : 7 MB, less than 58.4%
+	// 0 ms, faster than 100% : 7.1 MB, less than 50.41%
 	bool solution(string s1, string s2, string s3) {
+		if (size(s1) + size(s2) != size(s3)) return false;
+
+		int n = size(s1), m = size(s2), end = size(s3);
+		vector mem(n + 1, vector(m + 1, -1));
+		function<bool(int, int)> f = [&](int i, int j) -> bool {
+			if (i + j == end) return true;
+			if (mem[i][j] != -1) return mem[i][j];
+			if (i == n) return mem[i][j] = s2[j] == s3[i + j] ? f(i, j + 1) : false;
+			if (j == m) return mem[i][j] = s1[i] == s3[i + j] ? f(i + 1, j) : false;
+
+			bool ret = false;
+			if (s1[i] == s3[i + j])
+				ret |= f(i + 1, j);
+			if (s2[j] == s3[i + j])
+				ret |= f(i, j + 1);
+
+			return mem[i][j] = ret;
+		};
+		//f(0, 0, 0);
+		//Printer::print(mem);
+		return f(0, 0);
+	}
+
+	// WA, needs a jump
+	bool solution4(string s1, string s2, string s3) {
+		if (size(s3) != size(s1) + size(s2)) return false;
+		int i = 0, j = 0, k = 0;
+
+		while (i < size(s1) && j < size(s2) && k < size(s3)) {
+			if (s3[k] == s1[i]) {
+				i++, k++;
+			}
+			else if (s3[k] == s2[j]) {
+				j++, k++;
+			}
+			else {
+				return false;
+			}
+		}
+
+		while (i < size(s1) && k < size(s3)) {
+			if (s3[k] == s1[i]) {
+				i++, k++;
+			}
+			else {
+				return false;
+			}
+		}
+
+		while (j < size(s2) && k < size(s3)) {
+			if (s3[k] == s2[j]) {
+				j++, k++;
+			}
+			else {
+				return false;
+			}
+		}
+
+		return true;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	// 3 ms, faster than 86.41% : 7 MB, less than 58.4%
+	bool solution3(string s1, string s2, string s3) {
 		if (size(s1) + size(s2) != size(s3)) return false;
 		if (size(s1) == 0) return equal(begin(s2), end(s2), begin(s3));
 		if (size(s2) == 0) return equal(begin(s1), end(s1), begin(s3));
