@@ -372,6 +372,7 @@
     <ClInclude Include="MaximumErasureValue.h" />
     <ClInclude Include="MaximumIceCreamBars.h" />
     <ClInclude Include="MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h" />
+    <ClInclude Include="MaximumLengthOfPairChain.h" />
     <ClInclude Include="MaximumLengthOfRepeatedSubarray.h" />
     <ClInclude Include="MaximumLevelSumOfABinaryTree.h" />
     <ClInclude Include="MaximumNumberOfAchievableTransferRequests.h" />
