@@ -286,6 +286,7 @@
     <ClInclude Include="FlattenNestedListIterator.h" />
     <ClInclude Include="FlipStringToMonotoneIncreasing.h" />
     <ClInclude Include="FloodFill.h" />
+    <ClInclude Include="FrogJump.h" />
     <ClInclude Include="FruitIntoBaskets.h" />
     <ClInclude Include="FurthestBuildingYouCanReach.h" />
     <ClInclude Include="GasStation.h" />
