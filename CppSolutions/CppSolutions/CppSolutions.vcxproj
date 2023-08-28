@@ -301,6 +301,7 @@
     <ClInclude Include="HouseRobberIi.h" />
     <ClInclude Include="ImageOverlap.h" />
     <ClInclude Include="ImplementQueueUsingStacks.h" />
+    <ClInclude Include="ImplementStackUsingQueues.h" />
     <ClInclude Include="ImplementTriePrefixTree.h" />
     <ClInclude Include="IncreasingTripletSubsequence.h" />
     <ClInclude Include="InsertDeleteGetrandomO1.h" />

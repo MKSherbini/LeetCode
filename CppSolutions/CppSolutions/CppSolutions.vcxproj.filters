@@ -1566,6 +1566,9 @@
     <ClInclude Include="FrogJump.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ImplementStackUsingQueues.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
