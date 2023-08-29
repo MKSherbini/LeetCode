@@ -1569,6 +1569,9 @@
     <ClInclude Include="ImplementStackUsingQueues.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumPenaltyForAShop.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
