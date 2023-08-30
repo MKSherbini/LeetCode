@@ -426,6 +426,7 @@
     <ClInclude Include="MinimumOperationsToReduceXToZero.h" />
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MinimumPenaltyForAShop.h" />
+    <ClInclude Include="MinimumReplacementsToSortTheArray.h" />
     <ClInclude Include="MinimumRoundsToCompleteAllTasks.h" />
     <ClInclude Include="MinimumScoreOfAPathBetweenTwoCities.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
