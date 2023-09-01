@@ -7,11 +7,10 @@ using namespace std;
 class CountingBits
 {
 public:
-	// 3 ms, faster than 91.69% : 7.7 MB, less than 88.27%
+	// 0 ms, faster than 100% : 7.7 MB, less than 89.73%
 	vector<int> solution(int n) {
 		vector<int> ans(n + 1);
-		for (int i = 0; i < n + 1; i++)
-		{
+		for (int i = 0; i < n + 1; i++) {
 			int cnt = 0, x = i;
 			while (x)
 				cnt += x & 1, x >>= 1;
@@ -24,9 +23,11 @@ public:
 		{0,1,1},
 		{0,1,1,2,1,2},
 	};
+	static constexpr int const& inputs = 1;
 	vector<int> input1 = {
 		2,
 		5,
 	};
 };
+
 
