@@ -1578,6 +1578,9 @@
     <ClInclude Include="MinimumNumberOfTapsToOpenToWaterAGarden.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ExtraCharactersInAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
