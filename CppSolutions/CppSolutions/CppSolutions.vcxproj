@@ -213,6 +213,7 @@
     <ClInclude Include="ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="ConvertSortedListToBinarySearchTree.h" />
     <ClInclude Include="CountAllPossibleRoutes.h" />
+    <ClInclude Include="CountAllValidPickupAndDeliveryOptions.h" />
     <ClInclude Include="CountAndSay.h" />
     <ClInclude Include="CountCompleteTreeNodes.h" />
     <ClInclude Include="CountingBits.h" />

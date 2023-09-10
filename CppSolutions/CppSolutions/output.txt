@@ -1,21 +1,6 @@
-code 1 
-scod 0 
-tsco 0 
-etsc 0 
-eets 0 
-eetscode 0 
-leet 1 
-leetscod 0 
 1 judge: Accepted
 
-world 1 
-oworl 0 
-lowor 0 
-llowo 0 
-ellow 0 
-hello 1 
-yhell 0 
-ayhel 0 
-sayhe 0 
-3 judge: Accepted
+6 judge: Accepted
+
+90 judge: Accepted
 

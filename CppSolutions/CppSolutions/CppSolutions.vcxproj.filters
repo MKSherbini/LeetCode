@@ -1581,6 +1581,10 @@
     <ClInclude Include="ExtraCharactersInAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SplitLinkedListInParts.h" />
+    <ClInclude Include="CountAllValidPickupAndDeliveryOptions.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
