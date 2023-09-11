@@ -1585,6 +1585,9 @@
     <ClInclude Include="CountAllValidPickupAndDeliveryOptions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="GroupThePeopleGivenTheGroupSizeTheyBelongTo.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
