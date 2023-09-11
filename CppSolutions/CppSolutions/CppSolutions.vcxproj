@@ -366,6 +366,7 @@
     <ClInclude Include="MakeTheStringGreat.h" />
     <ClInclude Include="MatchsticksToSquare.h" />
     <ClInclude Include="MatrixDiagonalSum.h" />
+    <ClInclude Include="MaxConsecutiveOnesIII.h" />
     <ClInclude Include="MaximalNetworkRank.h" />
     <ClInclude Include="MaximizeScoreAfterNOperations.h" />
     <ClInclude Include="MaximizeTheConfusionOfAnExam.h" />

@@ -1588,6 +1588,9 @@
     <ClInclude Include="GroupThePeopleGivenTheGroupSizeTheyBelongTo.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaxConsecutiveOnesIII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
