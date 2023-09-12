@@ -1591,6 +1591,9 @@
     <ClInclude Include="MaxConsecutiveOnesIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DecodeString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
