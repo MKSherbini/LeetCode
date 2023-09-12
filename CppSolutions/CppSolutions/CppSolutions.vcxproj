@@ -484,6 +484,7 @@
     <ClInclude Include="PascalsTriangle.h" />
     <ClInclude Include="PathSum.h" />
     <ClInclude Include="PathSumII.h" />
+    <ClInclude Include="PathSumIII.h" />
     <ClInclude Include="PathWithMaximumProbability.h" />
     <ClInclude Include="PeakIndexInAMountainArray.h" />
     <ClInclude Include="PerfectSquares.h" />
