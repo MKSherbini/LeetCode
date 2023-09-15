@@ -1,6 +1,8 @@
-aaabcbc judge: Accepted
+(1 , 3 ),  (0 , 1 ),  (3 , 4 ),  (1 , 4 ),  (0 , 3 ),  (0 , 4 ),  (1 , 2 ),  (2 , 3 ),  (0 , 2 ),  (2 , 4 )
 
-accaccacc judge: Accepted
+20 judge: Accepted
 
-abcabccdcdcdef judge: Accepted
+(1 , 2 ),  (0 , 1 ),  (0 , 2 )
+
+18 judge: Accepted
 

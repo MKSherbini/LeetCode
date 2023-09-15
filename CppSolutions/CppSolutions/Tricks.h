@@ -34,7 +34,8 @@ bool valid(int x, int n) {
 //sort(begin(ans), end(ans));
 //ans.erase(unique(begin(ans), end(ans)), end(ans));
 
-//priority_queue<int, vector<int>, greater<int>> q;
+//priority_queue<int, vector<int>, greater<int>> pq;
+//priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
 
 // sum of all until n = n*(n+1)/2
 // sum of odds = n*n, where n = number of odds

@@ -408,6 +408,7 @@
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MergeStringsAlternately.h" />
     <ClInclude Include="MinCostClimbingStairs.h" />
+    <ClInclude Include="MinCostToConnectAllPoints.h" />
     <ClInclude Include="MinimizeDeviationInArray.h" />
     <ClInclude Include="MinimizeMaximumOfArray.h" />
     <ClInclude Include="MinimizeTheMaximumDifferenceOfPairs.h" />
