@@ -487,6 +487,7 @@
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PathSumIII.h" />
     <ClInclude Include="PathWithMaximumProbability.h" />
+    <ClInclude Include="PathWithMinimumEffort.h" />
     <ClInclude Include="PeakIndexInAMountainArray.h" />
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="PermutationsII.h" />

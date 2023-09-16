@@ -1600,6 +1600,9 @@
     <ClInclude Include="MinCostToConnectAllPoints.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PathWithMinimumEffort.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
