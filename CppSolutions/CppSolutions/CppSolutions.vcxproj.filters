@@ -1603,6 +1603,9 @@
     <ClInclude Include="PathWithMinimumEffort.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ShortestPathVisitingAllNodes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

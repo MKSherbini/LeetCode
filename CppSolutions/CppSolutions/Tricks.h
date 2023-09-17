@@ -34,6 +34,10 @@ bool valid(int x, int n) {
 //sort(begin(ans), end(ans));
 //ans.erase(unique(begin(ans), end(ans)), end(ans));
 
+//template<class _Ty, class _Container = vector<_Ty>, class _Pr = greater<typename _Container::value_type>>
+//priority_queue<_Ty, _Container, _Pr> makeLowPQ() {
+//	return priority_queue<_Ty, _Container, _Pr>{};
+//}
 //priority_queue<int, vector<int>, greater<int>> pq;
 //priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
 
