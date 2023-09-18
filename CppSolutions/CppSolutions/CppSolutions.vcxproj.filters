@@ -1606,6 +1606,9 @@
     <ClInclude Include="ShortestPathVisitingAllNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TheKWeakestRowsInAMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
