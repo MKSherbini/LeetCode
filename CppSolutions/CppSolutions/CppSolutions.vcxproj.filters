@@ -1609,6 +1609,9 @@
     <ClInclude Include="TheKWeakestRowsInAMatrix.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MedianOfTwoSortedArrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
