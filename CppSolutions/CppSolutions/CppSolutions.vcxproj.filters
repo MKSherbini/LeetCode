@@ -1612,6 +1612,9 @@
     <ClInclude Include="MedianOfTwoSortedArrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ChampagneTower.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
