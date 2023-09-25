@@ -1615,6 +1615,9 @@
     <ClInclude Include="ChampagneTower.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheDifference.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

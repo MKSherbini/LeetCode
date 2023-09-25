@@ -279,6 +279,7 @@
     <ClInclude Include="FindPlayersWithZeroOrOneLosses.h" />
     <ClInclude Include="FindSmallestLetterGreaterThanTarget.h" />
     <ClInclude Include="FindTargetIndicesAfterSortingArray.h" />
+    <ClInclude Include="FindTheDifference.h" />
     <ClInclude Include="FindTheDifferenceOfTwoArrays.h" />
     <ClInclude Include="FindTheDuplicateNumber.h" />
     <ClInclude Include="FindTheHighestAltitude.h" />
