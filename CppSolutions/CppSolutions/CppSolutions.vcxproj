@@ -514,6 +514,7 @@
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="ReducingDishes.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
+    <ClInclude Include="RemoveDuplicateLetters.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />

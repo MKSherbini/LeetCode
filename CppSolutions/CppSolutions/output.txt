@@ -1,4 +1,25 @@
-e judge: Accepted
+0  
+0 b 
+0 bc 
+0 a 
+0 ab 
+abc judge: Accepted
 
-y judge: Accepted
+0  
+0 c 
+0 b 
+0 a 
+0 ac 
+1 acd 
+0 acd 
+1 acdb 
+acdb judge: Accepted
+
+0  
+1 b 
+0 b 
+0 bc 
+1 ba 
+0 ba 
+bac judge: Accepted
 

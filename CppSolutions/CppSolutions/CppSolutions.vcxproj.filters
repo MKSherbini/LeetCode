@@ -1618,6 +1618,9 @@
     <ClInclude Include="FindTheDifference.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveDuplicateLetters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
