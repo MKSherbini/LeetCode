@@ -231,6 +231,7 @@
     <ClInclude Include="D1000000.h" />
     <ClInclude Include="DailyTemperatures.h" />
     <ClInclude Include="DataStreamAsDisjointIntervals.h" />
+    <ClInclude Include="DecodedStringAtIndex.h" />
     <ClInclude Include="DecodeString.h" />
     <ClInclude Include="DecodeWays.h" />
     <ClInclude Include="DecodeXoredArray.h" />

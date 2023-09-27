@@ -184,6 +184,19 @@ public:
 		cout << ")";
 	}
 
+	template<typename T, typename R, typename V, typename Y>
+	static void printOne(const tuple<T, R, V, Y>& v) {
+		cout << "(";
+		printOne(get<0>(v));
+		cout << ", ";
+		printOne(get<1>(v));
+		cout << ", ";
+		printOne(get<2>(v));
+		cout << ", ";
+		printOne(get<3>(v));
+		cout << ")";
+	}
+
 	static void printOne(const vector<string>& v) {
 		for (auto a : v) {
 			printOne(a);
