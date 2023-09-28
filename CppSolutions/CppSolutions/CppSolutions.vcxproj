@@ -599,6 +599,7 @@
     <ClInclude Include="SnapshotArray.h" />
     <ClInclude Include="SolvingQuestionsWithBrainpower.h" />
     <ClInclude Include="SortAnArray.h" />
+    <ClInclude Include="SortArrayByParity.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />

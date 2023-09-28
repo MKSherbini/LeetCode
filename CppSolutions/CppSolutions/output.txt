@@ -1,20 +1,9 @@
-(0 , 3 , 2 , 8 )(5 , 8 , 3 , 36 )
+2 4 3 1 
+judge: Accepted
 
-1 12 8 9 
-o judge: Accepted
+0 
+judge: Accepted
 
-(0 , 1 , 4 , 8 )
-
-0 2 0 0 
-h judge: Accepted
-
-(0 , 0 , 8301530446056247680 , 8301530446056247680 )
-
-0 1 0 0 
-a judge: Accepted
-
-(0 , 0 , 2 , 2 )(2 , 2 , 3 , 9 )(4 , 4 , 4 , 40 )
-
-2 10 9 9 
-c judge: Accepted
+0 1 
+judge: Accepted
 

@@ -1624,6 +1624,9 @@
     <ClInclude Include="DecodedStringAtIndex.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortArrayByParity.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
