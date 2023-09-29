@@ -1,9 +1,6 @@
-2 4 3 1 
-judge: Accepted
+1 judge: Accepted
 
-0 
-judge: Accepted
+1 judge: Accepted
 
-0 1 
-judge: Accepted
+0 judge: Accepted
 
