@@ -44,11 +44,11 @@ private:
 
 	template<typename T, typename R, typename ...Args>
 	void run(T t, R res, Args ... r) {
-		R ret = t.solution(r...);
+		auto ret = t.solution(r...);
 		Printer::printOne(ret);
 		if (anyOrder)
 			Sorter::sort(ret), Sorter::sort(res);
-		bool acc = Validator::valid(ret, res);
+		bool acc = Validator::valid(ret, static_cast<decltype(ret)>(res));
 		cout << "judge: " << (acc ? "Accepted" : "Wrong answer") << "\n\n";
 	}
 
@@ -75,7 +75,7 @@ private:
 		for (int i = 0; i < t.output.size(); i++)
 			run(t, t.output[i], t.input1[i], t.input2[i], t.input3[i], t.input4[i]);
 	}
-	
+
 	template<typename T, int params, typename std::enable_if<params == 5, int*>::type = nullptr>
 	void run(T t) {
 		for (int i = 0; i < t.output.size(); i++)
@@ -93,8 +93,8 @@ private:
 	void runList(T t) {
 		for (int i = 0; i < t.output.size(); i++)
 			run(t, LinkedListSupport::create(t.output[i]), LinkedListSupport::create(t.input1[i]), t.input2[i]);
-	}	
-	
+	}
+
 	template<typename T, int params, typename std::enable_if<params == 1, int*>::type = nullptr>
 	void runList(T t) {
 		for (int i = 0; i < t.output.size(); i++)

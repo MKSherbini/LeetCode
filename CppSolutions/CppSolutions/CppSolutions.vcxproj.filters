@@ -1633,6 +1633,9 @@
     <ClInclude Include="Pattern132.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveColoredPiecesIfBothNeighborsAreTheSameColor.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
