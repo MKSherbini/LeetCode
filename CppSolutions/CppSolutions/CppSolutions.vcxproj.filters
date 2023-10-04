@@ -1636,6 +1636,9 @@
     <ClInclude Include="RemoveColoredPiecesIfBothNeighborsAreTheSameColor.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DesignHashmap.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
