@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DesignHashmap.h" />
+    <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="Pattern132.h" />
     <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddDigits.h" />

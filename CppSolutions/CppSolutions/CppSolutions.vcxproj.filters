@@ -1639,6 +1639,9 @@
     <ClInclude Include="DesignHashmap.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MajorityElementII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
