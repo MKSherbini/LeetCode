@@ -1648,6 +1648,9 @@
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
