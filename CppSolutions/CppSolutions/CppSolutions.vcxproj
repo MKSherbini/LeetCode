@@ -154,6 +154,7 @@
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
+    <ClInclude Include="PaintingTheWalls.h" />
     <ClInclude Include="Pattern132.h" />
     <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddDigits.h" />
