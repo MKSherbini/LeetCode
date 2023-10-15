@@ -1660,6 +1660,9 @@
     <ClInclude Include="PaintingTheWalls.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
