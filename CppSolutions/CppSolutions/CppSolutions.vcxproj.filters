@@ -1666,6 +1666,9 @@
     <ClInclude Include="PascalsTriangleII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidateBinaryTreeNodes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
