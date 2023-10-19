@@ -1669,6 +1669,9 @@
     <ClInclude Include="ValidateBinaryTreeNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ParallelCoursesIII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
