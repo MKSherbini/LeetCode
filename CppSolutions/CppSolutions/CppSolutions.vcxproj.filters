@@ -1672,6 +1672,9 @@
     <ClInclude Include="ParallelCoursesIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConstrainedSubsequenceSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

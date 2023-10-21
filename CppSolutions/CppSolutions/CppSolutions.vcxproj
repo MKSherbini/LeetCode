@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
+    <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="MajorityElementII.h" />
