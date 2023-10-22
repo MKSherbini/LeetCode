@@ -153,6 +153,7 @@
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
+    <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
