@@ -151,6 +151,7 @@
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="FindInMountainArray.h" />
+    <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />

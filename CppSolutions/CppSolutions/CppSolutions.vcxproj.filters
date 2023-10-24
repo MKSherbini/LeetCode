@@ -1678,6 +1678,9 @@
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindLargestValueInEachTreeRow.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
