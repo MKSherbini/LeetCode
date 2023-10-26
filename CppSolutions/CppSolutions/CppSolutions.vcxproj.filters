@@ -1684,6 +1684,9 @@
     <ClInclude Include="KThSymbolInGrammar.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BinaryTreesWithFactors.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

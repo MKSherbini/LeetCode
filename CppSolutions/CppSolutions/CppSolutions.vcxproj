@@ -147,6 +147,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTreesWithFactors.h" />
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="DesignHashmap.h" />
