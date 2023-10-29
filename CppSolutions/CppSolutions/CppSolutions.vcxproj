@@ -513,6 +513,7 @@
     <ClInclude Include="PeakIndexInAMountainArray.h" />
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="PermutationsII.h" />
+    <ClInclude Include="PoorPigs.h" />
     <ClInclude Include="PopulatingNextRightPointersInEachNodeIi.h" />
     <ClInclude Include="PossibleBipartition.h" />
     <ClInclude Include="PowerOfFour.h" />
