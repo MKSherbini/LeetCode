@@ -1693,6 +1693,9 @@
     <ClInclude Include="SortIntegersByTheNumberOf1Bits.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
