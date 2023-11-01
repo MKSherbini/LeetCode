@@ -153,6 +153,7 @@
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
+    <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="MajorityElementII.h" />
