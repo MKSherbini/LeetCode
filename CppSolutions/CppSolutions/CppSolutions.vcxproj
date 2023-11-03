@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryTreesWithFactors.h" />
+    <ClInclude Include="BuildAnArrayWithStackOperations.h" />
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />

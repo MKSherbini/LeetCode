@@ -1702,6 +1702,9 @@
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BuildAnArrayWithStackOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
