@@ -1,18 +1,6 @@
-Push 
-Push 
-Pop 
-Push 
+4 judge: Accepted
 
-judge: Accepted
+7 judge: Accepted
 
-Push 
-Push 
-Push 
-
-judge: Accepted
-
-Push 
-Push 
-
-judge: Accepted
+7 judge: Accepted
 

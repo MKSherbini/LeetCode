@@ -1705,6 +1705,9 @@
     <ClInclude Include="BuildAnArrayWithStackOperations.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
