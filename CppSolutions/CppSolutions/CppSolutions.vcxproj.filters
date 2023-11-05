@@ -1708,6 +1708,9 @@
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheWinnerOfAnArrayGame.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
