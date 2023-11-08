@@ -153,6 +153,7 @@
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="DesignHashmap.h" />
+    <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />

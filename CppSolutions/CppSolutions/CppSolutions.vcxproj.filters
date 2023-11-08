@@ -1717,6 +1717,9 @@
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
