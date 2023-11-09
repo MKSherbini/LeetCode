@@ -1720,6 +1720,9 @@
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNumberOfHomogenousSubstrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
