@@ -1723,6 +1723,9 @@
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RestoreTheArrayFromAdjacentPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
