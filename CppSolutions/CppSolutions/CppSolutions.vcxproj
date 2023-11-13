@@ -638,6 +638,7 @@
     <ClInclude Include="SortIntegersByTheNumberOf1Bits.h" />
     <ClInclude Include="SortItemsByGroupsRespectingDependencies.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
+    <ClInclude Include="SortVowelsInAString.h" />
     <ClInclude Include="SoupServings.h" />
     <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="SpiralMatrixII.h" />
