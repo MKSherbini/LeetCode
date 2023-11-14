@@ -692,6 +692,7 @@
     <ClInclude Include="UncrossedLines.h" />
     <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniqueBinarySearchTreesII.h" />
+    <ClInclude Include="UniqueLength3PalindromicSubsequences.h" />
     <ClInclude Include="UniqueMorseCodeWords.h" />
     <ClInclude Include="UniqueNumberOfOccurrences.h" />
     <ClInclude Include="UniquePaths.h" />

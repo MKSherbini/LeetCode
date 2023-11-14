@@ -1729,6 +1729,9 @@
     <ClInclude Include="SortVowelsInAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UniqueLength3PalindromicSubsequences.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
