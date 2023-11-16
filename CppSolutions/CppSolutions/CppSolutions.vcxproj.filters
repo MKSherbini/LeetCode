@@ -1735,6 +1735,9 @@
     <ClInclude Include="FindUniqueBinaryString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

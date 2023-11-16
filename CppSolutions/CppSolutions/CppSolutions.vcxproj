@@ -166,6 +166,7 @@
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
+    <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
