@@ -1732,6 +1732,9 @@
     <ClInclude Include="UniqueLength3PalindromicSubsequences.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindUniqueBinaryString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

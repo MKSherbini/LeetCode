@@ -1,6 +1,6 @@
-3 judge: Accepted
+00 judge: Wrong answer
 
-0 judge: Accepted
+10 judge: Wrong answer
 
-4 judge: Accepted
+000 judge: Wrong answer
 
