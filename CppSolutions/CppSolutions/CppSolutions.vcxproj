@@ -168,6 +168,7 @@
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
+    <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
