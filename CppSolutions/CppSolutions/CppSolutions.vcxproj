@@ -162,6 +162,7 @@
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
+    <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="MajorityElementII.h" />
