@@ -546,6 +546,7 @@
     <ClInclude Include="RectangleArea.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="ReducingDishes.h" />
+    <ClInclude Include="ReductionOperationsToMakeTheArrayElementsEqual.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
     <ClInclude Include="RemoveColoredPiecesIfBothNeighborsAreTheSameColor.h" />
     <ClInclude Include="RemoveDuplicateLetters.h" />

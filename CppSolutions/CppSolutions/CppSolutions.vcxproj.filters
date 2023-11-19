@@ -1744,6 +1744,9 @@
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ReductionOperationsToMakeTheArrayElementsEqual.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
