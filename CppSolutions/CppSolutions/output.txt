@@ -1,6 +1,20 @@
-3 judge: Accepted
+(G , 4 )
+(P , 2 )
 
-0 judge: Accepted
+(G , 9 )
+(P , 6 )
 
-4 judge: Accepted
+
+21 judge: Accepted
+
+(M , 4 )
+(P , 2 )
+(G , 2 )
+
+(M , 3 )
+(P , 13 )
+(G , 13 )
+
+
+37 judge: Accepted
 
