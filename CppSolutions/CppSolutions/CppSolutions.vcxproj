@@ -151,6 +151,7 @@
     <ClInclude Include="BuildAnArrayWithStackOperations.h" />
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
+    <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="DesignHashmap.h" />

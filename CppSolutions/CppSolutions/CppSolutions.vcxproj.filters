@@ -1750,6 +1750,9 @@
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNicePairsInAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
