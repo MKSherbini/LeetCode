@@ -156,6 +156,7 @@
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
+    <ClInclude Include="DiagonalTraverseII.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
