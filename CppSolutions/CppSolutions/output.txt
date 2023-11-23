@@ -1,9 +1,24 @@
-1 4 2 7 5 3 8 6 9 
+4 5 6 
+
+4 5 6 9 
+
+3 5 7 9 
+
+true false true 
 judge: Accepted
 
-1 6 2 8 7 3 9 4 12 10 5 13 11 14 15 16 
-judge: Accepted
+-12 -12 -9 -6 -3 
 
-1 2 3 4 5 6 
+-12 -9 -6 -3 
+
+-25 -20 -15 20 
+
+-25 -6 15 20 
+
+-20 -15 
+
+-25 -20 -15 -10 
+
+false true false false true true 
 judge: Accepted
 

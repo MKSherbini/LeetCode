@@ -19,6 +19,10 @@ public:
 		cout << '\n';
 	}
 
+	static void printOne(uint8_t b) {
+		cout << (b == 0 ? "false " : "true ");
+	}
+
 	static void printOne(ListNode* head) {
 		auto t = head;
 		while (t)
