@@ -1759,6 +1759,9 @@
     <ClInclude Include="ArithmeticSubarrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

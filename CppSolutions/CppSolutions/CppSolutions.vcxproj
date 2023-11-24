@@ -171,6 +171,7 @@
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
+    <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
