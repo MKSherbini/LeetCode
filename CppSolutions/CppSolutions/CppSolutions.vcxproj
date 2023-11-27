@@ -166,7 +166,9 @@
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
+    <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
+    <ClInclude Include="LargestSubmatrixWithRearrangements.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
