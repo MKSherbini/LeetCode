@@ -1771,6 +1771,9 @@
     <ClInclude Include="KnightDialer.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfWaysToDivideALongCorridor.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
