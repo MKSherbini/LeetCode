@@ -1774,6 +1774,9 @@
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

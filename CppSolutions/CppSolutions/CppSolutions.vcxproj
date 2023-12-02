@@ -165,6 +165,7 @@
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
+    <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
