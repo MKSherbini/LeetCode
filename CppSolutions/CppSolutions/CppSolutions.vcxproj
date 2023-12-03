@@ -179,6 +179,7 @@
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
+    <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
