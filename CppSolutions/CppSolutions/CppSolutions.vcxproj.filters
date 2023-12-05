@@ -1783,6 +1783,9 @@
     <ClInclude Include="Largest3SameDigitNumberInString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountOfMatchesInTournament.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

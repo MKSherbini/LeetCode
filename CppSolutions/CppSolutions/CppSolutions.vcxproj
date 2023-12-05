@@ -155,6 +155,7 @@
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
+    <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
     <ClInclude Include="DiagonalTraverseII.h" />
