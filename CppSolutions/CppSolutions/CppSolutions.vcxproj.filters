@@ -1786,6 +1786,9 @@
     <ClInclude Include="CountOfMatchesInTournament.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CalculateMoneyInLeetcodeBank.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
