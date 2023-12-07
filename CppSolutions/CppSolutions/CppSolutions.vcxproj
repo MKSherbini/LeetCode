@@ -172,6 +172,7 @@
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="Largest3SameDigitNumberInString.h" />
+    <ClInclude Include="LargestOddNumberInString.h" />
     <ClInclude Include="LargestSubmatrixWithRearrangements.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="MajorityElementII.h" />

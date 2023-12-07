@@ -1,12 +1,6 @@
-0 
-10 
-10 judge: Accepted
+5 judge: Accepted
 
-28 
-37 
-37 judge: Accepted
+ judge: Accepted
 
-63 
-96 
-96 judge: Accepted
+35427 judge: Accepted
 
