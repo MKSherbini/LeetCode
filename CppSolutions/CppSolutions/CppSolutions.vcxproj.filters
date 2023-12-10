@@ -1792,6 +1792,9 @@
     <ClInclude Include="LargestOddNumberInString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TransposeMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

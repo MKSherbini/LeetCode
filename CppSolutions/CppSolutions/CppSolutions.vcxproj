@@ -700,6 +700,7 @@
     <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="TotalCostToHireKWorkers.h" />
+    <ClInclude Include="TransposeMatrix.h" />
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TreeSupport.h" />
     <ClInclude Include="Triangle.h" />
