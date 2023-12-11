@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "TransposeMatrix.h"
+#include "ElementAppearingMoreThan25InSortedArray.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,6 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<TransposeMatrix>();
+	Runner(false).run<ElementAppearingMoreThan25InSortedArray>();
 }
 
