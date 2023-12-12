@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "ElementAppearingMoreThan25InSortedArray.h"
+#include "MaximumProductOfTwoElementsInAnArray.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,6 +9,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<ElementAppearingMoreThan25InSortedArray>();
+	Runner(false).run<MaximumProductOfTwoElementsInAnArray>();
 }
-
