@@ -661,6 +661,7 @@
     <ClInclude Include="SortTheMatrixDiagonally.h" />
     <ClInclude Include="SortVowelsInAString.h" />
     <ClInclude Include="SoupServings.h" />
+    <ClInclude Include="SpecialPositionsInABinaryMatrix.h" />
     <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="SpiralMatrixII.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
