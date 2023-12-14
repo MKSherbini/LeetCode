@@ -160,6 +160,7 @@
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
     <ClInclude Include="DiagonalTraverseII.h" />
+    <ClInclude Include="DifferenceBetweenOnesAndZerosInRowAndColumn.h" />
     <ClInclude Include="ElementAppearingMoreThan25InSortedArray.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
     <ClInclude Include="FindInMountainArray.h" />

@@ -1804,6 +1804,9 @@
     <ClInclude Include="SpecialPositionsInABinaryMatrix.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DifferenceBetweenOnesAndZerosInRowAndColumn.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
