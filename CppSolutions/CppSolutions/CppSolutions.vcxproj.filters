@@ -1807,6 +1807,9 @@
     <ClInclude Include="DifferenceBetweenOnesAndZerosInRowAndColumn.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DestinationCity.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

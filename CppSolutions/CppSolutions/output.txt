@@ -1,11 +1,6 @@
-0 0 4 
-0 0 4 
--2 -2 2 
+Sao Paulo judge: Accepted
 
-judge: Accepted
+A judge: Accepted
 
-5 5 5 
-5 5 5 
-
-judge: Accepted
+Z judge: Accepted
 
