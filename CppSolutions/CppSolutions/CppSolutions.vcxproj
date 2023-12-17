@@ -157,6 +157,7 @@
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
+    <ClInclude Include="DesignAFoodRatingSystem.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
