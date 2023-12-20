@@ -1819,6 +1819,9 @@
     <ClInclude Include="ImageSmoother.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BuyTwoChocolates.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

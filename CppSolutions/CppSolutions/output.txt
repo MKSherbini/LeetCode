@@ -1,12 +1,4 @@
-0 0 0 
-0 0 0 
-0 0 0 
+0 judge: Accepted
 
-judge: Accepted
-
-137 141 137 
-141 138 141 
-137 141 137 
-
-judge: Accepted
+3 judge: Accepted
 
