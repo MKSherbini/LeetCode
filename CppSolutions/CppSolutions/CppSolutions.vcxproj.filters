@@ -1822,6 +1822,9 @@
     <ClInclude Include="BuyTwoChocolates.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="WidestVerticalAreaBetweenTwoPointsContainingNoPoints.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
