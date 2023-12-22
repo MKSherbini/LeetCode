@@ -187,6 +187,7 @@
     <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h" />
     <ClInclude Include="MaximumProductDifferenceBetweenTwoPairs.h" />
     <ClInclude Include="MaximumProductOfTwoElementsInAnArray.h" />
+    <ClInclude Include="MaximumScoreAfterSplittingAString.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
