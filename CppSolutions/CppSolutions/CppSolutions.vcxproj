@@ -199,6 +199,7 @@
     <ClInclude Include="PaintingTheWalls.h" />
     <ClInclude Include="ParallelCoursesIII.h" />
     <ClInclude Include="PascalsTriangleII.h" />
+    <ClInclude Include="PathCrossing.h" />
     <ClInclude Include="Pattern132.h" />
     <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddDigits.h" />

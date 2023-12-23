@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "MaximumScoreAfterSplittingAString.h"
+#include "PathCrossing.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,5 +9,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(false).run<MaximumScoreAfterSplittingAString>();
+	Runner(false).run<PathCrossing>();
 }
