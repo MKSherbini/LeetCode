@@ -1831,6 +1831,9 @@
     <ClInclude Include="PathCrossing.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

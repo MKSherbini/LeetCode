@@ -191,6 +191,7 @@
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
+    <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
