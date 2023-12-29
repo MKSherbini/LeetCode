@@ -681,6 +681,7 @@
     <ClInclude Include="StoneGameIII.h" />
     <ClInclude Include="StrangePrinter.h" />
     <ClInclude Include="StringCompression.h" />
+    <ClInclude Include="StringCompressionII.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubarraySumsDivisibleByK.h" />
     <ClInclude Include="Subsets.h" />
