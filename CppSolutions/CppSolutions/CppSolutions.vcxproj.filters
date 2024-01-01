@@ -1840,6 +1840,9 @@
     <ClInclude Include="BestTimeToBuyAndSellStockII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AssignCookies.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
