@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArithmeticSubarrays.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BinaryTreesWithFactors.h" />
     <ClInclude Include="BuildAnArrayWithStackOperations.h" />
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
