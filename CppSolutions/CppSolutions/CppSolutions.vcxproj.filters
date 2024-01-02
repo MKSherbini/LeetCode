@@ -1843,6 +1843,9 @@
     <ClInclude Include="AssignCookies.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
