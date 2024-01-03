@@ -1846,6 +1846,9 @@
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfLaserBeamsInABank.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
