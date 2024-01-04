@@ -1849,6 +1849,9 @@
     <ClInclude Include="NumberOfLaserBeamsInABank.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
