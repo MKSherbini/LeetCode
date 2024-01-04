@@ -725,6 +725,7 @@
     <ClInclude Include="Tricks.h" />
     <ClInclude Include="TrieNode.h" />
     <ClInclude Include="TruncateSentence.h" />
+    <ClInclude Include="TwoSum.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
     <ClInclude Include="UglyNumber.h" />
