@@ -7,8 +7,35 @@ using namespace std;
 class Sum3
 {
 public:
-	// 80 ms, faster than 86.18% : 19.8 MB, less than 99.92%
+	// 141 ms, faster than 56.09% : 24.3 MB, less than 97.76%
 	vector<vector<int>> solution(vector<int> nums) {
+		sort(begin(nums), end(nums));
+		vector<vector<int>> ans;
+		for (int k = 0; k < (int)size(nums) - 2; k++) {
+			if (k > 0 && nums[k] == nums[k - 1]) continue;
+
+			int i = k + 1, j = size(nums) - 1;
+			while (i < j) {
+
+				if (nums[i] + nums[j] + nums[k] < 0) {
+					i++;
+				}
+				else if (nums[i] + nums[j] + nums[k] > 0) {
+					j--;
+				}
+				else {
+					ans.push_back({ nums[i], nums[j], nums[k] });
+					do {
+						i++, j--;
+					} while (i < j && nums[i] == nums[i - 1] && nums[j] == nums[j + 1]);
+				}
+			}
+		}
+		return ans;
+	}
+
+	// 80 ms, faster than 86.18% : 19.8 MB, less than 99.92%
+	vector<vector<int>> solution4(vector<int> nums) {
 		sort(begin(nums), end(nums));
 		vector<vector<int>> ans;
 		for (int i = 0; i < (int)nums.size() - 2; i++)
