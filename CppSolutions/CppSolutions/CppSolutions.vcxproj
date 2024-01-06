@@ -698,6 +698,7 @@
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="SuccessfulPairsOfSpellsAndPotions.h" />
     <ClInclude Include="Sum3.h" />
+    <ClInclude Include="Sum4.h" />
     <ClInclude Include="sumClosest3.h" />
     <ClInclude Include="SummaryRanges.h" />
     <ClInclude Include="SumOfAbsoluteDifferencesInASortedArray.h" />

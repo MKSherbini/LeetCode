@@ -1855,6 +1855,9 @@
     <ClInclude Include="TwoSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="Sum4.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
