@@ -197,6 +197,7 @@
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
+    <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfLaserBeamsInABank.h" />
