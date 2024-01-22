@@ -7,8 +7,26 @@ using namespace std;
 class SetMismatch
 {
 public:
-	// 21 ms, faster than 99.57% : 21.2 MB, less than 99.95%
+	// 10 ms, faster than 99.8% : 23.6 MB, less than 37.48%
 	vector<int> solution(vector<int> nums) {
+		int n = size(nums);
+
+		int ans, x = 0;
+		for (size_t i = 0; i < n; i++) {
+			int& v = nums[abs(nums[i]) - 1];
+			x ^= i + 1;
+			x ^= abs(nums[i]);
+			if (v < 0)
+				ans = abs(nums[i]);
+			else
+				v = -v;
+		}
+
+		return { ans, x ^ ans };
+	}
+
+	// 21 ms, faster than 99.57% : 21.2 MB, less than 99.95%
+	vector<int> solution2(vector<int> nums) {
 		vector<int> ans(2);
 
 		for (auto x : nums) {
