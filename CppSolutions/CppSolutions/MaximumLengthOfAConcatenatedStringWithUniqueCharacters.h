@@ -7,8 +7,37 @@ using namespace std;
 class MaximumLengthOfAConcatenatedStringWithUniqueCharacters
 {
 public:
-	// 0 ms, faster than 100% : 8 MB, less than 99.91%
+	// 0 ms, faster than 100% : 10.5 MB, less than 78.59%
 	int solution(vector<string> arr) {
+		int ans = 0;
+		vector<bitset<26>> v;
+		for (auto& s : arr) {
+			bitset<26> b;
+			for (auto c : s)
+				if (b.test(c - 'a'))
+					goto end;
+				else
+					b.set(c - 'a');
+			v.push_back(b);
+		end:;
+		}
+
+		int n = size(v);
+		function<int(int, bitset<26>)> f = [&](int i, bitset<26> taken) -> int {
+			if (i == n) return 0;
+
+			int ret = f(i + 1, taken);
+			if ((taken & v[i]).none())
+				ret = max(ret, (int)v[i].count() + f(i + 1, taken | v[i]));
+
+			return ret;
+		};
+
+		return f(0, {});
+	}
+
+	// 0 ms, faster than 100% : 8 MB, less than 99.91%
+	int solution4(vector<string> arr) {
 		int ans = 0;
 		int n = size(arr);
 

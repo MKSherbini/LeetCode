@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "SetMismatch.h"
+#include "MaximumLengthOfAConcatenatedStringWithUniqueCharacters.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,5 +9,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<SetMismatch>();
+	Runner(true).run<MaximumLengthOfAConcatenatedStringWithUniqueCharacters>();
 }
