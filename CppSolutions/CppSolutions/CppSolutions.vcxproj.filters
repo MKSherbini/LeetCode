@@ -1867,6 +1867,9 @@
     <ClInclude Include="DivideArrayIntoArraysWithMaxDifference.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SequentialDigits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
