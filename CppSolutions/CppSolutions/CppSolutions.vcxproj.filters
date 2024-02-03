@@ -1870,6 +1870,9 @@
     <ClInclude Include="SequentialDigits.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PartitionArrayForMaximumSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,6 +1,6 @@
-123 234 
-judge: Accepted
+84 judge: Accepted
 
-1234 2345 3456 4567 5678 6789 12345 
-judge: Accepted
+83 judge: Accepted
+
+1 judge: Accepted
 
