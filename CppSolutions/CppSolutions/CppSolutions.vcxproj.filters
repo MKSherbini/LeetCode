@@ -1873,6 +1873,9 @@
     <ClInclude Include="PartitionArrayForMaximumSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveElement.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
