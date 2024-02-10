@@ -1879,6 +1879,9 @@
     <ClInclude Include="LargestDivisibleSubset.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PalindromicSubstrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

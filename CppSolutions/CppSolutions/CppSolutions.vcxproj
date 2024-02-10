@@ -206,6 +206,7 @@
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="PaintingTheWalls.h" />
+    <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="ParallelCoursesIII.h" />
     <ClInclude Include="PartitionArrayForMaximumSum.h" />
     <ClInclude Include="PascalsTriangleII.h" />
