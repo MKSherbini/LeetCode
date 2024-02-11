@@ -155,6 +155,7 @@
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="BuyTwoChocolates.h" />
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
+    <ClInclude Include="CherryPickupII.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />
