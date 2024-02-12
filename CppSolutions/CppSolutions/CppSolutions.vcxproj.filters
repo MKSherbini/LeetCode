@@ -1885,6 +1885,9 @@
     <ClInclude Include="CherryPickupII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MajorityElement.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
