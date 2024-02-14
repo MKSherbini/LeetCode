@@ -581,6 +581,7 @@
     <ClInclude Include="QueueReconstructionByHeight.h" />
     <ClInclude Include="RangeSumOfBst.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
+    <ClInclude Include="RearrangeArrayElementsBySign.h" />
     <ClInclude Include="RectangleArea.h" />
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="ReducingDishes.h" />
