@@ -1,6 +1,6 @@
-3 -2 1 -5 2 -4 
-judge: Accepted
+ada judge: Accepted
 
-1 -1 
-judge: Accepted
+racecar judge: Accepted
+
+ judge: Accepted
 

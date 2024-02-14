@@ -1891,6 +1891,9 @@
     <ClInclude Include="RearrangeArrayElementsBySign.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindFirstPalindromicStringInTheArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
