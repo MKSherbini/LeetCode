@@ -1,6 +1,6 @@
-ada judge: Accepted
+15 judge: Accepted
 
-racecar judge: Accepted
+12 judge: Accepted
 
- judge: Accepted
+-1 judge: Accepted
 
