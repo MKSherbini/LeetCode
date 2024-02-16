@@ -189,6 +189,7 @@
     <ClInclude Include="LargestOddNumberInString.h" />
     <ClInclude Include="LargestSubmatrixWithRearrangements.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
+    <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
