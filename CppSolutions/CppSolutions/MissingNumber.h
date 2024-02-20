@@ -7,13 +7,13 @@ using namespace std;
 class MissingNumber
 {
 public:
-	// 7 ms, faster than 99.9% : 17.9 MB, less than 93.84%
+	// 3 ms, faster than 99.92% : 17.9 MB, less than 93.84%
 	int solution(vector<int> nums) {
-		int total = (nums.size() * (nums.size() + 1)) / 2, sum = 0;
+		int ans = (nums.size() * (nums.size() + 1)) / 2, sum = 0;
 		for (auto x : nums)
-			sum += x;
+			ans -= x;
 
-		return total - sum;
+		return ans;
 	}
 
 	// 15 ms, faster than 95.17% : 18.3 MB, less than 8.81%
