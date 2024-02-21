@@ -7,8 +7,22 @@ using namespace std;
 class BitwiseAndOfNumbersRange
 {
 public:
-	// 4 ms, faster than 94.92% : 5.7 MB, less than 96.09%
+	// 0 ms, faster than 100% : 8.7 MB, less than 55.9%
 	int solution(int left, int right) {
+		int cnt = 0;
+
+		//find the common prefix
+		while (left != right) {
+			cnt++;
+			left = left >> 1;
+			right = right >> 1;
+		}
+
+		return right << cnt;
+	}
+
+	// 4 ms, faster than 94.92% : 5.7 MB, less than 96.09%
+	int solution2(int left, int right) {
 		int diff = right - left;
 		int ret = right & left;
 
