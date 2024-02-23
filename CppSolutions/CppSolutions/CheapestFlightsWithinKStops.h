@@ -7,8 +7,31 @@ using namespace std;
 class CheapestFlightsWithinKStops
 {
 public:
-	// 19 ms, faster than 94.79% : 13.1 MB, less than 75.69%
+	// 12 ms, faster than 90.03% : 15.6 MB, less than 67.51%
 	int solution(int n, vector<vector<int>> flights, int src, int dst, int k) {
+		const int OO = 1e6;
+		vector visCost(2, vector(n, OO));
+		int cur = 0, other = 1;
+		visCost[other][src] = 0;
+		for (size_t i = 0; i <= k; i++) {
+			Printer::print(visCost);
+			for (auto& f : flights) {
+				if (visCost[other][f[0]] != OO) {
+					visCost[cur][f[1]] = min(visCost[cur][f[1]], visCost[other][f[0]] + f[2]);
+				}
+			}
+			for (size_t j = 0; j < n; j++) {
+				visCost[cur][j] = min(visCost[cur][j], visCost[other][j]);
+			}
+			cur = other;
+			other = 1 - cur;
+		}
+
+		return visCost[other][dst] == OO ? -1 : visCost[other][dst];
+	}
+
+	// 19 ms, faster than 94.79% : 13.1 MB, less than 75.69%
+	int solution2(int n, vector<vector<int>> flights, int src, int dst, int k) {
 		vector<vector<int>> adj(n);
 
 		for (size_t i = 0; i < size(flights); i++)
