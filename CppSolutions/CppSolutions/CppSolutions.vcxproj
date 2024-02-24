@@ -171,6 +171,7 @@
     <ClInclude Include="DivideArrayIntoArraysWithMaxDifference.h" />
     <ClInclude Include="ElementAppearingMoreThan25InSortedArray.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
+    <ClInclude Include="FindAllPeopleWithSecret.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
