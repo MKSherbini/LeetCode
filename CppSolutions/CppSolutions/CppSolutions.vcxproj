@@ -182,6 +182,7 @@
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
+    <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />

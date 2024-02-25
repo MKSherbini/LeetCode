@@ -1906,6 +1906,9 @@
     <ClInclude Include="FindAllPeopleWithSecret.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="GreatestCommonDivisorTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
