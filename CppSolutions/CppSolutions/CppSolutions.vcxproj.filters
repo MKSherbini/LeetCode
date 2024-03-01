@@ -1918,6 +1918,9 @@
     <ClInclude Include="EvenOddTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumOddBinaryNumber.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

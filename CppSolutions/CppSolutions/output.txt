@@ -1,6 +1,4 @@
-true judge: Accepted
+001 judge: Accepted
 
-false judge: Accepted
-
-true judge: Accepted
+1001 judge: Accepted
 
