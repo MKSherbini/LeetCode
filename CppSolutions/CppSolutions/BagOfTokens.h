@@ -7,8 +7,24 @@ using namespace std;
 class BagOfTokens
 {
 public:
-	// 6 ms, faster than 84.07% : 10.5 MB, less than 67.18%
+	// 0 ms, faster than 100% : 13 MB, less than 55.08%
 	int solution(vector<int> tokens, int power) {
+		sort(begin(tokens), end(tokens));
+
+		int i = 0, j = size(tokens) - 1;
+		int ans = 0, score = 0;
+		while (i <= j) {
+			if (power >= tokens[i]) score++, power -= tokens[i++];
+			else if (score > 0) score--, power += tokens[j--];
+			else break;
+			ans = max(ans, score);
+		}
+
+		return ans;
+	}
+
+	// 6 ms, faster than 84.07% : 10.5 MB, less than 67.18%
+	int solution2(vector<int> tokens, int power) {
 		sort(begin(tokens), end(tokens));
 		Printer::print(tokens);
 		int pwr = size(tokens) - 1;
