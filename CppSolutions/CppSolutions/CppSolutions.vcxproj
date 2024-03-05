@@ -207,6 +207,7 @@
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
+    <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
