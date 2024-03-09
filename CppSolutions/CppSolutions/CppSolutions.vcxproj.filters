@@ -1930,6 +1930,9 @@
     <ClInclude Include="CountElementsWithMaximumFrequency.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumCommonValue.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
