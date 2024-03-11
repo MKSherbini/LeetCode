@@ -163,6 +163,7 @@
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
+    <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
