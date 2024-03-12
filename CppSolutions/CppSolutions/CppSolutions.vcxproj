@@ -608,6 +608,7 @@
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.h" />
     <ClInclude Include="RemoveStonesToMinimizeTheTotal.h" />
+    <ClInclude Include="RemoveZeroSumConsecutiveNodesFromLinkedList.h" />
     <ClInclude Include="RemovingStarsFromAString.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
     <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h" />
