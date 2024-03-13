@@ -1939,6 +1939,9 @@
     <ClInclude Include="RemoveZeroSumConsecutiveNodesFromLinkedList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindThePivotInteger.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
