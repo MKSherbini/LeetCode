@@ -1945,6 +1945,9 @@
     <ClInclude Include="BinarySubarraysWithSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ContiguousArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
