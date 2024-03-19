@@ -738,6 +738,7 @@
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="SwappingNodesInALinkedList.h" />
     <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TextJustification.h" />
     <ClInclude Include="TheKWeakestRowsInAMatrix.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
