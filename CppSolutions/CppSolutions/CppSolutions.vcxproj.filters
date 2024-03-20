@@ -1951,6 +1951,9 @@
     <ClInclude Include="TaskScheduler.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MergeInBetweenLinkedLists.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
