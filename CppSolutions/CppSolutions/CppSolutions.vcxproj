@@ -615,6 +615,7 @@
     <ClInclude Include="RemoveZeroSumConsecutiveNodesFromLinkedList.h" />
     <ClInclude Include="RemovingStarsFromAString.h" />
     <ClInclude Include="ReorderedPowerOf2.h" />
+    <ClInclude Include="ReorderList.h" />
     <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h" />
     <ClInclude Include="ReorganizeString.h" />
     <ClInclude Include="RepeatedSubstringPattern.h" />
