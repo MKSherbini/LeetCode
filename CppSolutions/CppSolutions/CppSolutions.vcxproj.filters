@@ -1957,6 +1957,9 @@
     <ClInclude Include="ReorderList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindAllDuplicatesInAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -176,6 +176,7 @@
     <ClInclude Include="ElementAppearingMoreThan25InSortedArray.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
     <ClInclude Include="EvenOddTree.h" />
+    <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllPeopleWithSecret.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindInMountainArray.h" />
