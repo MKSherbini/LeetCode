@@ -1,5 +1,5 @@
 #include "stdc++.h"
-#include "FindAllDuplicatesInAnArray.h"
+#include "FirstMissingPositive.h"
 
 //#include <bits/stdc++.h>
 //using namespace std;
@@ -9,5 +9,5 @@ int main()
 {
 	freopen("output.txt", "w", stdout);
 	freopen("input.txt", "r", stdin);
-	Runner(true).run<FindAllDuplicatesInAnArray>();
+	Runner(true).run<FirstMissingPositive>();
 }

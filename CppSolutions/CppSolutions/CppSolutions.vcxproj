@@ -188,6 +188,7 @@
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
+    <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="ImageSmoother.h" />
