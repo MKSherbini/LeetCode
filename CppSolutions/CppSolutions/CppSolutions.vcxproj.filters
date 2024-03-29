@@ -1966,6 +1966,9 @@
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
