@@ -723,6 +723,7 @@
     <ClInclude Include="StringCompressionII.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubarraySumsDivisibleByK.h" />
+    <ClInclude Include="SubarraysWithKDifferentIntegers.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubstringsOfSizeThreeWithDistinctCharacters.h" />
