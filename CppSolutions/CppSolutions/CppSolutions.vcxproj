@@ -193,6 +193,7 @@
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="ImageSmoother.h" />
+    <ClInclude Include="IsomorphicStrings.h" />
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="Largest3SameDigitNumberInString.h" />

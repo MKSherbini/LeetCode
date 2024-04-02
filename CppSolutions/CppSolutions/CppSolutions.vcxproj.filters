@@ -1972,6 +1972,9 @@
     <ClInclude Include="SubarraysWithKDifferentIntegers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="IsomorphicStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
