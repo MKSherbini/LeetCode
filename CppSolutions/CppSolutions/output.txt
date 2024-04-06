@@ -1,4 +1,6 @@
-3 judge: Accepted
+lee(t(c)o)de judge: Accepted
 
-3 judge: Accepted
+ab(c)d judge: Accepted
+
+ judge: Accepted
 
