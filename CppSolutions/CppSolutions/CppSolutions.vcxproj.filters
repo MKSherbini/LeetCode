@@ -1981,6 +1981,9 @@
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidParenthesisString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

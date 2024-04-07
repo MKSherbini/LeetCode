@@ -787,6 +787,7 @@
     <ClInclude Include="Validator.h" />
     <ClInclude Include="ValidPalindrome.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="ValidParenthesisString.h" />
     <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WidestVerticalAreaBetweenTwoPointsContainingNoPoints.h" />
