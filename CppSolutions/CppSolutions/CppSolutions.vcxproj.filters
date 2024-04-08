@@ -1984,6 +1984,9 @@
     <ClInclude Include="ValidParenthesisString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfStudentsUnableToEatLunch.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

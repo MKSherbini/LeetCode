@@ -228,6 +228,7 @@
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfLaserBeamsInABank.h" />
+    <ClInclude Include="NumberOfStudentsUnableToEatLunch.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="PaintingTheWalls.h" />
