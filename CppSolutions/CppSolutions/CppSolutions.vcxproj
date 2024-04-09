@@ -754,6 +754,7 @@
     <ClInclude Include="TheKWeakestRowsInAMatrix.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
+    <ClInclude Include="TimeNeededToBuyTickets.h" />
     <ClInclude Include="TimeNeededToInformAllEmployees.h" />
     <ClInclude Include="ToeplitzMatrix.h" />
     <ClInclude Include="TopKFrequentElements.h" />
