@@ -1993,6 +1993,9 @@
     <ClInclude Include="RevealCardsInIncreasingOrder.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveKDigits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,6 +1,6 @@
-2 13 3 11 5 17 7 
-judge: Accepted
+1219 judge: Accepted
 
-1 1000 
-judge: Accepted
+200 judge: Accepted
+
+0 judge: Accepted
 

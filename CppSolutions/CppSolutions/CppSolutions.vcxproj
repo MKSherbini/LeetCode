@@ -617,6 +617,7 @@
     <ClInclude Include="RemoveDuplicatesFromSortedList.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveElement.h" />
+    <ClInclude Include="RemoveKDigits.h" />
     <ClInclude Include="RemoveLinkedListElements.h" />
     <ClInclude Include="RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.h" />
     <ClInclude Include="RemoveStonesToMinimizeTheTotal.h" />
