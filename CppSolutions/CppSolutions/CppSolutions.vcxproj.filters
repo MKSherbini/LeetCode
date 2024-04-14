@@ -1999,6 +1999,9 @@
     <ClInclude Include="MaximalRectangle.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SumOfLeftLeaves.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
