@@ -2002,6 +2002,9 @@
     <ClInclude Include="SumOfLeftLeaves.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SmallestStringStartingFromLeaf.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
