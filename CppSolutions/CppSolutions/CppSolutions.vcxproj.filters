@@ -2005,6 +2005,9 @@
     <ClInclude Include="SmallestStringStartingFromLeaf.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="IslandPerimeter.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
