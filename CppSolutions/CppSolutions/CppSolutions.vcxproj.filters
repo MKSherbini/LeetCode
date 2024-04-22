@@ -2011,6 +2011,9 @@
     <ClInclude Include="FindAllGroupsOfFarmland.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="OpenTheLock.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

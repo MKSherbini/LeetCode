@@ -234,6 +234,7 @@
     <ClInclude Include="NumberOfStudentsUnableToEatLunch.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
+    <ClInclude Include="OpenTheLock.h" />
     <ClInclude Include="PaintingTheWalls.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="ParallelCoursesIII.h" />
