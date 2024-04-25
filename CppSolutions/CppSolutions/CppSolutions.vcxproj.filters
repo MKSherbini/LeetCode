@@ -2014,6 +2014,9 @@
     <ClInclude Include="OpenTheLock.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestIdealSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
