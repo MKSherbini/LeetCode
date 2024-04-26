@@ -224,6 +224,7 @@
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
     <ClInclude Include="MinimumCommonValue.h" />
+    <ClInclude Include="MinimumFallingPathSumII.h" />
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
