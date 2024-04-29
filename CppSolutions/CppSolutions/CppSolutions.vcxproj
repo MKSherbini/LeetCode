@@ -229,6 +229,7 @@
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
+    <ClInclude Include="MinimumNumberOfOperationsToMakeArrayXorEqualToK.h" />
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
