@@ -157,6 +157,7 @@
     <ClInclude Include="BuyTwoChocolates.h" />
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
     <ClInclude Include="CherryPickupII.h" />
+    <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ContiguousArray.h" />
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h" />
