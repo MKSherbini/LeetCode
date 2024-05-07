@@ -2038,6 +2038,9 @@
     <ClInclude Include="RemoveNodesFromLinkedList.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DoubleANumberRepresentedAsALinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
