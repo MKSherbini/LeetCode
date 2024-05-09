@@ -1,16 +1,6 @@
-Gold Medal 
-Silver Medal 
-Bronze Medal 
-4 
-5 
+4 judge: Accepted
 
-judge: Accepted
+1 judge: Accepted
 
-Gold Medal 
-5 
-Bronze Medal 
-Silver Medal 
-4 
-
-judge: Accepted
+5 judge: Accepted
 
