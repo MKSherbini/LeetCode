@@ -200,6 +200,7 @@
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="IsomorphicStrings.h" />
     <ClInclude Include="KnightDialer.h" />
+    <ClInclude Include="KThSmallestPrimeFraction.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="Largest3SameDigitNumberInString.h" />
     <ClInclude Include="LargestDivisibleSubset.h" />

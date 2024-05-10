@@ -2050,6 +2050,9 @@
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KThSmallestPrimeFraction.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
