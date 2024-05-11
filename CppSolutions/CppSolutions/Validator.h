@@ -16,6 +16,10 @@ public:
 		return v == v2;
 	}
 
+	static int8_t valid(const double& v, const double& v2) {
+		return abs(v-v2) < 1e6;
+	}
+
 	template<typename T, typename T2>
 	static int8_t valid(const vector<T>& v, const vector<T2>& v2) {
 		if (v.size() != v2.size()) return 0;
