@@ -2056,6 +2056,9 @@
     <ClInclude Include="MinimumCostToHireKWorkers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LargestLocalValuesInAMatrix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

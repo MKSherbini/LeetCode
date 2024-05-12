@@ -204,6 +204,7 @@
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="Largest3SameDigitNumberInString.h" />
     <ClInclude Include="LargestDivisibleSubset.h" />
+    <ClInclude Include="LargestLocalValuesInAMatrix.h" />
     <ClInclude Include="LargestOddNumberInString.h" />
     <ClInclude Include="LargestPositiveIntegerThatExistsWithItsNegative.h" />
     <ClInclude Include="LargestSubmatrixWithRearrangements.h" />

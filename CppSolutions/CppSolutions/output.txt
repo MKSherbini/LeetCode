@@ -1,4 +1,11 @@
-150 judge: Accepted
+9 9 
+8 6 
 
-30.6667 judge: Accepted
+judge: Accepted
+
+2 2 2 
+2 2 2 
+2 2 2 
+
+judge: Accepted
 
