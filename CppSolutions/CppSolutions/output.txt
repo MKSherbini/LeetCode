@@ -1,4 +1,4 @@
-39 judge: Accepted
+24 judge: Accepted
 
-1 judge: Accepted
+28 judge: Accepted
 
