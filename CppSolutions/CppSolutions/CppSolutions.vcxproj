@@ -178,6 +178,7 @@
     <ClInclude Include="DoubleANumberRepresentedAsALinkedList.h" />
     <ClInclude Include="ElementAppearingMoreThan25InSortedArray.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
+    <ClInclude Include="EvaluateBooleanBinaryTree.h" />
     <ClInclude Include="EvenOddTree.h" />
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
