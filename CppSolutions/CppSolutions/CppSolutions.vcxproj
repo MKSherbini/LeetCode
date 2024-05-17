@@ -168,6 +168,7 @@
     <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CustomSortString.h" />
+    <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
