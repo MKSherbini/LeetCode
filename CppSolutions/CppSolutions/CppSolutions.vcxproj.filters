@@ -2074,6 +2074,9 @@
     <ClInclude Include="DistributeCoinsInBinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMaximumSumOfNodeValues.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

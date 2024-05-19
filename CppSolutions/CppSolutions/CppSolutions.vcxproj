@@ -190,6 +190,7 @@
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
+    <ClInclude Include="FindTheMaximumSumOfNodeValues.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="FindThePivotInteger.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
