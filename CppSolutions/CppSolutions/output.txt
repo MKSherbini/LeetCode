@@ -1,20 +1,6 @@
-3 
-262 
-260 judge: Accepted
-
-2 
-6 
 6 judge: Accepted
 
-3 
-6 
-5 judge: Accepted
+28 judge: Accepted
 
-2 
-9 
-9 judge: Accepted
-
-0 
-42 
-42 judge: Accepted
+480 judge: Accepted
 
