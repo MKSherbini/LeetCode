@@ -251,6 +251,7 @@
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
     <ClInclude Include="OpenTheLock.h" />
     <ClInclude Include="PaintingTheWalls.h" />
+    <ClInclude Include="PalindromePartitioning.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="ParallelCoursesIII.h" />
     <ClInclude Include="PartitionArrayForMaximumSum.h" />
