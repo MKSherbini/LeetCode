@@ -1,15 +1,16 @@
-a 
-a 
-b 
+1 62 
+0 61 
+1 59 
+0 58 
+1 56 
+1 54 
+54 judge: Wrong answer
 
-aa 
-b 
+1 6 
+1 4 
+0 3 
+3 judge: Wrong answer
 
-
-judge: Accepted
-
-a 
-
-
-judge: Accepted
+0 1 
+1 judge: Accepted
 

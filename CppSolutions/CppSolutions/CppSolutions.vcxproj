@@ -783,6 +783,7 @@
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TextJustification.h" />
     <ClInclude Include="TheKWeakestRowsInAMatrix.h" />
+    <ClInclude Include="TheNumberOfBeautifulSubsets.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="TimeNeededToBuyTickets.h" />

@@ -1,13 +1,12 @@
+#include "TheNumberOfBeautifulSubsets.h"
 #include "stdc++.h"
-#include "PalindromePartitioning.h"
 
-//#include <bits/stdc++.h>
-//using namespace std;
-
+// #include <bits/stdc++.h>
+// using namespace std;
 
 int main()
 {
-	freopen("output.txt", "w", stdout);
-	freopen("input.txt", "r", stdin);
-	Runner(false).run<PalindromePartitioning>();
+    freopen("output.txt", "w", stdout);
+    freopen("input.txt", "r", stdin);
+    Runner(false).run<TheNumberOfBeautifulSubsets>();
 }

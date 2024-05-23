@@ -2083,6 +2083,9 @@
     <ClInclude Include="PalindromePartitioning.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TheNumberOfBeautifulSubsets.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
