@@ -1,16 +1,44 @@
-1 62 
-0 61 
-1 59 
-0 58 
-1 56 
-1 54 
-54 judge: Wrong answer
+3 judge: Accepted
 
-1 6 
-1 4 
-0 3 
-3 judge: Wrong answer
+1 1 0 
+1 0 0 
 
-0 1 
-1 judge: Accepted
+2 1 1 
+3 1 0 
+
+
+
+8 judge: Accepted
+
+1 1 0 
+1 0 0 
+
+2 1 1 
+3 1 0 
+
+4 2 1 
+8 3 1 
+
+
+
+19 judge: Accepted
+
+1 1 0 
+1 0 0 
+
+2 1 1 
+3 1 0 
+
+4 2 1 
+8 3 1 
+
+7 4 2 
+19 8 3 
+
+13 7 4 
+43 19 8 
+
+
+
+94 judge: Accepted
 
