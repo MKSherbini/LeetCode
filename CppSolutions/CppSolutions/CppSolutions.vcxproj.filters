@@ -2089,6 +2089,9 @@
     <ClInclude Include="StudentAttendanceRecordII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SpecialArrayWithXElementsGreaterThanOrEqualX.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
