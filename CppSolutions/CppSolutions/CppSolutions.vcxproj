@@ -199,6 +199,7 @@
     <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FreedomTrail.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
+    <ClInclude Include="GetEqualSubstringsWithinBudget.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="IslandPerimeter.h" />
