@@ -2098,6 +2098,9 @@
     <ClInclude Include="NumberOfStepsToReduceANumberInBinaryRepresentationToOne.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

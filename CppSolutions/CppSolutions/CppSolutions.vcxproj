@@ -167,6 +167,7 @@
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
+    <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
