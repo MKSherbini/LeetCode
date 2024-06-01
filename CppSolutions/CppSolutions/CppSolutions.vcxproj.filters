@@ -2101,6 +2101,9 @@
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ScoreOfAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

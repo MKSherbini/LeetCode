@@ -700,6 +700,7 @@
     <ClInclude Include="SameTree.h" />
     <ClInclude Include="SatisfiabilityOfEqualityEquations.h" />
     <ClInclude Include="ScoreAfterFlippingMatrix.h" />
+    <ClInclude Include="ScoreOfAString.h" />
     <ClInclude Include="ScrambleString.h" />
     <ClInclude Include="SearchA2dMatrix.h" />
     <ClInclude Include="SearchA2dMatrixII.h" />
