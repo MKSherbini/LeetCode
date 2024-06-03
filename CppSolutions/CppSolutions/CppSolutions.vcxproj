@@ -147,6 +147,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />

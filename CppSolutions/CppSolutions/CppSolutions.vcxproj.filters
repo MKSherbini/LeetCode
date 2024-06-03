@@ -2104,6 +2104,9 @@
     <ClInclude Include="ScoreOfAString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
