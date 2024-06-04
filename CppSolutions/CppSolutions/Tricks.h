@@ -24,7 +24,7 @@ bool valid(int x, int n) {
 	return x >= 0 && x < n;
 }
 
-// 26 1 case, 
+// 26 1 case, 58 for both cases (- 'A')
 
 //	std::lower_bound - returns iterator to first element in the given range which is EQUAL_TO or Greater than val.
 //	std::upper_bound - returns iterator to first element in the given range which is Greater than val.

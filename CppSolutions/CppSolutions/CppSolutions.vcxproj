@@ -219,6 +219,7 @@
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
+    <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
