@@ -187,6 +187,7 @@
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
     <ClInclude Include="FindAllPeopleWithSecret.h" />
+    <ClInclude Include="FindCommonCharacters.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
