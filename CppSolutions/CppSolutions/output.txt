@@ -1,15 +1,6 @@
-the 
-cattle 
-was 
-rattled 
-by 
-the 
-battery 
-the cat was rat by the bat judge: Accepted
+3 judge: Accepted
 
-aadsfasf 
-absbs 
-bbab 
-cadsfafs 
-a a b c judge: Accepted
+5 judge: Accepted
+
+0 judge: Accepted
 

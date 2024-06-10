@@ -2116,6 +2116,9 @@
     <ClInclude Include="ReplaceWords.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="HeightChecker.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

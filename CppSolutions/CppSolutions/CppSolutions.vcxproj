@@ -204,6 +204,7 @@
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="GetEqualSubstringsWithinBudget.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
+    <ClInclude Include="HeightChecker.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="IsomorphicStrings.h" />
