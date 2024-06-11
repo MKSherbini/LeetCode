@@ -2119,6 +2119,9 @@
     <ClInclude Include="HeightChecker.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RelativeSortArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

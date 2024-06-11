@@ -1,6 +1,6 @@
-3 judge: Accepted
+2 2 2 1 4 3 3 9 6 7 19 
+judge: Accepted
 
-5 judge: Accepted
-
-0 judge: Accepted
+22 28 8 6 17 44 
+judge: Accepted
 

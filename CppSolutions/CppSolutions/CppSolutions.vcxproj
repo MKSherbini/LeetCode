@@ -640,6 +640,7 @@
     <ClInclude Include="ReductionOperationsToMakeTheArrayElementsEqual.h" />
     <ClInclude Include="RelativeRanks.h" />
     <ClInclude Include="RelativeRanks\RelativeRanks.h" />
+    <ClInclude Include="RelativeSortArray.h" />
     <ClInclude Include="RemoveAllAdjacentDuplicatesInString.h" />
     <ClInclude Include="RemoveColoredPiecesIfBothNeighborsAreTheSameColor.h" />
     <ClInclude Include="RemoveDuplicateLetters.h" />
