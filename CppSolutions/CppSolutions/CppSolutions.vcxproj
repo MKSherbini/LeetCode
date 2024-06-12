@@ -743,6 +743,7 @@
     <ClInclude Include="SortAnArray.h" />
     <ClInclude Include="SortArrayByParity.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
+    <ClInclude Include="SortColors.h" />
     <ClInclude Include="SortedSquares.h" />
     <ClInclude Include="Sorter.h" />
     <ClInclude Include="SortingTheSentence.h" />

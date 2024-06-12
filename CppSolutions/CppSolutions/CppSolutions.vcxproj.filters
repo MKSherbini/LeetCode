@@ -2122,6 +2122,9 @@
     <ClInclude Include="RelativeSortArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortColors.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
