@@ -243,6 +243,7 @@
     <ClInclude Include="MinimumCommonValue.h" />
     <ClInclude Include="MinimumCostToHireKWorkers.h" />
     <ClInclude Include="MinimumFallingPathSumII.h" />
+    <ClInclude Include="MinimumIncrementToMakeArrayUnique.h" />
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumNumberOfMovesToSeatEveryone.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
