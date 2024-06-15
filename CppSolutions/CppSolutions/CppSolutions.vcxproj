@@ -206,6 +206,7 @@
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="HeightChecker.h" />
     <ClInclude Include="ImageSmoother.h" />
+    <ClInclude Include="Ipo.h" />
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="IsomorphicStrings.h" />
     <ClInclude Include="KnightDialer.h" />
