@@ -2134,6 +2134,9 @@
     <ClInclude Include="Ipo.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PatchingArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
