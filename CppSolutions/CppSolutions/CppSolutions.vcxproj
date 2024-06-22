@@ -166,6 +166,7 @@
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
+    <ClInclude Include="CountNumberOfNiceSubarrays.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />

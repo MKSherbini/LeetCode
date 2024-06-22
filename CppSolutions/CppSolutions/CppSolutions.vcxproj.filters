@@ -2137,6 +2137,9 @@
     <ClInclude Include="PatchingArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNumberOfNiceSubarrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
