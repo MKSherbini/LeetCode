@@ -222,6 +222,7 @@
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
+    <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
     <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="MajorityElement.h" />
