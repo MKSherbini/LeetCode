@@ -248,6 +248,7 @@
     <ClInclude Include="MinimumFallingPathSumII.h" />
     <ClInclude Include="MinimumIncrementToMakeArrayUnique.h" />
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
+    <ClInclude Include="MinimumNumberOfKConsecutiveBitFlips.h" />
     <ClInclude Include="MinimumNumberOfMovesToSeatEveryone.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />

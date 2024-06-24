@@ -2143,6 +2143,9 @@
     <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfKConsecutiveBitFlips.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
