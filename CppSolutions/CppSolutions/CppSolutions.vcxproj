@@ -163,6 +163,7 @@
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ContiguousArray.h" />
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h" />
+    <ClInclude Include="ConvertBstToGreaterTree.h" />
     <ClInclude Include="CountElementsWithMaximumFrequency.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
