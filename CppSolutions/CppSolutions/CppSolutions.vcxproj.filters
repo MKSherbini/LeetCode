@@ -2146,6 +2146,9 @@
     <ClInclude Include="MinimumNumberOfKConsecutiveBitFlips.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BinarySearchTreeToGreaterSumTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
