@@ -150,6 +150,7 @@
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
+    <ClInclude Include="BalanceABinarySearchTree.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinarySubarraysWithSum.h" />
