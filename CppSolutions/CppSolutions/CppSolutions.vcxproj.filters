@@ -2155,6 +2155,9 @@
     <ClInclude Include="BalanceABinarySearchTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindCenterOfStarGraph.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
