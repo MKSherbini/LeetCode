@@ -809,6 +809,7 @@
     <ClInclude Include="TheKWeakestRowsInAMatrix.h" />
     <ClInclude Include="TheNumberOfBeautifulSubsets.h" />
     <ClInclude Include="TheNumberOfWeakCharactersInTheGame.h" />
+    <ClInclude Include="ThreeConsecutiveOdds.h" />
     <ClInclude Include="TimeBasedKeyValueStore.h" />
     <ClInclude Include="TimeNeededToBuyTickets.h" />
     <ClInclude Include="TimeNeededToInformAllEmployees.h" />
