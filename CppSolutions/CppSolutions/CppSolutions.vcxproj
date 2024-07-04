@@ -244,6 +244,7 @@
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />
+    <ClInclude Include="MergeNodesInBetweenZeros.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />

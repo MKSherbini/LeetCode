@@ -2164,6 +2164,9 @@
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MergeNodesInBetweenZeros.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
