@@ -2167,6 +2167,12 @@
     <ClInclude Include="MergeNodesInBetweenZeros.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="PassThePillow.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

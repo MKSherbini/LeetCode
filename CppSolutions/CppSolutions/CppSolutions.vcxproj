@@ -199,6 +199,7 @@
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
     <ClInclude Include="FindTheMaximumSumOfNodeValues.h" />
+    <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="FindThePivotInteger.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
@@ -275,6 +276,7 @@
     <ClInclude Include="ParallelCoursesIII.h" />
     <ClInclude Include="PartitionArrayForMaximumSum.h" />
     <ClInclude Include="PascalsTriangleII.h" />
+    <ClInclude Include="PassThePillow.h" />
     <ClInclude Include="PatchingArray.h" />
     <ClInclude Include="PathCrossing.h" />
     <ClInclude Include="PathWithMaximumGold.h" />
