@@ -686,6 +686,7 @@
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
     <ClInclude Include="ReversePrefixOfWord.h" />
+    <ClInclude Include="ReverseSubstringsBetweenEachPairOfParentheses.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
     <ClInclude Include="ReverseWordsInAString.h" />
     <ClInclude Include="RingsAndRods.h" />
