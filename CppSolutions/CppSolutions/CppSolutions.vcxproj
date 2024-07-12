@@ -244,6 +244,7 @@
     <ClInclude Include="MaximumProductDifferenceBetweenTwoPairs.h" />
     <ClInclude Include="MaximumProductOfTwoElementsInAnArray.h" />
     <ClInclude Include="MaximumScoreAfterSplittingAString.h" />
+    <ClInclude Include="MaximumScoreFromRemovingSubstrings.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />

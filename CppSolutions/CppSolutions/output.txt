@@ -1,6 +1,4 @@
-dcba judge: Accepted
+19 judge: Accepted
 
-iloveu judge: Accepted
-
-leetcode judge: Accepted
+20 judge: Accepted
 
