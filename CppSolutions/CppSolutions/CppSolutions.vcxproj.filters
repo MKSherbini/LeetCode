@@ -2188,6 +2188,9 @@
     <ClInclude Include="MaximumScoreFromRemovingSubstrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FinalPricesWithASpecialDiscountInAShop.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

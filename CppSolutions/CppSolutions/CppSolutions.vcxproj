@@ -190,6 +190,7 @@
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
     <ClInclude Include="EvaluateBooleanBinaryTree.h" />
     <ClInclude Include="EvenOddTree.h" />
+    <ClInclude Include="FinalPricesWithASpecialDiscountInAShop.h" />
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
     <ClInclude Include="FindAllPeopleWithSecret.h" />
