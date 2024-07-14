@@ -2194,6 +2194,9 @@
     <ClInclude Include="RobotCollisions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfAtoms.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
