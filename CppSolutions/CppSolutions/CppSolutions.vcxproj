@@ -175,6 +175,7 @@
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CrawlerLogFolder.h" />
+    <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />
     <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
@@ -783,6 +784,7 @@
     <ClInclude Include="SquaresOfASortedArray.h" />
     <ClInclude Include="StampingTheSequence.h" />
     <ClInclude Include="stdc++.h" />
+    <ClInclude Include="StepByStepDirectionsFromABinaryTreeNodeToAnother.h" />
     <ClInclude Include="StoneGameII.h" />
     <ClInclude Include="StoneGameIII.h" />
     <ClInclude Include="StrangePrinter.h" />

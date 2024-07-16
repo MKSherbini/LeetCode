@@ -2197,6 +2197,12 @@
     <ClInclude Include="NumberOfAtoms.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CreateBinaryTreeFromDescriptions.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="StepByStepDirectionsFromABinaryTreeNodeToAnother.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
