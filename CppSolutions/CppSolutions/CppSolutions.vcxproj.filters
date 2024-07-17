@@ -2203,6 +2203,9 @@
     <ClInclude Include="StepByStepDirectionsFromABinaryTreeNodeToAnother.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DeleteNodesAndReturnForest.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

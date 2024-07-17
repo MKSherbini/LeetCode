@@ -178,6 +178,7 @@
     <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />
     <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
+    <ClInclude Include="DeleteNodesAndReturnForest.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
