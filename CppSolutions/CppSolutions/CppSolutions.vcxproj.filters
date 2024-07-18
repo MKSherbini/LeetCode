@@ -2206,6 +2206,9 @@
     <ClInclude Include="DeleteNodesAndReturnForest.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfGoodLeafNodesPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
