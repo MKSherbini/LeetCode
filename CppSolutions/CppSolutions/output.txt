@@ -1,12 +1,9 @@
-(H , 2 )(O , 1 )
+15 
+judge: Accepted
 
-H2O judge: Accepted
+12 
+judge: Accepted
 
-(H , 2 )(Mg , 1 )(O , 2 )
-
-H2MgO2 judge: Accepted
-
-(K , 4 )(N , 2 )(O , 2 )(O , 12 )(S , 4 )
-
-K4N2O14S4 judge: Accepted
+7 
+judge: Accepted
 

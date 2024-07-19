@@ -235,6 +235,7 @@
     <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
     <ClInclude Include="LongestPalindrome.h" />
+    <ClInclude Include="LuckyNumbersInAMatrix.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
