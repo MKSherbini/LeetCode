@@ -1,11 +1,12 @@
-3 0 
-1 7 
+Mary 
+Emma 
+John 
 
 judge: Accepted
 
-5 0 0 
-3 4 0 
-0 2 8 
+Bob 
+Alice 
+Bob 
 
-judge: Wrong answer
+judge: Accepted
 

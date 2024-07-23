@@ -1,4 +1,4 @@
-#include "FindValidMatrixGivenRowAndColumnSums.h"
+#include "SortThePeople.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<FindValidMatrixGivenRowAndColumnSums>();
+    Runner(false).run<SortThePeople>();
 }
