@@ -768,6 +768,7 @@
     <ClInclude Include="SnapshotArray.h" />
     <ClInclude Include="SolvingQuestionsWithBrainpower.h" />
     <ClInclude Include="SortAnArray.h" />
+    <ClInclude Include="SortArrayByIncreasingFrequency.h" />
     <ClInclude Include="SortArrayByParity.h" />
     <ClInclude Include="SortCharactersByFrequency.h" />
     <ClInclude Include="SortColors.h" />
