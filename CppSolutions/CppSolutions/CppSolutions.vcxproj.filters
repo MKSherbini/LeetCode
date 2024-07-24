@@ -2221,6 +2221,9 @@
     <ClInclude Include="SortArrayByIncreasingFrequency.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SortTheJumbledNumbers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

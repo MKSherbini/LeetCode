@@ -777,6 +777,7 @@
     <ClInclude Include="SortingTheSentence.h" />
     <ClInclude Include="SortIntegersByTheNumberOf1Bits.h" />
     <ClInclude Include="SortItemsByGroupsRespectingDependencies.h" />
+    <ClInclude Include="SortTheJumbledNumbers.h" />
     <ClInclude Include="SortTheMatrixDiagonally.h" />
     <ClInclude Include="SortThePeople.h" />
     <ClInclude Include="SortVowelsInAString.h" />
