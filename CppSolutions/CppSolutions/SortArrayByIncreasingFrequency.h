@@ -6,8 +6,22 @@ using namespace std;
 
 class SortArrayByIncreasingFrequency {
 public:
-    // 0 ms, faster than 100% : 14.72 MB, less than 70.42%
+    // 3 ms, faster than 89.96% : 14.95 MB, less than 66.4%
     vector<int> solution(vector<int> nums)
+    {
+        unordered_map<int, int> m;
+        for (auto x : nums)
+            m[x]++;
+
+        sort(begin(nums), end(nums), [&](auto const& a, auto const& b) {
+            return m[a] != m[b] ? m[a] < m[b] : a > b;
+        });
+
+        return nums;
+    }
+
+    // 0 ms, faster than 100% : 14.72 MB, less than 70.42%
+    vector<int> solution2(vector<int> nums)
     {
         unordered_map<int, int> m;
         for (auto x : nums)
