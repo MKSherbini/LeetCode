@@ -2224,6 +2224,9 @@
     <ClInclude Include="SortTheJumbledNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

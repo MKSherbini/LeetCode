@@ -203,6 +203,7 @@
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
+    <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
     <ClInclude Include="FindTheMaximumSumOfNodeValues.h" />
     <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
