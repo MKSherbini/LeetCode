@@ -259,6 +259,7 @@
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
     <ClInclude Include="MinimumCommonValue.h" />
+    <ClInclude Include="MinimumCostToConvertStringI.h" />
     <ClInclude Include="MinimumCostToHireKWorkers.h" />
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h" />
     <ClInclude Include="MinimumFallingPathSumII.h" />
