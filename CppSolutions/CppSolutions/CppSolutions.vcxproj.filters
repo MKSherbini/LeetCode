@@ -2230,6 +2230,9 @@
     <ClInclude Include="MinimumCostToConvertStringI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SecondMinimumTimeToReachDestination.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

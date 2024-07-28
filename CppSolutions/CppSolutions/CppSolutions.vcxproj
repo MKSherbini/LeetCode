@@ -744,6 +744,7 @@
     <ClInclude Include="SearchInRotatedSortedArrayII.h" />
     <ClInclude Include="SearchSuggestionsSystem.h" />
     <ClInclude Include="SeatReservationManager.h" />
+    <ClInclude Include="SecondMinimumTimeToReachDestination.h" />
     <ClInclude Include="SegmentTree.h" />
     <ClInclude Include="SequentialDigits.h" />
     <ClInclude Include="SetMismatch.h" />
