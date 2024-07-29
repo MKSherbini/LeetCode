@@ -1,4 +1,4 @@
-#include "SecondMinimumTimeToReachDestination.h"
+#include "CountNumberOfTeams.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<SecondMinimumTimeToReachDestination>();
+    Runner(false).run<CountNumberOfTeams>();
 }

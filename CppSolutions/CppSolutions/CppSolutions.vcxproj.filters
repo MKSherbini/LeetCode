@@ -2233,6 +2233,9 @@
     <ClInclude Include="SecondMinimumTimeToReachDestination.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNumberOfTeams.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
