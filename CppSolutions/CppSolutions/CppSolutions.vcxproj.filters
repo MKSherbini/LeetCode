@@ -2239,6 +2239,9 @@
     <ClInclude Include="MinimumDeletionsToMakeStringBalanced.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FillingBookcaseShelves.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
