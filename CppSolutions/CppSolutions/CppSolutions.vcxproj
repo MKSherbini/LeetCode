@@ -280,6 +280,7 @@
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfGoodLeafNodesPairs.h" />
     <ClInclude Include="NumberOfLaserBeamsInABank.h" />
+    <ClInclude Include="NumberOfSeniorCitizens.h" />
     <ClInclude Include="NumberOfStepsToReduceANumberInBinaryRepresentationToOne.h" />
     <ClInclude Include="NumberOfStudentsUnableToEatLunch.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
