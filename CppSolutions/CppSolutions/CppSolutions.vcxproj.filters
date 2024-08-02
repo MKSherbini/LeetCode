@@ -2245,6 +2245,9 @@
     <ClInclude Include="NumberOfSeniorCitizens.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
