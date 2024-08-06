@@ -274,6 +274,7 @@
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayXorEqualToK.h" />
+    <ClInclude Include="MinimumNumberOfPushesToTypeWordII.h" />
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h" />

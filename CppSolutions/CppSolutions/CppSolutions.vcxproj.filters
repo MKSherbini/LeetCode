@@ -2251,6 +2251,9 @@
     <ClInclude Include="KthDistinctStringInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfPushesToTypeWordII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
