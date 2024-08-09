@@ -1,10 +1,4 @@
-One Hundred Twenty Three judge: Accepted
+1 judge: Accepted
 
-Twelve Thousand Three Hundred Forty Five judge: Accepted
-
-One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven judge: Accepted
-
-One Billion Two Hundred Ninety Four Million Nine Hundred Sixty Seven Thousand Two Hundred Ninety Five judge: Accepted
-
-Twenty judge: Accepted
+0 judge: Accepted
 

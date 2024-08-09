@@ -2257,6 +2257,9 @@
     <ClInclude Include="IntegerToEnglishWords.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MagicSquaresInGrid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
