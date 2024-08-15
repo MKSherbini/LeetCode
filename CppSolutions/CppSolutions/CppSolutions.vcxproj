@@ -237,6 +237,7 @@
     <ClInclude Include="LargestSubmatrixWithRearrangements.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
+    <ClInclude Include="LemonadeChange.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
     <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
