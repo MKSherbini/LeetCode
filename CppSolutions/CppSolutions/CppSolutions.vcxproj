@@ -253,6 +253,7 @@
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
     <ClInclude Include="MaximumNestingDepthOfTheParentheses.h" />
     <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h" />
+    <ClInclude Include="MaximumNumberOfPointsWithCost.h" />
     <ClInclude Include="MaximumOddBinaryNumber.h" />
     <ClInclude Include="MaximumProductDifferenceBetweenTwoPairs.h" />
     <ClInclude Include="MaximumProductOfTwoElementsInAnArray.h" />
