@@ -2263,6 +2263,9 @@
     <ClInclude Include="LemonadeChange.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumDistanceInArrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -249,6 +249,7 @@
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h" />
+    <ClInclude Include="MaximumDistanceInArrays.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
     <ClInclude Include="MaximumNestingDepthOfTheParentheses.h" />
     <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h" />
