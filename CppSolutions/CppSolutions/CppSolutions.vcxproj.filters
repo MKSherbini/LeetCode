@@ -2269,6 +2269,9 @@
     <ClInclude Include="MaximumNumberOfPointsWithCost.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UglyNumberII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
