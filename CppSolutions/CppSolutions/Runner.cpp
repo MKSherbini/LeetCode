@@ -1,4 +1,4 @@
-#include "UglyNumberII.h"
+#include "2KeysKeyboard.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<UglyNumberII>();
+    Runner(false).run<N2KeysKeyboard>();
 }

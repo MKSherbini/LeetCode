@@ -147,6 +147,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="2KeysKeyboard.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
