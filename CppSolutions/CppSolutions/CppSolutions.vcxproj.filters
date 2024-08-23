@@ -2275,6 +2275,10 @@
     <ClInclude Include="2KeysKeyboard.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberComplement.h" />
+    <ClInclude Include="FractionAdditionAndSubtraction.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

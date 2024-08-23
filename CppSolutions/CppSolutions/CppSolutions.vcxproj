@@ -216,6 +216,7 @@
     <ClInclude Include="FindValidMatrixGivenRowAndColumnSums.h" />
     <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
     <ClInclude Include="FirstMissingPositive.h" />
+    <ClInclude Include="FractionAdditionAndSubtraction.h" />
     <ClInclude Include="FreedomTrail.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
     <ClInclude Include="GetEqualSubstringsWithinBudget.h" />
