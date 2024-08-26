@@ -236,6 +236,7 @@
     <ClInclude Include="LargestLocalValuesInAMatrix.h" />
     <ClInclude Include="LargestOddNumberInString.h" />
     <ClInclude Include="LargestPositiveIntegerThatExistsWithItsNegative.h" />
+    <ClInclude Include="LargestRectangleInHistogram.h" />
     <ClInclude Include="LargestSubmatrixWithRearrangements.h" />
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />

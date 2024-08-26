@@ -2279,6 +2279,9 @@
     <ClInclude Include="FractionAdditionAndSubtraction.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LargestRectangleInHistogram.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
