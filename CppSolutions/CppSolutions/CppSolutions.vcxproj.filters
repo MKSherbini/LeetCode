@@ -2282,6 +2282,9 @@
     <ClInclude Include="LargestRectangleInHistogram.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NAryTreePostorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
