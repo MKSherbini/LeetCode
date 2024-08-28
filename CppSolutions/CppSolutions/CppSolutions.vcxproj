@@ -175,6 +175,7 @@
     <ClInclude Include="CountNumberOfTeams.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
+    <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CrawlerLogFolder.h" />
     <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />
