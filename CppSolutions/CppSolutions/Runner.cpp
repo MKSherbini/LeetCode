@@ -1,4 +1,4 @@
-#include "CountSubIslands.h"
+#include "Convert1dArrayInto2dArray.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<CountSubIslands>();
+    Runner(false).run<Convert1dArrayInto2dArray>();
 }

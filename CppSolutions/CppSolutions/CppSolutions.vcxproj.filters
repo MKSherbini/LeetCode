@@ -2288,6 +2288,9 @@
     <ClInclude Include="CountSubIslands.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="Convert1dArrayInto2dArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
