@@ -2291,6 +2291,9 @@
     <ClInclude Include="Convert1dArrayInto2dArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheStudentThatWillReplaceTheChalk.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

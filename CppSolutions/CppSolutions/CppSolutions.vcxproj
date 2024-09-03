@@ -213,6 +213,7 @@
     <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
     <ClInclude Include="FindThePivotInteger.h" />
+    <ClInclude Include="FindTheStudentThatWillReplaceTheChalk.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FindValidMatrixGivenRowAndColumnSums.h" />
