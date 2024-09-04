@@ -2297,6 +2297,9 @@
     <ClInclude Include="SumOfDigitsOfStringAfterConvert.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="WalkingRobotSimulation.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

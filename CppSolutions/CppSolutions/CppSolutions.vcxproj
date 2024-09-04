@@ -894,6 +894,7 @@
     <ClInclude Include="ValidParenthesisString.h" />
     <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
+    <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="WaterBottles.h" />
     <ClInclude Include="WidestVerticalAreaBetweenTwoPointsContainingNoPoints.h" />
     <ClInclude Include="WiggleSubsequence.h" />
