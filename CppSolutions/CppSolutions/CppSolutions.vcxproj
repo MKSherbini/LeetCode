@@ -206,6 +206,7 @@
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
+    <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
     <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
