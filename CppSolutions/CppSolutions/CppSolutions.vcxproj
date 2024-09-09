@@ -812,6 +812,7 @@
     <ClInclude Include="SpecialPositionsInABinaryMatrix.h" />
     <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="SpiralMatrixII.h" />
+    <ClInclude Include="SpiralMatrixIV.h" />
     <ClInclude Include="SplitArrayIntoConsecutiveSubsequences.h" />
     <ClInclude Include="SplitLinkedListInParts.h" />
     <ClInclude Include="SquaresOfASortedArray.h" />

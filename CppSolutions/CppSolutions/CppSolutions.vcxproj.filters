@@ -2309,6 +2309,9 @@
     <ClInclude Include="LinkedListInBinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SpiralMatrixIV.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
