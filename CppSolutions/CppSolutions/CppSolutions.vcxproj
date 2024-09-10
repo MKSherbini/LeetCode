@@ -228,6 +228,7 @@
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="HeightChecker.h" />
     <ClInclude Include="ImageSmoother.h" />
+    <ClInclude Include="InsertGreatestCommonDivisorsInLinkedList.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
     <ClInclude Include="Ipo.h" />
     <ClInclude Include="IslandPerimeter.h" />

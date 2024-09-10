@@ -2312,6 +2312,9 @@
     <ClInclude Include="SpiralMatrixIV.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="InsertGreatestCommonDivisorsInLinkedList.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
