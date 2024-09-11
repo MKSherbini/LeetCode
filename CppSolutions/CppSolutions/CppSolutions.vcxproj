@@ -275,6 +275,7 @@
     <ClInclude Include="MergeNodesInBetweenZeros.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
+    <ClInclude Include="MinimumBitFlipsToConvertNumber.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
     <ClInclude Include="MinimumCommonValue.h" />
     <ClInclude Include="MinimumCostToConvertStringI.h" />
