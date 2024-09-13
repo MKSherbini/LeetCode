@@ -910,6 +910,7 @@
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />
+    <ClInclude Include="XorQueriesOfASubarray.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>
   <ItemGroup>

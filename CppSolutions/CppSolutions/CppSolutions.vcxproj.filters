@@ -2321,6 +2321,9 @@
     <ClInclude Include="CountTheNumberOfConsistentStrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="XorQueriesOfASubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
