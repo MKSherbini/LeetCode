@@ -2324,6 +2324,9 @@
     <ClInclude Include="XorQueriesOfASubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestSubarrayWithMaximumBitwiseAnd.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
