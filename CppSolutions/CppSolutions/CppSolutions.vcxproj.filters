@@ -2327,6 +2327,9 @@
     <ClInclude Include="LongestSubarrayWithMaximumBitwiseAnd.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheLongestSubstringContainingVowelsInEvenCounts.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
