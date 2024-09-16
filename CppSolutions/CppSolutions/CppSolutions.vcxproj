@@ -297,6 +297,7 @@
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h" />
+    <ClInclude Include="MinimumTimeDifference.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="NAryTreePostorderTraversal.h" />
     <ClInclude Include="NumberComplement.h" />
