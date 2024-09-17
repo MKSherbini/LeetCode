@@ -883,6 +883,7 @@
     <ClInclude Include="TwoSumIvInputIsABst.h" />
     <ClInclude Include="UglyNumber.h" />
     <ClInclude Include="UglyNumberII.h" />
+    <ClInclude Include="UncommonWordsFromTwoSentences.h" />
     <ClInclude Include="UncrossedLines.h" />
     <ClInclude Include="UnionFind.h" />
     <ClInclude Include="UniqueBinarySearchTreesII.h" />
