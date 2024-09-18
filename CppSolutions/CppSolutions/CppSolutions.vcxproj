@@ -242,6 +242,7 @@
     <ClInclude Include="Largest3SameDigitNumberInString.h" />
     <ClInclude Include="LargestDivisibleSubset.h" />
     <ClInclude Include="LargestLocalValuesInAMatrix.h" />
+    <ClInclude Include="LargestNumber.h" />
     <ClInclude Include="LargestOddNumberInString.h" />
     <ClInclude Include="LargestPositiveIntegerThatExistsWithItsNegative.h" />
     <ClInclude Include="LargestRectangleInHistogram.h" />
