@@ -779,6 +779,7 @@
     <ClInclude Include="SequentialDigits.h" />
     <ClInclude Include="SetMismatch.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
+    <ClInclude Include="ShortestPalindrome.h" />
     <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h" />
     <ClInclude Include="ShortestPathInBinaryMatrix.h" />
     <ClInclude Include="ShortestPathVisitingAllNodes.h" />
