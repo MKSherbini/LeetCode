@@ -251,6 +251,7 @@
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
     <ClInclude Include="LemonadeChange.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
+    <ClInclude Include="LexicographicalNumbers.h" />
     <ClInclude Include="LinkedListInBinaryTree.h" />
     <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />

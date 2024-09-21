@@ -2342,6 +2342,9 @@
     <ClInclude Include="ShortestPalindrome.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LexicographicalNumbers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
