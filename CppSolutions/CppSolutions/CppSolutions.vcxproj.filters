@@ -2345,6 +2345,9 @@
     <ClInclude Include="LexicographicalNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KThSmallestInLexicographicalOrder.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
