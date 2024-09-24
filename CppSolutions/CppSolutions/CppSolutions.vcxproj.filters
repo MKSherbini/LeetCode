@@ -2348,6 +2348,9 @@
     <ClInclude Include="KThSmallestInLexicographicalOrder.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheLengthOfTheLongestCommonPrefix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
