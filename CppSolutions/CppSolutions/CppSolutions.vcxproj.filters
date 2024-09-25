@@ -2351,6 +2351,9 @@
     <ClInclude Include="FindTheLengthOfTheLongestCommonPrefix.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SumOfPrefixScoresOfStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

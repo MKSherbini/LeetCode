@@ -857,6 +857,7 @@
     <ClInclude Include="SumOfDistancesInTree.h" />
     <ClInclude Include="SumOfEvenNumbersAfterQueries.h" />
     <ClInclude Include="SumOfLeftLeaves.h" />
+    <ClInclude Include="SumOfPrefixScoresOfStrings.h" />
     <ClInclude Include="SumOfSubarrayMinimums.h" />
     <ClInclude Include="SumRootToLeafNumbers.h" />
     <ClInclude Include="SurroundedRegions.h" />
