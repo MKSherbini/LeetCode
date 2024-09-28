@@ -2354,6 +2354,9 @@
     <ClInclude Include="SumOfPrefixScoresOfStrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DesignCircularDeque.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

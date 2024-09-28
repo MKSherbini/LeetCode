@@ -186,6 +186,7 @@
     <ClInclude Include="DeleteNodesAndReturnForest.h" />
     <ClInclude Include="DeleteNodesFromLinkedListPresentInArray.h" />
     <ClInclude Include="DesignAFoodRatingSystem.h" />
+    <ClInclude Include="DesignCircularDeque.h" />
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
