@@ -2357,6 +2357,9 @@
     <ClInclude Include="DesignCircularDeque.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AllOoneDataStructure.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
