@@ -1,6 +1,12 @@
-5 4 3 2 
-judge: Accepted
+1 4 2 2 
+2 3 2 2 
+true judge: Accepted
 
-4 
-judge: Accepted
+1 6 1 1 
+2 5 1 1 
+3 4 1 1 
+true judge: Accepted
+
+1 9 1 0 
+false judge: Accepted
 
