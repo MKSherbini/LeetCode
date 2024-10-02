@@ -2366,6 +2366,9 @@
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RankTransformOfAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
