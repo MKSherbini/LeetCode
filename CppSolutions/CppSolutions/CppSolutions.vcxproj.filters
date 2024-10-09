@@ -2378,6 +2378,9 @@
     <ClInclude Include="SentenceSimilarityIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumAddToMakeParenthesesValid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

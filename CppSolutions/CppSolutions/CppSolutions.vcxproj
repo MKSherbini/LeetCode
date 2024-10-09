@@ -287,6 +287,7 @@
     <ClInclude Include="MergeInBetweenLinkedLists.h" />
     <ClInclude Include="MergeNodesInBetweenZeros.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
+    <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumBitFlipsToConvertNumber.h" />
     <ClInclude Include="MinimumChangesToMakeAlternatingBinaryString.h" />
