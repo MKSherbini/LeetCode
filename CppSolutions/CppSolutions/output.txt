@@ -1,11 +1,4 @@
-1 A B 
-6 C D 
-7 A B 
-C ,  F 
+1 judge: Accepted
 
 2 judge: Accepted
-
-D ,  B ,  B ,  C ,  A 
-
-5 judge: Accepted
 

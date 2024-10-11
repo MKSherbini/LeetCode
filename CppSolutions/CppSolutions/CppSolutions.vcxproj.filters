@@ -2384,6 +2384,9 @@
     <ClInclude Include="MinimumStringLengthAfterRemovingSubstrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TheNumberOfTheSmallestUnoccupiedChair.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
