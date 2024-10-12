@@ -2387,6 +2387,9 @@
     <ClInclude Include="TheNumberOfTheSmallestUnoccupiedChair.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DivideIntervalsIntoMinimumNumberOfGroups.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
