@@ -1,9 +1,4 @@
-(0 , 1 )(5 , 2 )
-(20 , 1 )(24 , 0 )
-20 24 
-judge: Accepted
+50 judge: Accepted
 
-(1 , 0 )(1 , 2 )
-1 1 
-judge: Accepted
+17 judge: Accepted
 

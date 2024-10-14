@@ -2393,6 +2393,9 @@
     <ClInclude Include="SmallestRangeCoveringElementsFromKLists.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximalScoreAfterApplyingKOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
