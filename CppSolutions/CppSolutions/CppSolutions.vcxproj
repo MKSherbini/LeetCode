@@ -791,6 +791,7 @@
     <ClInclude Include="SecondMinimumTimeToReachDestination.h" />
     <ClInclude Include="SegmentTree.h" />
     <ClInclude Include="SentenceSimilarityIII.h" />
+    <ClInclude Include="SeparateBlackAndWhiteBalls.h" />
     <ClInclude Include="SequentialDigits.h" />
     <ClInclude Include="SetMismatch.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
