@@ -286,6 +286,7 @@
     <ClInclude Include="MaximumScoreAfterSplittingAString.h" />
     <ClInclude Include="MaximumScoreFromRemovingSubstrings.h" />
     <ClInclude Include="MaximumScoreOfAGoodSubarray.h" />
+    <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />
     <ClInclude Include="MergeNodesInBetweenZeros.h" />

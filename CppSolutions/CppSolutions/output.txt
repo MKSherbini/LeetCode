@@ -1,16 +1,6 @@
-(5 , c )(1 , a )(0 , b )
-ccb 
-(3 , c )(0 , b )(0 , a )
-ccbcca 
-ccbccacc judge: Wrong answer
+7236 judge: Accepted
 
-(5 , a )(0 , c )(0 , b )
-aab 
-aabaa judge: Accepted
+9973 judge: Accepted
 
-(2 , b )(1 , c )(1 , a )
-bba 
-(1 , a )(0 , c )(0 , b )
-bbabbc 
-bbabbca judge: Wrong answer
+98863 judge: Accepted
 

@@ -2402,6 +2402,9 @@
     <ClInclude Include="LongestHappyString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumSwap.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
