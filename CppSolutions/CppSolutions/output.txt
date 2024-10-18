@@ -1,6 +1,6 @@
-7236 judge: Accepted
+2 judge: Accepted
 
-9973 judge: Accepted
+7 judge: Accepted
 
-98863 judge: Accepted
+6 judge: Accepted
 
