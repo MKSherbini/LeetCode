@@ -2408,6 +2408,9 @@
     <ClInclude Include="CountNumberOfMaximumBitwiseOrSubsets.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindKthBitInNthBinaryString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

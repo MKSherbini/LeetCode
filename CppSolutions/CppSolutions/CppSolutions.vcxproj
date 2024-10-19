@@ -214,6 +214,7 @@
     <ClInclude Include="FindCommonCharacters.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindInMountainArray.h" />
+    <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
