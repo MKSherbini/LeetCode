@@ -2411,6 +2411,9 @@
     <ClInclude Include="FindKthBitInNthBinaryString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ParsingABooleanExpression.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
