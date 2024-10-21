@@ -2414,6 +2414,9 @@
     <ClInclude Include="ParsingABooleanExpression.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SplitAStringIntoTheMaxNumberOfUniqueSubstrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
