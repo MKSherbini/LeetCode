@@ -2417,6 +2417,9 @@
     <ClInclude Include="SplitAStringIntoTheMaxNumberOfUniqueSubstrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KthLargestSumInABinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

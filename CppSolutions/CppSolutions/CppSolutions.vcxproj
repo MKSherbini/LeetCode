@@ -246,6 +246,7 @@
     <ClInclude Include="IsomorphicStrings.h" />
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KthDistinctStringInAnArray.h" />
+    <ClInclude Include="KthLargestSumInABinaryTree.h" />
     <ClInclude Include="KThSmallestInLexicographicalOrder.h" />
     <ClInclude Include="KThSmallestPrimeFraction.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
