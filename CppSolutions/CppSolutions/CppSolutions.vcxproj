@@ -182,6 +182,7 @@
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountTheNumberOfConsistentStrings.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
+    <ClInclude Include="CousinsInBinaryTreeII.h" />
     <ClInclude Include="CrawlerLogFolder.h" />
     <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />
     <ClInclude Include="CustomSortString.h" />
