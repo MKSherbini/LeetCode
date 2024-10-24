@@ -233,6 +233,7 @@
     <ClInclude Include="FindValidMatrixGivenRowAndColumnSums.h" />
     <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
     <ClInclude Include="FirstMissingPositive.h" />
+    <ClInclude Include="FlipEquivalentBinaryTrees.h" />
     <ClInclude Include="FractionAdditionAndSubtraction.h" />
     <ClInclude Include="FreedomTrail.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
