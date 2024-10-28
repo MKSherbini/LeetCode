@@ -2426,6 +2426,9 @@
     <ClInclude Include="FlipEquivalentBinaryTrees.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestSquareStreakInAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

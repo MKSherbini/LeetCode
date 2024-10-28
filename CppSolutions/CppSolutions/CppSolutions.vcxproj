@@ -270,6 +270,7 @@
     <ClInclude Include="LongestHappyString.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
     <ClInclude Include="LongestPalindrome.h" />
+    <ClInclude Include="LongestSquareStreakInAnArray.h" />
     <ClInclude Include="LongestSubarrayWithMaximumBitwiseAnd.h" />
     <ClInclude Include="LuckyNumbersInAMatrix.h" />
     <ClInclude Include="MagicSquaresInGrid.h" />
