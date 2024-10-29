@@ -2429,6 +2429,9 @@
     <ClInclude Include="LongestSquareStreakInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfMovesInAGrid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
