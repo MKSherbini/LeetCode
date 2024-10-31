@@ -322,6 +322,7 @@
     <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h" />
     <ClInclude Include="MinimumTimeDifference.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
+    <ClInclude Include="MinimumTotalDistanceTraveled.h" />
     <ClInclude Include="NAryTreePostorderTraversal.h" />
     <ClInclude Include="NumberComplement.h" />
     <ClInclude Include="NumberOfAtoms.h" />
