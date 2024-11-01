@@ -2435,6 +2435,9 @@
     <ClInclude Include="MinimumTotalDistanceTraveled.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DeleteCharactersToMakeFancyString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
