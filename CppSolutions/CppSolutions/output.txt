@@ -1,6 +1,6 @@
-leetcode judge: Accepted
+true judge: Accepted
 
-aabaa judge: Accepted
+true judge: Accepted
 
-aab judge: Accepted
+true judge: Wrong answer
 

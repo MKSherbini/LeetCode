@@ -164,6 +164,7 @@
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />
     <ClInclude Include="CherryPickupII.h" />
+    <ClInclude Include="CircularSentence.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ContiguousArray.h" />

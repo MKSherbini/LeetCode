@@ -2438,6 +2438,9 @@
     <ClInclude Include="DeleteCharactersToMakeFancyString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CircularSentence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
