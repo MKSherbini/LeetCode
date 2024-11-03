@@ -1,6 +1,4 @@
 true judge: Accepted
 
-true judge: Accepted
-
-true judge: Wrong answer
+false judge: Accepted
 

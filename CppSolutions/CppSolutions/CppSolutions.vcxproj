@@ -760,6 +760,7 @@
     <ClInclude Include="RobotCollisions.h" />
     <ClInclude Include="RomanToInteger.h" />
     <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="RotateString.h" />
     <ClInclude Include="Runner.h" />
     <ClInclude Include="HowManyNumbersAreSmallerThanTheCurrentNumber.h" />
     <ClInclude Include="JewelsAndStones.h" />
