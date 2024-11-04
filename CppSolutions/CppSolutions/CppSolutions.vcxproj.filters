@@ -2444,6 +2444,9 @@
     <ClInclude Include="RotateString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="StringCompressionIII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

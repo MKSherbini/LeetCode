@@ -864,6 +864,7 @@
     <ClInclude Include="StrangePrinter.h" />
     <ClInclude Include="StringCompression.h" />
     <ClInclude Include="StringCompressionII.h" />
+    <ClInclude Include="StringCompressionIII.h" />
     <ClInclude Include="StudentAttendanceRecordII.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubarraySumsDivisibleByK.h" />
