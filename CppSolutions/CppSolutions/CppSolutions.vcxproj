@@ -216,6 +216,7 @@
     <ClInclude Include="FindCenterOfStarGraph.h" />
     <ClInclude Include="FindCommonCharacters.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
+    <ClInclude Include="FindIfArrayCanBeSorted.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />

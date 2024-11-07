@@ -2447,6 +2447,9 @@
     <ClInclude Include="StringCompressionIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindIfArrayCanBeSorted.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
