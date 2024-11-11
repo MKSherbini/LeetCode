@@ -710,6 +710,7 @@
     <ClInclude Include="PowXN.h" />
     <ClInclude Include="PredictTheWinner.h" />
     <ClInclude Include="PrefixAndSuffixSearch.h" />
+    <ClInclude Include="PrimeSubtractionOperation.h" />
     <ClInclude Include="Printing3D.h" />
     <ClInclude Include="ProductOfArrayExceptSelf.h" />
     <ClInclude Include="PseudoPalindromicPathsInABinaryTree.h" />
