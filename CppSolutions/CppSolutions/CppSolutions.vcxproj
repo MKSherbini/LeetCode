@@ -182,6 +182,7 @@
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountTheNumberOfConsistentStrings.h" />
+    <ClInclude Include="CountTheNumberOfFairPairs.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CousinsInBinaryTreeII.h" />
     <ClInclude Include="CrawlerLogFolder.h" />
