@@ -2468,6 +2468,9 @@
     <ClInclude Include="CountTheNumberOfFairPairs.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimizedMaximumOfProductsDistributedToAnyStore.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

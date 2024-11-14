@@ -302,6 +302,7 @@
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />
     <ClInclude Include="MergeNodesInBetweenZeros.h" />
+    <ClInclude Include="MinimizedMaximumOfProductsDistributedToAnyStore.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
