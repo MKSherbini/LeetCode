@@ -188,6 +188,7 @@
     <ClInclude Include="CrawlerLogFolder.h" />
     <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />
     <ClInclude Include="CustomSortString.h" />
+    <ClInclude Include="DefuseTheBomb.h" />
     <ClInclude Include="DeleteCharactersToMakeFancyString.h" />
     <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
     <ClInclude Include="DeleteNodesAndReturnForest.h" />

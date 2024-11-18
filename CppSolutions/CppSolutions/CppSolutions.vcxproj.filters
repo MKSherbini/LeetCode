@@ -2474,6 +2474,9 @@
     <ClInclude Include="FindThePowerOfKSizeSubarraysI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DefuseTheBomb.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
