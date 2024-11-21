@@ -2483,6 +2483,9 @@
     <ClInclude Include="TakeKOfEachCharacterFromLeftAndRight.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountUnguardedCellsInTheGrid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
