@@ -2489,6 +2489,9 @@
     <ClInclude Include="RotatingTheBox.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumMatrixSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

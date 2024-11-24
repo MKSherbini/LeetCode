@@ -1,34 +1,4 @@
-# . # 
+4 judge: Accepted
 
-
-. 
-# 
-# 
-
-judge: Accepted
-
-# . * . 
-# # * . 
-
-
-# . 
-# # 
-* * 
-. . 
-
-judge: Accepted
-
-# # * . * . 
-# # # * . . 
-# # # . # . 
-
-
-. # # 
-. # # 
-# # * 
-# * . 
-# . * 
-# . . 
-
-judge: Accepted
+16 judge: Accepted
 
