@@ -838,6 +838,7 @@
     <ClInclude Include="SingleElementInASortedArray.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SingleThreadedCpu.h" />
+    <ClInclude Include="SlidingPuzzle.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SmallestRangeCoveringElementsFromKLists.h" />
