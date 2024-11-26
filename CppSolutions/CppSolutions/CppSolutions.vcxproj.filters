@@ -2495,6 +2495,9 @@
     <ClInclude Include="SlidingPuzzle.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindChampionII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

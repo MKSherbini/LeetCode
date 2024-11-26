@@ -217,6 +217,7 @@
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
     <ClInclude Include="FindAllPeopleWithSecret.h" />
     <ClInclude Include="FindCenterOfStarGraph.h" />
+    <ClInclude Include="FindChampionII.h" />
     <ClInclude Include="FindCommonCharacters.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindIfArrayCanBeSorted.h" />
