@@ -2498,6 +2498,9 @@
     <ClInclude Include="FindChampionII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumTimeToVisitACellInAGrid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
