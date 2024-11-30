@@ -951,6 +951,7 @@
     <ClInclude Include="Utf8Validation.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="ValidAnagram.h" />
+    <ClInclude Include="ValidArrangementOfPairs.h" />
     <ClInclude Include="ValidateBinarySearchTree.h" />
     <ClInclude Include="ValidateBinaryTreeNodes.h" />
     <ClInclude Include="ValidateStackSequences.h" />
