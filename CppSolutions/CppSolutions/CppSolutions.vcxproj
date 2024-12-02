@@ -163,6 +163,7 @@
     <ClInclude Include="BuyTwoChocolates.h" />
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />
+    <ClInclude Include="CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.h" />
     <ClInclude Include="CheckIfNAndItsDoubleExist.h" />
     <ClInclude Include="CherryPickupII.h" />
     <ClInclude Include="CircularSentence.h" />
