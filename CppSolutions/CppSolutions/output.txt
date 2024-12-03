@@ -1,6 +1,6 @@
-4 judge: Accepted
+Leetcode Helps Me Learn judge: Accepted
 
-2 judge: Accepted
+i code in py thon judge: Accepted
 
--1 judge: Accepted
+ s p a c i n g judge: Accepted
 

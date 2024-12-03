@@ -2510,6 +2510,9 @@
     <ClInclude Include="CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AddingSpacesToAString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
