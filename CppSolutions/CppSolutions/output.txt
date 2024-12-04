@@ -1,6 +1,6 @@
-Leetcode Helps Me Learn judge: Accepted
+true judge: Accepted
 
-i code in py thon judge: Accepted
+true judge: Accepted
 
- s p a c i n g judge: Accepted
+false judge: Accepted
 

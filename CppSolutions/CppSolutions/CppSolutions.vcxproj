@@ -288,6 +288,7 @@
     <ClInclude Include="MagicSquaresInGrid.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MajorityElementII.h" />
+    <ClInclude Include="MakeStringASubsequenceUsingCyclicIncrements.h" />
     <ClInclude Include="MakeSumDivisibleByP.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximalRectangle.h" />
