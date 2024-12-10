@@ -2522,6 +2522,9 @@
     <ClInclude Include="TwoBestNonOverlappingEvents.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindLongestSpecialSubstringThatOccursThriceI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

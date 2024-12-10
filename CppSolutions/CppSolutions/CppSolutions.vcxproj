@@ -227,6 +227,7 @@
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
+    <ClInclude Include="FindLongestSpecialSubstringThatOccursThriceI.h" />
     <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
