@@ -918,6 +918,7 @@
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="SwappingNodesInALinkedList.h" />
     <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="TakeGiftsFromTheRichestPile.h" />
     <ClInclude Include="TakeKOfEachCharacterFromLeftAndRight.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TextJustification.h" />
