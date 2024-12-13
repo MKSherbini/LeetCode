@@ -1,4 +1,8 @@
-29 judge: Accepted
+1 ,  0 ,  5 ,  2 ,  3 ,  4 
 
-4 judge: Accepted
+7 judge: Accepted
+
+3 ,  0 ,  5 ,  1 ,  4 ,  2 
+
+5 judge: Accepted
 

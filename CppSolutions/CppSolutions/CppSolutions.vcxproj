@@ -231,6 +231,7 @@
     <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
+    <ClInclude Include="FindScoreOfAnArrayAfterMarkingAllElements.h" />
     <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
     <ClInclude Include="FindTheLengthOfTheLongestCommonPrefix.h" />
     <ClInclude Include="FindTheLongestSubstringContainingVowelsInEvenCounts.h" />
