@@ -1,8 +1,10 @@
-1 ,  0 ,  5 ,  2 ,  3 ,  4 
+(1 , 2 )
+(2 , 3 )
+0.783333 judge: Accepted
 
-7 judge: Accepted
-
-3 ,  0 ,  5 ,  1 ,  4 ,  2 
-
-5 judge: Accepted
+(2 , 4 )
+(2 , 10 )
+(3 , 9 )
+(3 , 5 )
+0.534848 judge: Accepted
 

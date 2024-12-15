@@ -296,6 +296,7 @@
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximalScoreAfterApplyingKOperations.h" />
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h" />
+    <ClInclude Include="MaximumAveragePassRatio.h" />
     <ClInclude Include="MaximumBeautyOfAnArrayAfterApplyingOperation.h" />
     <ClInclude Include="MaximumDistanceInArrays.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />

@@ -17,7 +17,7 @@ public:
 	}
 
 	static int8_t valid(const double& v, const double& v2) {
-		return abs(v-v2) < 1e6;
+		return abs(v-v2) < 1e-5;
 	}
 
 	template<typename T, typename T2>
