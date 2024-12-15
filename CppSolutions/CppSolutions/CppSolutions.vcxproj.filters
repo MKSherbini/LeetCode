@@ -2537,6 +2537,9 @@
     <ClInclude Include="MaximumAveragePassRatio.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ContinuousSubarrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -171,6 +171,7 @@
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ContiguousArray.h" />
+    <ClInclude Include="ContinuousSubarrays.h" />
     <ClInclude Include="Convert1dArrayInto2dArray.h" />
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h" />
     <ClInclude Include="ConvertBstToGreaterTree.h" />
