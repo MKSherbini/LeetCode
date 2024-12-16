@@ -216,6 +216,7 @@
     <ClInclude Include="EvaluateBooleanBinaryTree.h" />
     <ClInclude Include="EvenOddTree.h" />
     <ClInclude Include="FillingBookcaseShelves.h" />
+    <ClInclude Include="FinalArrayStateAfterKMultiplicationOperationsI.h" />
     <ClInclude Include="FinalPricesWithASpecialDiscountInAShop.h" />
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
