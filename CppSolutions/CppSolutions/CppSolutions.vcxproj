@@ -170,6 +170,7 @@
     <ClInclude Include="CircularSentence.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
+    <ClInclude Include="ConstructStringWithRepeatLimit.h" />
     <ClInclude Include="ContiguousArray.h" />
     <ClInclude Include="ContinuousSubarrays.h" />
     <ClInclude Include="Convert1dArrayInto2dArray.h" />
