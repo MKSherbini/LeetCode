@@ -295,6 +295,7 @@
     <ClInclude Include="MajorityElementII.h" />
     <ClInclude Include="MakeStringASubsequenceUsingCyclicIncrements.h" />
     <ClInclude Include="MakeSumDivisibleByP.h" />
+    <ClInclude Include="MaxChunksToMakeSorted.h" />
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximalScoreAfterApplyingKOperations.h" />
