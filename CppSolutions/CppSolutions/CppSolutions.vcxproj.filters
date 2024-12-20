@@ -2549,6 +2549,9 @@
     <ClInclude Include="MaxChunksToMakeSorted.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ReverseOddLevelsOfBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

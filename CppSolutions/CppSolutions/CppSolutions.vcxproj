@@ -779,6 +779,7 @@
     <ClInclude Include="RevealCardsInIncreasingOrder.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseLinkedListII.h" />
+    <ClInclude Include="ReverseOddLevelsOfBinaryTree.h" />
     <ClInclude Include="ReversePrefixOfWord.h" />
     <ClInclude Include="ReverseSubstringsBetweenEachPairOfParentheses.h" />
     <ClInclude Include="ReverseVowelsOfAString.h" />
