@@ -222,6 +222,7 @@
     <ClInclude Include="FindAllDuplicatesInAnArray.h" />
     <ClInclude Include="FindAllGroupsOfFarmland.h" />
     <ClInclude Include="FindAllPeopleWithSecret.h" />
+    <ClInclude Include="FindBuildingWhereAliceAndBobCanMeet.h" />
     <ClInclude Include="FindCenterOfStarGraph.h" />
     <ClInclude Include="FindChampionII.h" />
     <ClInclude Include="FindCommonCharacters.h" />

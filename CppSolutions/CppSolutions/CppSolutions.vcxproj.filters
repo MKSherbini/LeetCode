@@ -2555,6 +2555,9 @@
     <ClInclude Include="MaximumNumberOfKDivisibleComponents.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindBuildingWhereAliceAndBobCanMeet.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
