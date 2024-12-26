@@ -2558,6 +2558,9 @@
     <ClInclude Include="FindBuildingWhereAliceAndBobCanMeet.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TargetSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
