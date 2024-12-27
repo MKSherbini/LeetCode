@@ -155,6 +155,7 @@
     <ClInclude Include="AssignCookies.h" />
     <ClInclude Include="AverageWaitingTime.h" />
     <ClInclude Include="BalanceABinarySearchTree.h" />
+    <ClInclude Include="BestSightseeingPair.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinarySubarraysWithSum.h" />
