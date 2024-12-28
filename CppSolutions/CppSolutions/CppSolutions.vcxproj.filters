@@ -2564,6 +2564,9 @@
     <ClInclude Include="BestSightseeingPair.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
