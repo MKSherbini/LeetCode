@@ -191,6 +191,7 @@
     <ClInclude Include="CountTheNumberOfFairPairs.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CountUnguardedCellsInTheGrid.h" />
+    <ClInclude Include="CountVowelStringsInRanges.h" />
     <ClInclude Include="CousinsInBinaryTreeII.h" />
     <ClInclude Include="CrawlerLogFolder.h" />
     <ClInclude Include="CreateBinaryTreeFromDescriptions.h" />

@@ -2567,6 +2567,9 @@
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountVowelStringsInRanges.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
