@@ -844,6 +844,7 @@
     <ClInclude Include="SeparateBlackAndWhiteBalls.h" />
     <ClInclude Include="SequentialDigits.h" />
     <ClInclude Include="SetMismatch.h" />
+    <ClInclude Include="ShiftingLettersII.h" />
     <ClInclude Include="ShortEncodingOfWords.h" />
     <ClInclude Include="ShortestPalindrome.h" />
     <ClInclude Include="ShortestPathInAGridWithObstaclesElimination.h" />
