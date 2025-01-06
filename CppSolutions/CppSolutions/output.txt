@@ -1,4 +1,6 @@
-ace judge: Accepted
+1 1 3 
+judge: Accepted
 
-catz judge: Accepted
+11 8 5 4 3 4 
+judge: Accepted
 

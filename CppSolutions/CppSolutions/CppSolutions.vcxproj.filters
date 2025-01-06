@@ -2579,6 +2579,9 @@
     <ClInclude Include="ShiftingLettersII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumNumberOfOperationsToMoveAllBallsToEachBox.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
