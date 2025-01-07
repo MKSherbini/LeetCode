@@ -905,6 +905,7 @@
     <ClInclude Include="StringCompression.h" />
     <ClInclude Include="StringCompressionII.h" />
     <ClInclude Include="StringCompressionIII.h" />
+    <ClInclude Include="StringMatchingInAnArray.h" />
     <ClInclude Include="StudentAttendanceRecordII.h" />
     <ClInclude Include="SubarrayProductLessThanK.h" />
     <ClInclude Include="SubarraySumsDivisibleByK.h" />
