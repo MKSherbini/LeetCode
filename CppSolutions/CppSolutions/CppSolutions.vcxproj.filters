@@ -2585,6 +2585,9 @@
     <ClInclude Include="StringMatchingInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountPrefixAndSuffixPairsI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

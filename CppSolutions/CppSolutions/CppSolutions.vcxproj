@@ -185,6 +185,7 @@
     <ClInclude Include="CountNumberOfNiceSubarrays.h" />
     <ClInclude Include="CountNumberOfTeams.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
+    <ClInclude Include="CountPrefixAndSuffixPairsI.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountTheNumberOfConsistentStrings.h" />

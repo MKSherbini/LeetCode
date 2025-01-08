@@ -1,13 +1,6 @@
-as 
-hero 
+4 judge: Accepted
 
-judge: Accepted
+2 judge: Accepted
 
-et 
-code 
-
-judge: Accepted
-
-
-judge: Accepted
+0 judge: Accepted
 
