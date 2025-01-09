@@ -2588,6 +2588,9 @@
     <ClInclude Include="CountPrefixAndSuffixPairsI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountingWordsWithAGivenPrefix.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
