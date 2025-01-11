@@ -171,6 +171,7 @@
     <ClInclude Include="CircularSentence.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
+    <ClInclude Include="ConstructKPalindromeStrings.h" />
     <ClInclude Include="ConstructStringWithRepeatLimit.h" />
     <ClInclude Include="ContiguousArray.h" />
     <ClInclude Include="ContinuousSubarrays.h" />

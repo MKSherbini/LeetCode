@@ -2591,6 +2591,9 @@
     <ClInclude Include="CountingWordsWithAGivenPrefix.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConstructKPalindromeStrings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
