@@ -2594,6 +2594,9 @@
     <ClInclude Include="ConstructKPalindromeStrings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfAParenthesesStringCanBeValid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

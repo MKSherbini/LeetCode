@@ -1,15 +1,6 @@
-1 4 
 true judge: Accepted
 
-6 1 
+true judge: Accepted
+
 false judge: Accepted
-
-4 0 
-true judge: Accepted
-
-7 4 
-true judge: Accepted
-
-4 8 
-true judge: Accepted
 
