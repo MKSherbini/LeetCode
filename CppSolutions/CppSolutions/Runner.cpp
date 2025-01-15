@@ -1,4 +1,4 @@
-#include "FindThePrefixCommonArrayOfTwoArrays.h"
+#include "MinimizeXor.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<FindThePrefixCommonArrayOfTwoArrays>();
+    Runner(false).run<MinimizeXor>();
 }
