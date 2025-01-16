@@ -2606,6 +2606,9 @@
     <ClInclude Include="MinimizeXor.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BitwiseXorOfAllPairings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

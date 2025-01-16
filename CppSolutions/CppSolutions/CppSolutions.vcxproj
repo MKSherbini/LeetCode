@@ -160,6 +160,7 @@
     <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinarySubarraysWithSum.h" />
     <ClInclude Include="BinaryTreesWithFactors.h" />
+    <ClInclude Include="BitwiseXorOfAllPairings.h" />
     <ClInclude Include="BuildAnArrayWithStackOperations.h" />
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="BuyTwoChocolates.h" />
