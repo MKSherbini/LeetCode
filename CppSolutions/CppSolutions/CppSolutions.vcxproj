@@ -367,6 +367,7 @@
     <ClInclude Include="MinimumTotalDistanceTraveled.h" />
     <ClInclude Include="MostBeautifulItemForEachQuery.h" />
     <ClInclude Include="NAryTreePostorderTraversal.h" />
+    <ClInclude Include="NeighboringBitwiseXor.h" />
     <ClInclude Include="NumberComplement.h" />
     <ClInclude Include="NumberOfAtoms.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />

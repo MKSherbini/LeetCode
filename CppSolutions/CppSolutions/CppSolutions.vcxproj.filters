@@ -2609,6 +2609,9 @@
     <ClInclude Include="BitwiseXorOfAllPairings.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NeighboringBitwiseXor.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
