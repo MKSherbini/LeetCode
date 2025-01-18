@@ -343,6 +343,7 @@
     <ClInclude Include="MinimumCommonValue.h" />
     <ClInclude Include="MinimumCostToConvertStringI.h" />
     <ClInclude Include="MinimumCostToHireKWorkers.h" />
+    <ClInclude Include="MinimumCostToMakeAtLeastOneValidPathInAGrid.h" />
     <ClInclude Include="MinimumDeletionsToMakeStringBalanced.h" />
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h" />
     <ClInclude Include="MinimumFallingPathSumII.h" />
