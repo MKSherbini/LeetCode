@@ -2615,6 +2615,9 @@
     <ClInclude Include="MinimumCostToMakeAtLeastOneValidPathInAGrid.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FirstCompletelyPaintedRowOrColumn.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
