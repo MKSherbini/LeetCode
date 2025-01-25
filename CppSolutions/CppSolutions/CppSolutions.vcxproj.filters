@@ -2621,6 +2621,9 @@
     <ClInclude Include="CountServersThatCommunicate.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MakeLexicographicallySmallestArrayBySwappingElements.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

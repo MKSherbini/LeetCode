@@ -48,6 +48,7 @@ bool valid(int x, int n) {
 //}
 //priority_queue<int, vector<int>, greater<int>> pq;
 //priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
+// set<int, decltype(cmp)> s(cmp);
 
 // sum of all until n = n*(n+1)/2
 // sum of odds = n*n, where n = number of odds

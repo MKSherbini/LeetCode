@@ -305,6 +305,7 @@
     <ClInclude Include="MagicSquaresInGrid.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MajorityElementII.h" />
+    <ClInclude Include="MakeLexicographicallySmallestArrayBySwappingElements.h" />
     <ClInclude Include="MakeStringASubsequenceUsingCyclicIncrements.h" />
     <ClInclude Include="MakeSumDivisibleByP.h" />
     <ClInclude Include="MaxChunksToMakeSorted.h" />
