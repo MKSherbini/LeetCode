@@ -2624,6 +2624,9 @@
     <ClInclude Include="MakeLexicographicallySmallestArrayBySwappingElements.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumEmployeesToBeInvitedToAMeeting.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
