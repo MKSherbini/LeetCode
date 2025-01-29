@@ -772,6 +772,7 @@
     <ClInclude Include="ReduceArraySizeToTheHalf.h" />
     <ClInclude Include="ReducingDishes.h" />
     <ClInclude Include="ReductionOperationsToMakeTheArrayElementsEqual.h" />
+    <ClInclude Include="RedundantConnection.h" />
     <ClInclude Include="RelativeRanks.h" />
     <ClInclude Include="RelativeRanks\RelativeRanks.h" />
     <ClInclude Include="RelativeSortArray.h" />
