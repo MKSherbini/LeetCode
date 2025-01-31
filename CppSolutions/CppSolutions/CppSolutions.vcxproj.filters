@@ -2633,6 +2633,9 @@
     <ClInclude Include="RedundantConnection.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DivideNodesIntoTheMaximumNumberOfGroups.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
