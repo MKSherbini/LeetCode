@@ -905,6 +905,7 @@
     <ClInclude Include="SortThePeople.h" />
     <ClInclude Include="SortVowelsInAString.h" />
     <ClInclude Include="SoupServings.h" />
+    <ClInclude Include="SpecialArrayI.h" />
     <ClInclude Include="SpecialArrayWithXElementsGreaterThanOrEqualX.h" />
     <ClInclude Include="SpecialPositionsInABinaryMatrix.h" />
     <ClInclude Include="SpiralMatrix.h" />

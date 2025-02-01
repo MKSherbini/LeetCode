@@ -2639,6 +2639,9 @@
     <ClInclude Include="MakingALargeIsland.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SpecialArrayI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
