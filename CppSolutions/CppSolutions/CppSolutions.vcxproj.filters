@@ -2645,6 +2645,9 @@
     <ClInclude Include="LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RecoverBinarySearchTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
