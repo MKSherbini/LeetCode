@@ -166,6 +166,7 @@
     <ClInclude Include="BuyTwoChocolates.h" />
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
     <ClInclude Include="CheckIfAParenthesesStringCanBeValid.h" />
+    <ClInclude Include="CheckIfArrayIsSortedAndRotated.h" />
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />
     <ClInclude Include="CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.h" />
     <ClInclude Include="CheckIfNAndItsDoubleExist.h" />

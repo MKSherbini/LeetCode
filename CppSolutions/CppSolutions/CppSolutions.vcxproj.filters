@@ -2648,6 +2648,9 @@
     <ClInclude Include="RecoverBinarySearchTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfArrayIsSortedAndRotated.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
