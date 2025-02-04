@@ -2651,6 +2651,9 @@
     <ClInclude Include="CheckIfArrayIsSortedAndRotated.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumAscendingSubarraySum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

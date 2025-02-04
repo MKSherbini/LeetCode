@@ -1,6 +1,6 @@
-true judge: Accepted
+65 judge: Accepted
 
-false judge: Accepted
+150 judge: Accepted
 
-true judge: Accepted
+33 judge: Accepted
 
