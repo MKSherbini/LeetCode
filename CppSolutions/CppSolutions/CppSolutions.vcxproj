@@ -170,6 +170,7 @@
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />
     <ClInclude Include="CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.h" />
     <ClInclude Include="CheckIfNAndItsDoubleExist.h" />
+    <ClInclude Include="CheckIfOneStringSwapCanMakeStringsEqual.h" />
     <ClInclude Include="CherryPickupII.h" />
     <ClInclude Include="CircularSentence.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
