@@ -983,6 +983,7 @@
     <ClInclude Include="Tricks.h" />
     <ClInclude Include="TrieNode.h" />
     <ClInclude Include="TruncateSentence.h" />
+    <ClInclude Include="TupleWithSameProduct.h" />
     <ClInclude Include="TwoBestNonOverlappingEvents.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="TwoSum2.h" />

@@ -2657,6 +2657,9 @@
     <ClInclude Include="CheckIfOneStringSwapCanMakeStringsEqual.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TupleWithSameProduct.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
