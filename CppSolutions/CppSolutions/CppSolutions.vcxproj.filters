@@ -2660,6 +2660,9 @@
     <ClInclude Include="TupleWithSameProduct.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheNumberOfDistinctColorsAmongTheBalls.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
