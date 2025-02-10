@@ -2669,6 +2669,9 @@
     <ClInclude Include="CountNumberOfBadPairs.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ClearDigits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -173,6 +173,7 @@
     <ClInclude Include="CheckIfOneStringSwapCanMakeStringsEqual.h" />
     <ClInclude Include="CherryPickupII.h" />
     <ClInclude Include="CircularSentence.h" />
+    <ClInclude Include="ClearDigits.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
     <ClInclude Include="ConstructKPalindromeStrings.h" />
