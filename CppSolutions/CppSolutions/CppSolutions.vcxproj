@@ -186,6 +186,7 @@
     <ClInclude Include="CountingWordsWithAGivenPrefix.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
+    <ClInclude Include="CountNumberOfBadPairs.h" />
     <ClInclude Include="CountNumberOfHomogenousSubstrings.h" />
     <ClInclude Include="CountNumberOfMaximumBitwiseOrSubsets.h" />
     <ClInclude Include="CountNumberOfNiceSubarrays.h" />

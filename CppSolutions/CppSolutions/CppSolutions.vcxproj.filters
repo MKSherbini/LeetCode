@@ -2666,6 +2666,9 @@
     <ClInclude Include="DesignaNumberContainerSystem.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNumberOfBadPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
