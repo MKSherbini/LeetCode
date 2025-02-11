@@ -2672,6 +2672,9 @@
     <ClInclude Include="ClearDigits.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveAllOccurrencesOfASubstring.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
