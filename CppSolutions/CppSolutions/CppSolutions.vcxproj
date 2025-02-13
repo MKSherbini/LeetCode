@@ -375,6 +375,7 @@
     <ClInclude Include="MinimumNumberOfOperationsToMoveAllBallsToEachBox.h" />
     <ClInclude Include="MinimumNumberOfPushesToTypeWordII.h" />
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
+    <ClInclude Include="MinimumOperationsToExceedThresholdValueII.h" />
     <ClInclude Include="MinimumRemoveToMakeValidParentheses.h" />
     <ClInclude Include="MinimumStringLengthAfterRemovingSubstrings.h" />
     <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h" />
