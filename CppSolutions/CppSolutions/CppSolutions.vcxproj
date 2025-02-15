@@ -261,6 +261,7 @@
     <ClInclude Include="FindThePivotInteger.h" />
     <ClInclude Include="FindThePowerOfKSizeSubarraysI.h" />
     <ClInclude Include="FindThePrefixCommonArrayOfTwoArrays.h" />
+    <ClInclude Include="FindThePunishmentNumberOfAnInteger.h" />
     <ClInclude Include="FindTheStudentThatWillReplaceTheChalk.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />

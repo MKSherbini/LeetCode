@@ -1,12 +1,4 @@
-1 ,  2 ,  3 ,  10 ,  11 
+182 judge: Accepted
 
-2 judge: Accepted
-
-1 ,  1 ,  2 ,  4 ,  9 
-
-4 judge: Accepted
-
-5 ,  73 ,  78 ,  97 
-
-3 judge: Accepted
+1478 judge: Accepted
 
