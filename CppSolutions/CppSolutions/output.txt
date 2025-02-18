@@ -1,6 +1,4 @@
-8 judge: Accepted
+123549876 judge: Accepted
 
-188 judge: Accepted
-
-1 judge: Accepted
+4321 judge: Accepted
 
