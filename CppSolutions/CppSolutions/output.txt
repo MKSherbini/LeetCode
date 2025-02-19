@@ -1,4 +1,32 @@
-123549876 judge: Accepted
+ 
+a 
+b 
+c 
+c judge: Accepted
 
-4321 judge: Accepted
+ 
+a 
+b 
+c 
+ judge: Accepted
+
+ 
+a 
+ab 
+aba 
+abc 
+ac 
+aca 
+acb 
+b 
+ba 
+bab 
+bac 
+bc 
+bca 
+bcb 
+c 
+ca 
+cab 
+cab judge: Accepted
 

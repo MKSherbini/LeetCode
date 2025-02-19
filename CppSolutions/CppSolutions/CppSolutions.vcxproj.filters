@@ -2693,6 +2693,9 @@
     <ClInclude Include="ConstructSmallestNumberFromDiString.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TheKThLexicographicalStringOfAllHappyStringsOfLengthN.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -975,6 +975,7 @@
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TextJustification.h" />
+    <ClInclude Include="TheKThLexicographicalStringOfAllHappyStringsOfLengthN.h" />
     <ClInclude Include="TheKWeakestRowsInAMatrix.h" />
     <ClInclude Include="TheNumberOfBeautifulSubsets.h" />
     <ClInclude Include="TheNumberOfTheSmallestUnoccupiedChair.h" />
