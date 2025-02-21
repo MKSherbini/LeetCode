@@ -2696,6 +2696,9 @@
     <ClInclude Include="TheKThLexicographicalStringOfAllHappyStringsOfLengthN.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindElementsInAContaminatedBinaryTree.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

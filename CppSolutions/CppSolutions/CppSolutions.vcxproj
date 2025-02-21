@@ -241,6 +241,7 @@
     <ClInclude Include="FindCenterOfStarGraph.h" />
     <ClInclude Include="FindChampionII.h" />
     <ClInclude Include="FindCommonCharacters.h" />
+    <ClInclude Include="FindElementsInAContaminatedBinaryTree.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindIfArrayCanBeSorted.h" />
     <ClInclude Include="FindInMountainArray.h" />
