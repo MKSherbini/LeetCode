@@ -2699,6 +2699,9 @@
     <ClInclude Include="FindElementsInAContaminatedBinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

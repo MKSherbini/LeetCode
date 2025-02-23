@@ -176,6 +176,7 @@
     <ClInclude Include="ClearDigits.h" />
     <ClInclude Include="CompareVersionNumbers.h" />
     <ClInclude Include="ConstrainedSubsequenceSum.h" />
+    <ClInclude Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.h" />
     <ClInclude Include="ConstructKPalindromeStrings.h" />
     <ClInclude Include="ConstructSmallestNumberFromDiString.h" />
     <ClInclude Include="ConstructStringWithRepeatLimit.h" />
