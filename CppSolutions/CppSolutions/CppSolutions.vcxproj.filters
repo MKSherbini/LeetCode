@@ -2702,6 +2702,9 @@
     <ClInclude Include="ConstructBinaryTreeFromPreorderAndPostorderTraversal.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumAbsoluteSumOfAnySubarray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

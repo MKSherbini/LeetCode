@@ -1,32 +1,4 @@
- 
-a 
-b 
-c 
-c judge: Accepted
+5 judge: Accepted
 
- 
-a 
-b 
-c 
- judge: Accepted
-
- 
-a 
-ab 
-aba 
-abc 
-ac 
-aca 
-acb 
-b 
-ba 
-bab 
-bac 
-bc 
-bca 
-bcb 
-c 
-ca 
-cab 
-cab judge: Accepted
+8 judge: Accepted
 
