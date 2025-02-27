@@ -303,6 +303,7 @@
     <ClInclude Include="LastMomentBeforeAllAntsFallOutOfAPlank.h" />
     <ClInclude Include="LeastNumberOfUniqueIntegersAfterKRemovals.h" />
     <ClInclude Include="LemonadeChange.h" />
+    <ClInclude Include="LengthOfLongestFibonacciSubsequence.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
     <ClInclude Include="LetterTilePossibilities.h" />
     <ClInclude Include="LexicographicalNumbers.h" />
