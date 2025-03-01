@@ -151,6 +151,7 @@
     <ClInclude Include="AddingSpacesToAString.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
+    <ClInclude Include="ApplyOperationsToAnArray.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
     <ClInclude Include="AverageWaitingTime.h" />
