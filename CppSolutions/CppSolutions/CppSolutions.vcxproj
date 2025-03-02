@@ -356,6 +356,7 @@
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />
     <ClInclude Include="MergeNodesInBetweenZeros.h" />
+    <ClInclude Include="MergeTwo2dArraysBySummingValues.h" />
     <ClInclude Include="MinimizedMaximumOfProductsDistributedToAnyStore.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimizeXor.h" />

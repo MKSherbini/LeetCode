@@ -2711,6 +2711,9 @@
     <ClInclude Include="ApplyOperationsToAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MergeTwo2dArraysBySummingValues.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
