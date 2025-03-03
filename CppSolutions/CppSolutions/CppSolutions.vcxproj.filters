@@ -2714,6 +2714,9 @@
     <ClInclude Include="MergeTwo2dArraysBySummingValues.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PartitionArrayAccordingToGivenPivot.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
