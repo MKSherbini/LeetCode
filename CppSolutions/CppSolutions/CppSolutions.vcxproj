@@ -202,6 +202,7 @@
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountTheNumberOfConsistentStrings.h" />
     <ClInclude Include="CountTheNumberOfFairPairs.h" />
+    <ClInclude Include="CountTotalNumberOfColoredCells.h" />
     <ClInclude Include="CountTripletsThatCanFormTwoArraysOfEqualXor.h" />
     <ClInclude Include="CountUnguardedCellsInTheGrid.h" />
     <ClInclude Include="CountVowelStringsInRanges.h" />
