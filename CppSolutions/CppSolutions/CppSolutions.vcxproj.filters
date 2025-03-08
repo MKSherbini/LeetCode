@@ -2720,6 +2720,10 @@
     <ClInclude Include="CountTotalNumberOfColoredCells.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ClosestPrimeNumbersInRange.h" />
+    <ClInclude Include="MinimumRecolorsToGetKConsecutiveBlackBlocks.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
