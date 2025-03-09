@@ -150,6 +150,7 @@
     <ClInclude Include="2KeysKeyboard.h" />
     <ClInclude Include="AddingSpacesToAString.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
+    <ClInclude Include="AlternatingGroupsII.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
     <ClInclude Include="ApplyOperationsToAnArray.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
