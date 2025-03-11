@@ -407,6 +407,7 @@
     <ClInclude Include="NumberOfSeniorCitizens.h" />
     <ClInclude Include="NumberOfStepsToReduceANumberInBinaryRepresentationToOne.h" />
     <ClInclude Include="NumberOfStudentsUnableToEatLunch.h" />
+    <ClInclude Include="NumberOfSubstringsContainingAllThreeCharacters.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToSplitArray.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />

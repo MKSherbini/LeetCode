@@ -2727,6 +2727,9 @@
     <ClInclude Include="AlternatingGroupsII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfSubstringsContainingAllThreeCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
