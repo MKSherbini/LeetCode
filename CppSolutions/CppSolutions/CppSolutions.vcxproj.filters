@@ -2730,6 +2730,9 @@
     <ClInclude Include="NumberOfSubstringsContainingAllThreeCharacters.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumCountOfPositiveIntegerAndNegativeInteger.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
