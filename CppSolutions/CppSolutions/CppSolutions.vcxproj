@@ -336,6 +336,7 @@
     <ClInclude Include="MaximumAscendingSubarraySum.h" />
     <ClInclude Include="MaximumAveragePassRatio.h" />
     <ClInclude Include="MaximumBeautyOfAnArrayAfterApplyingOperation.h" />
+    <ClInclude Include="MaximumCandiesAllocatedToKChildren.h" />
     <ClInclude Include="MaximumCountOfPositiveIntegerAndNegativeInteger.h" />
     <ClInclude Include="MaximumDistanceInArrays.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
@@ -1048,6 +1049,7 @@
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />
     <ClInclude Include="XorQueriesOfASubarray.h" />
+    <ClInclude Include="ZeroArrayTransformationII.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>
   <ItemGroup>

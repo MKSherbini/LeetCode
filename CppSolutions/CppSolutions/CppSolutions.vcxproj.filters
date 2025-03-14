@@ -2733,6 +2733,12 @@
     <ClInclude Include="MaximumCountOfPositiveIntegerAndNegativeInteger.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ZeroArrayTransformationII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumCandiesAllocatedToKChildren.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
