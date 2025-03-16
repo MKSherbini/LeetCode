@@ -395,6 +395,7 @@
     <ClInclude Include="MinimumStringLengthAfterRemovingSubstrings.h" />
     <ClInclude Include="MinimumSwapsToGroupAll1sTogetherII.h" />
     <ClInclude Include="MinimumTimeDifference.h" />
+    <ClInclude Include="MinimumTimeToRepairCars.h" />
     <ClInclude Include="MinimumTimeToVisitACellInAGrid.h" />
     <ClInclude Include="MinimumTimeVisitingAllPoints.h" />
     <ClInclude Include="MinimumTotalDistanceTraveled.h" />

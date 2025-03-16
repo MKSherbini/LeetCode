@@ -2739,6 +2739,9 @@
     <ClInclude Include="MaximumCandiesAllocatedToKChildren.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumTimeToRepairCars.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
