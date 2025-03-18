@@ -316,6 +316,7 @@
     <ClInclude Include="LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.h" />
     <ClInclude Include="LongestHappyString.h" />
     <ClInclude Include="LongestIdealSubsequence.h" />
+    <ClInclude Include="LongestNiceSubarray.h" />
     <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="LongestSquareStreakInAnArray.h" />
     <ClInclude Include="LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.h" />
