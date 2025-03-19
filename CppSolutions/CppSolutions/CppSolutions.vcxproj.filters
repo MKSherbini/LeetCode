@@ -2748,6 +2748,9 @@
     <ClInclude Include="LongestNiceSubarray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumOperationsToMakeBinaryArrayElementsEqualToOneI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
