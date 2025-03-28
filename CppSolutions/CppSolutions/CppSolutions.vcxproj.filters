@@ -2754,6 +2754,9 @@
     <ClInclude Include="MinimumOperationsToMakeAUniValueGrid.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumIndexOfAValidSplit.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

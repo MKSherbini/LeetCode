@@ -380,6 +380,7 @@
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h" />
     <ClInclude Include="MinimumFallingPathSumII.h" />
     <ClInclude Include="MinimumIncrementToMakeArrayUnique.h" />
+    <ClInclude Include="MinimumIndexOfAValidSplit.h" />
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumLengthOfStringAfterOperations.h" />
     <ClInclude Include="MinimumLimitOfBallsInABag.h" />
