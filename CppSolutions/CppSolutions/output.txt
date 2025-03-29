@@ -1,21 +1,18 @@
-x:  0  y:  0  q:  2 
-x:  1  y:  0  q:  5 
-x:  0  y:  1  q:  5 
-x:  2  y:  0  q:  5 
-x:  0  y:  2  q:  5 
-x:  1  y:  1  q:  6 
-x:  2  y:  1  q:  6 
-x:  2  y:  2  q:  6 
-5 8 1 
-judge: Accepted
+1 1 1 1 1 
 
-0 
-judge: Accepted
+9 5 1 2 
+81 judge: Accepted
 
-x:  0  y:  0  q:  174698 
-x:  0  y:  1  q:  174698 
-x:  0  y:  2  q:  174698 
-x:  0  y:  3  q:  581002 
-4 3 
-judge: Accepted
+1 2 2 2 2 2 
+
+19 1 -1 1 
+18 6 4 1 
+14 6 1 1 
+4788 judge: Accepted
+
+3 3 4 4 
+
+22011 4 2 1 
+14858 4 -1 5 
+256720975 judge: Accepted
 

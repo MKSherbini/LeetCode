@@ -153,6 +153,7 @@
     <ClInclude Include="AlternatingGroupsII.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
     <ClInclude Include="ApplyOperationsToAnArray.h" />
+    <ClInclude Include="ApplyOperationsToMaximizeScore.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
     <ClInclude Include="AverageWaitingTime.h" />
