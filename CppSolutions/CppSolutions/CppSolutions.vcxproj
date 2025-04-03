@@ -362,6 +362,7 @@
     <ClInclude Include="MaximumSumOfDistinctSubarraysWithLengthK.h" />
     <ClInclude Include="MaximumSwap.h" />
     <ClInclude Include="MaximumValueOfAnOrderedTripletI.h" />
+    <ClInclude Include="MaximumValueOfAnOrderedTripletII.h" />
     <ClInclude Include="MaxSumOfAPairWithEqualSumOfDigits.h" />
     <ClInclude Include="MeetingRoomsIII.h" />
     <ClInclude Include="MergeInBetweenLinkedLists.h" />

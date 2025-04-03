@@ -1,6 +1,13 @@
+12 2 7 70 
+12 1 7 77 
+12 6 7 42 
 77 judge: Accepted
 
+10 4 19 114 
+10 3 19 133 
+1 10 19 -171 
 133 judge: Accepted
 
+1 2 3 -3 
 0 judge: Accepted
 
