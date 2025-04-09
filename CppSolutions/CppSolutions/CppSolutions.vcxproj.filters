@@ -2778,6 +2778,9 @@
     <ClInclude Include="MinimumNumberOfOperationsToMakeElementsInArrayDistinct.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumOperationsToMakeArrayValuesEqualToK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
