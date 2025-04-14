@@ -2787,6 +2787,9 @@
     <ClInclude Include="CountGoodNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountGoodTriplets.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -1,6 +1,4 @@
-5 judge: Accepted
+4 judge: Accepted
 
-400 judge: Accepted
-
-564908303 judge: Accepted
+0 judge: Accepted
 
