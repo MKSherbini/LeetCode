@@ -190,6 +190,7 @@
     <ClInclude Include="ConvertAnArrayIntoA2dArrayWithConditions.h" />
     <ClInclude Include="ConvertBstToGreaterTree.h" />
     <ClInclude Include="CountElementsWithMaximumFrequency.h" />
+    <ClInclude Include="CountGoodNumbers.h" />
     <ClInclude Include="CountingWordsWithAGivenPrefix.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
