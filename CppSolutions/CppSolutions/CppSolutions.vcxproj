@@ -207,6 +207,7 @@
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountSymmetricIntegers.h" />
+    <ClInclude Include="CountTheHiddenSequences.h" />
     <ClInclude Include="CountTheNumberOfConsistentStrings.h" />
     <ClInclude Include="CountTheNumberOfFairPairs.h" />
     <ClInclude Include="CountTotalNumberOfColoredCells.h" />
