@@ -2805,6 +2805,9 @@
     <ClInclude Include="CountOfInterestingSubarrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountSubarraysOfLengthThreeWithACondition.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
