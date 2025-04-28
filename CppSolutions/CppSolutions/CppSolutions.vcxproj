@@ -209,6 +209,7 @@
     <ClInclude Include="CountServersThatCommunicate.h" />
     <ClInclude Include="CountSubarraysOfLengthThreeWithACondition.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
+    <ClInclude Include="CountSubarraysWithScoreLessThanK.h" />
     <ClInclude Include="CountSubIslands.h" />
     <ClInclude Include="CountSymmetricIntegers.h" />
     <ClInclude Include="CountTheHiddenSequences.h" />

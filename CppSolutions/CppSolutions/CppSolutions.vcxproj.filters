@@ -2808,6 +2808,9 @@
     <ClInclude Include="CountSubarraysOfLengthThreeWithACondition.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountSubarraysWithScoreLessThanK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
