@@ -2814,6 +2814,9 @@
     <ClInclude Include="FindNumbersWithEvenNumberOfDigits.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumDominoRotationsForEqualRow.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

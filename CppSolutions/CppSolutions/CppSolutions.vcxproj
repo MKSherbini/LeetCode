@@ -393,6 +393,7 @@
     <ClInclude Include="MinimumCostToMakeAtLeastOneValidPathInAGrid.h" />
     <ClInclude Include="MinimumDeletionsToMakeStringBalanced.h" />
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h" />
+    <ClInclude Include="MinimumDominoRotationsForEqualRow.h" />
     <ClInclude Include="MinimumFallingPathSumII.h" />
     <ClInclude Include="MinimumIncrementToMakeArrayUnique.h" />
     <ClInclude Include="MinimumIndexOfAValidSplit.h" />
