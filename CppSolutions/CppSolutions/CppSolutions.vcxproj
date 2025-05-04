@@ -427,6 +427,7 @@
     <ClInclude Include="NeighboringBitwiseXor.h" />
     <ClInclude Include="NumberComplement.h" />
     <ClInclude Include="NumberOfAtoms.h" />
+    <ClInclude Include="NumberOfEquivalentDominoPairs.h" />
     <ClInclude Include="NumberOfFlowersInFullBloom.h" />
     <ClInclude Include="NumberOfGoodLeafNodesPairs.h" />
     <ClInclude Include="NumberOfLaserBeamsInABank.h" />

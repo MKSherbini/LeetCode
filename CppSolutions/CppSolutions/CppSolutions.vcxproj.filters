@@ -2817,6 +2817,9 @@
     <ClInclude Include="MinimumDominoRotationsForEqualRow.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfEquivalentDominoPairs.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
