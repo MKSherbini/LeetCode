@@ -266,6 +266,7 @@
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindLongestSpecialSubstringThatOccursThriceI.h" />
     <ClInclude Include="FindMinimumDiameterAfterMergingTwoTrees.h" />
+    <ClInclude Include="FindMinimumTimeToReachLastRoomII.h" />
     <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
     <ClInclude Include="FindNumbersWithEvenNumberOfDigits.h" />
