@@ -261,6 +261,7 @@
     <ClInclude Include="FindElementsInAContaminatedBinaryTree.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindIfArrayCanBeSorted.h" />
+    <ClInclude Include="Finding3DigitEvenNumbers.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
