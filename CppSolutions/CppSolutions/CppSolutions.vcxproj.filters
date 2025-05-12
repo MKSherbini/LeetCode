@@ -2823,6 +2823,9 @@
     <ClInclude Include="FindMinimumTimeToReachLastRoomII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumEqualSumOfTwoArraysAfterReplacingZeros.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
