@@ -1,4 +1,4 @@
-#include "Finding3DigitEvenNumbers.h"
+#include "TotalCharactersInStringAfterTransformationsI.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(false).run<Finding3DigitEvenNumbers>();
+    Runner(false).run<TotalCharactersInStringAfterTransformationsI>();
 }

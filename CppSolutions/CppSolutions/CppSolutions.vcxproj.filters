@@ -2829,6 +2829,9 @@
     <ClInclude Include="Finding3DigitEvenNumbers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TotalCharactersInStringAfterTransformationsI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
