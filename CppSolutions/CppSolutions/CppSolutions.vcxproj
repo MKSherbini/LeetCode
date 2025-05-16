@@ -336,6 +336,7 @@
     <ClInclude Include="LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.h" />
     <ClInclude Include="LongestSubarrayWithMaximumBitwiseAnd.h" />
     <ClInclude Include="LongestUnequalAdjacentGroupsSubsequenceI.h" />
+    <ClInclude Include="LongestUnequalAdjacentGroupsSubsequenceII.h" />
     <ClInclude Include="LuckyNumbersInAMatrix.h" />
     <ClInclude Include="MagicSquaresInGrid.h" />
     <ClInclude Include="MajorityElement.h" />

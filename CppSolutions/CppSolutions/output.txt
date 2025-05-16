@@ -1,11 +1,12 @@
-e 
-b 
+bab 
+dab 
 
-judge: Accepted
+judge: Wrong answer
 
 a 
 b 
 c 
+d 
 
 judge: Accepted
 
