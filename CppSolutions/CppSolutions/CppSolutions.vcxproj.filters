@@ -2838,6 +2838,9 @@
     <ClInclude Include="LongestUnequalAdjacentGroupsSubsequenceII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TypeOfTriangle.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

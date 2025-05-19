@@ -1047,6 +1047,7 @@
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="TwoSum2.h" />
     <ClInclude Include="TwoSumIvInputIsABst.h" />
+    <ClInclude Include="TypeOfTriangle.h" />
     <ClInclude Include="UglyNumber.h" />
     <ClInclude Include="UglyNumberII.h" />
     <ClInclude Include="UncommonWordsFromTwoSentences.h" />

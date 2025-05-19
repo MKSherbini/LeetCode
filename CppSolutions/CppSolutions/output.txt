@@ -1,12 +1,4 @@
-bab 
-dab 
+equilateral judge: Accepted
 
-judge: Wrong answer
-
-a 
-b 
-c 
-d 
-
-judge: Accepted
+scalene judge: Accepted
 
