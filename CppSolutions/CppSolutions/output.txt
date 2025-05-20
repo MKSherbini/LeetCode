@@ -1,4 +1,4 @@
-equilateral judge: Accepted
+true judge: Accepted
 
-scalene judge: Accepted
+false judge: Accepted
 

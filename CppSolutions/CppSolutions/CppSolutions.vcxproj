@@ -1083,6 +1083,7 @@
     <ClInclude Include="WordSearchII.h" />
     <ClInclude Include="WordSubsets.h" />
     <ClInclude Include="XorQueriesOfASubarray.h" />
+    <ClInclude Include="ZeroArrayTransformationI.h" />
     <ClInclude Include="ZeroArrayTransformationII.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>

@@ -2841,6 +2841,9 @@
     <ClInclude Include="TypeOfTriangle.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ZeroArrayTransformationI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
