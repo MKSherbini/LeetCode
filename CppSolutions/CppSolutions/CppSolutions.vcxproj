@@ -1086,6 +1086,7 @@
     <ClInclude Include="XorQueriesOfASubarray.h" />
     <ClInclude Include="ZeroArrayTransformationI.h" />
     <ClInclude Include="ZeroArrayTransformationII.h" />
+    <ClInclude Include="ZeroArrayTransformationIII.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>
   <ItemGroup>
