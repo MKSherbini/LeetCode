@@ -288,6 +288,7 @@
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FindValidMatrixGivenRowAndColumnSums.h" />
+    <ClInclude Include="FindWordsContainingCharacter.h" />
     <ClInclude Include="FindWordsThatCanBeFormedByCharacters.h" />
     <ClInclude Include="FirstCompletelyPaintedRowOrColumn.h" />
     <ClInclude Include="FirstMissingPositive.h" />

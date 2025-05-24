@@ -2850,6 +2850,9 @@
     <ClInclude Include="ZeroArrayTransformationIII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindWordsContainingCharacter.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
