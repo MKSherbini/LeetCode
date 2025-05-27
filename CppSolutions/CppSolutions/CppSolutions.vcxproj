@@ -243,6 +243,7 @@
     <ClInclude Include="DivideIntervalsIntoMinimumNumberOfGroups.h" />
     <ClInclude Include="DivideNodesIntoTheMaximumNumberOfGroups.h" />
     <ClInclude Include="DividePlayersIntoTeamsOfEqualSkill.h" />
+    <ClInclude Include="DivisibleAndNonDivisibleSumsDifference.h" />
     <ClInclude Include="DoubleANumberRepresentedAsALinkedList.h" />
     <ClInclude Include="ElementAppearingMoreThan25InSortedArray.h" />
     <ClInclude Include="EliminateMaximumNumberOfMonsters.h" />
