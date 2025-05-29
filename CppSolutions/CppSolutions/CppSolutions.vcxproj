@@ -353,6 +353,7 @@
     <ClInclude Include="MaximalScoreAfterApplyingKOperations.h" />
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h" />
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.h" />
+    <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesII.h" />
     <ClInclude Include="MaximumAbsoluteSumOfAnySubarray.h" />
     <ClInclude Include="MaximumAscendingSubarraySum.h" />
     <ClInclude Include="MaximumAveragePassRatio.h" />
