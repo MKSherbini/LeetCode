@@ -237,6 +237,7 @@
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
     <ClInclude Include="DiagonalTraverseII.h" />
     <ClInclude Include="DifferenceBetweenOnesAndZerosInRowAndColumn.h" />
+    <ClInclude Include="DistributeCandiesAmongChildrenII.h" />
     <ClInclude Include="DistributeCoinsInBinaryTree.h" />
     <ClInclude Include="DivideArrayIntoArraysWithMaxDifference.h" />
     <ClInclude Include="DivideArrayIntoEqualPairs.h" />
