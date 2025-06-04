@@ -1,4 +1,9 @@
-3 judge: Accepted
+0 4 1 2 
+dbc judge: Accepted
 
-10 judge: Accepted
+0 4 3 4 
+1 4 2 4 
+2 4 1 4 
+3 4 0 4 
+g judge: Accepted
 

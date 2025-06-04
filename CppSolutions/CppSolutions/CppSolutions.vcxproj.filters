@@ -2865,6 +2865,9 @@
     <ClInclude Include="DistributeCandiesAmongChildrenII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheLexicographicallyLargestStringFromTheBoxI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
