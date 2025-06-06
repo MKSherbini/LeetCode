@@ -2868,6 +2868,9 @@
     <ClInclude Include="FindTheLexicographicallyLargestStringFromTheBoxI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="UsingARobotToPrintTheLexicographicallySmallestString.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
