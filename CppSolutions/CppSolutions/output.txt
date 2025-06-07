@@ -1,8 +1,20 @@
-azz judge: Accepted
+
+
+0 
+
+1 ,  0 
+
+1 ,  0 ,  2 
+
+3 ,  1 ,  0 ,  2 
+
+aab judge: Accepted
+
+
+
+0 
+
+0 ,  1 
 
 abc judge: Accepted
-
-addb judge: Accepted
-
-fnohopzv judge: Accepted
 
