@@ -2877,6 +2877,9 @@
     <ClInclude Include="MaximumDifferenceBetweenEvenAndOddFrequencyI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumDifferenceBetweenAdjacentElementsInACircularArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
