@@ -1,6 +1,10 @@
-99009 judge: Accepted
+888 judge: Accepted
 
-99 judge: Accepted
+8 judge: Accepted
 
-99999 judge: Accepted
+820000 judge: Accepted
+
+888 judge: Accepted
+
+8808050 judge: Accepted
 
