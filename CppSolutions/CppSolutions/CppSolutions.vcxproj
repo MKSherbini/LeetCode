@@ -366,6 +366,7 @@
     <ClInclude Include="MaximumCountOfPositiveIntegerAndNegativeInteger.h" />
     <ClInclude Include="MaximumDifferenceBetweenAdjacentElementsInACircularArray.h" />
     <ClInclude Include="MaximumDifferenceBetweenEvenAndOddFrequencyI.h" />
+    <ClInclude Include="MaximumDifferenceBetweenIncreasingElements.h" />
     <ClInclude Include="MaximumDifferenceByRemappingADigit.h" />
     <ClInclude Include="MaximumDistanceInArrays.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
