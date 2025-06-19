@@ -463,6 +463,7 @@
     <ClInclude Include="ParsingABooleanExpression.h" />
     <ClInclude Include="PartitionArrayAccordingToGivenPivot.h" />
     <ClInclude Include="PartitionArrayForMaximumSum.h" />
+    <ClInclude Include="PartitionArraySuchThatMaximumDifferenceIsK.h" />
     <ClInclude Include="PartitionEqualSubsetSum.h" />
     <ClInclude Include="PartitionLabels.h" />
     <ClInclude Include="PascalsTriangleII.h" />
