@@ -1,13 +1,15 @@
-abc 
-def 
-ghi 
+23 1 
+24 2 
+25 4 
+3 judge: Accepted
 
-judge: Accepted
+22 1 
+23 2 
+24 3 
+25 5 
+2 judge: Accepted
 
-abc 
-def 
-ghi 
-jxx 
-
-judge: Accepted
+24 1 
+25 6 
+1 judge: Accepted
 
