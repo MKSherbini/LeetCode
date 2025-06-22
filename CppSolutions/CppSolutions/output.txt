@@ -1,4 +1,13 @@
-3 judge: Accepted
+abc 
+def 
+ghi 
 
-6 judge: Accepted
+judge: Accepted
+
+abc 
+def 
+ghi 
+jxx 
+
+judge: Accepted
 

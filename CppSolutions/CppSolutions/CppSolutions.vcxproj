@@ -241,6 +241,7 @@
     <ClInclude Include="DistributeCoinsInBinaryTree.h" />
     <ClInclude Include="DivideArrayIntoArraysWithMaxDifference.h" />
     <ClInclude Include="DivideArrayIntoEqualPairs.h" />
+    <ClInclude Include="DivideAStringIntoGroupsOfSizeK.h" />
     <ClInclude Include="DivideIntervalsIntoMinimumNumberOfGroups.h" />
     <ClInclude Include="DivideNodesIntoTheMaximumNumberOfGroups.h" />
     <ClInclude Include="DividePlayersIntoTeamsOfEqualSkill.h" />
