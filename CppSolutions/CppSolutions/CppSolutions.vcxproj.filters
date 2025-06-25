@@ -2904,6 +2904,9 @@
     <ClInclude Include="FindAllKDistantIndicesInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KthSmallestProductOfTwoSortedArrays.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

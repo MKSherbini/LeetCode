@@ -315,6 +315,7 @@
     <ClInclude Include="KthLargestSumInABinaryTree.h" />
     <ClInclude Include="KThSmallestInLexicographicalOrder.h" />
     <ClInclude Include="KThSmallestPrimeFraction.h" />
+    <ClInclude Include="KthSmallestProductOfTwoSortedArrays.h" />
     <ClInclude Include="KThSymbolInGrammar.h" />
     <ClInclude Include="Largest3SameDigitNumberInString.h" />
     <ClInclude Include="LargestCombinationWithBitwiseAndGreaterThanZero.h" />
