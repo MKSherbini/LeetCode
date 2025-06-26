@@ -2907,6 +2907,9 @@
     <ClInclude Include="KthSmallestProductOfTwoSortedArrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestBinarySubsequenceLessThanOrEqualToK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
