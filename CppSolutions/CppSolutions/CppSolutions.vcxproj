@@ -277,6 +277,7 @@
     <ClInclude Include="FindNumbersWithEvenNumberOfDigits.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
     <ClInclude Include="FindScoreOfAnArrayAfterMarkingAllElements.h" />
+    <ClInclude Include="FindSubsequenceOfLengthKWithTheLargestSum.h" />
     <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
     <ClInclude Include="FindTheLengthOfTheLongestCommonPrefix.h" />
     <ClInclude Include="FindTheLexicographicallyLargestStringFromTheBoxI.h" />
