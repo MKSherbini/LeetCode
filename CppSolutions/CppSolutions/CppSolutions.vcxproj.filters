@@ -2916,6 +2916,9 @@
     <ClInclude Include="NumberOfSubsequencesThatSatisfyTheGivenSumCondition.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestHarmoniousSubsequence.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
