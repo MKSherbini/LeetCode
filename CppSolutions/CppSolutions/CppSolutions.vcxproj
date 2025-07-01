@@ -286,6 +286,7 @@
     <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheNumberOfDistinctColorsAmongTheBalls.h" />
     <ClInclude Include="FindTheOriginalArrayOfPrefixXor.h" />
+    <ClInclude Include="FindTheOriginalTypedStringI.h" />
     <ClInclude Include="FindThePivotInteger.h" />
     <ClInclude Include="FindThePowerOfKSizeSubarraysI.h" />
     <ClInclude Include="FindThePrefixCommonArrayOfTwoArrays.h" />
