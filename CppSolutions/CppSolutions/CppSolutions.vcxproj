@@ -279,6 +279,7 @@
     <ClInclude Include="FindScoreOfAnArrayAfterMarkingAllElements.h" />
     <ClInclude Include="FindSubsequenceOfLengthKWithTheLargestSum.h" />
     <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
+    <ClInclude Include="FindTheKThCharacterInStringGameI.h" />
     <ClInclude Include="FindTheLengthOfTheLongestCommonPrefix.h" />
     <ClInclude Include="FindTheLexicographicallyLargestStringFromTheBoxI.h" />
     <ClInclude Include="FindTheLongestSubstringContainingVowelsInEvenCounts.h" />

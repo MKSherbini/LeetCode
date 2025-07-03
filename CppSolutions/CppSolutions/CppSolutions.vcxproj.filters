@@ -2922,6 +2922,9 @@
     <ClInclude Include="FindTheOriginalTypedStringI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheKThCharacterInStringGameI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
