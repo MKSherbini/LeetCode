@@ -270,6 +270,7 @@
     <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />
     <ClInclude Include="FindLongestSpecialSubstringThatOccursThriceI.h" />
+    <ClInclude Include="FindLuckyIntegerInAnArray.h" />
     <ClInclude Include="FindMinimumDiameterAfterMergingTwoTrees.h" />
     <ClInclude Include="FindMinimumTimeToReachLastRoomII.h" />
     <ClInclude Include="FindMissingObservations.h" />
