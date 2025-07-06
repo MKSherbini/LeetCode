@@ -266,6 +266,7 @@
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />
     <ClInclude Include="FindIfArrayCanBeSorted.h" />
     <ClInclude Include="Finding3DigitEvenNumbers.h" />
+    <ClInclude Include="FindingPairsWithACertainSum.h" />
     <ClInclude Include="FindInMountainArray.h" />
     <ClInclude Include="FindKthBitInNthBinaryString.h" />
     <ClInclude Include="FindLargestValueInEachTreeRow.h" />

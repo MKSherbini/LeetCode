@@ -2928,6 +2928,9 @@
     <ClInclude Include="FindLuckyIntegerInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindingPairsWithACertainSum.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
