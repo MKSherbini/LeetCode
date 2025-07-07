@@ -2931,6 +2931,9 @@
     <ClInclude Include="FindingPairsWithACertainSum.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfEventsThatCanBeAttended.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
