@@ -2937,6 +2937,9 @@
     <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

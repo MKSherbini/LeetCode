@@ -888,6 +888,7 @@
     <ClInclude Include="RepeatedSubstringPattern.h" />
     <ClInclude Include="ReplaceWords.h" />
     <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeI.h" />
+    <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeII.h" />
     <ClInclude Include="ReshapeTheMatrix.h" />
     <ClInclude Include="RestoreIpAddresses.h" />
     <ClInclude Include="RestoreTheArray.h" />
