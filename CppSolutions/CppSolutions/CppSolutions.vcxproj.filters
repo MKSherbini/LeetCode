@@ -2946,6 +2946,9 @@
     <ClInclude Include="ConvertBinaryNumberInALinkedListToInteger.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ValidWord.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

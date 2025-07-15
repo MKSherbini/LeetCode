@@ -1105,6 +1105,7 @@
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidParenthesisString.h" />
     <ClInclude Include="ValidSudoku.h" />
+    <ClInclude Include="ValidWord.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="WaterBottles.h" />
