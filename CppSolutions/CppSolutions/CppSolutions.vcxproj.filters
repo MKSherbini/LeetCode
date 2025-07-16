@@ -2949,6 +2949,9 @@
     <ClInclude Include="ValidWord.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
