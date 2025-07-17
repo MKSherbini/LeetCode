@@ -2952,6 +2952,9 @@
     <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
