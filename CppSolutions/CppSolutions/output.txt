@@ -1,4 +1,16 @@
-5 judge: Accepted
+/a 
+/c/d 
+/c/f 
 
-4 judge: Accepted
+judge: Accepted
+
+/a 
+
+judge: Accepted
+
+/a/b/c 
+/a/b/ca 
+/a/b/d 
+
+judge: Accepted
 

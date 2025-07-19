@@ -2955,6 +2955,9 @@
     <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveSubFoldersFromTheFilesystem.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
