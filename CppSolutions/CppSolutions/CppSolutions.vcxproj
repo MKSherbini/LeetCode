@@ -404,6 +404,7 @@
     <ClInclude Include="MaximumSumOf3NonOverlappingSubarrays.h" />
     <ClInclude Include="MaximumSumOfDistinctSubarraysWithLengthK.h" />
     <ClInclude Include="MaximumSwap.h" />
+    <ClInclude Include="MaximumUniqueSubarraySumAfterDeletion.h" />
     <ClInclude Include="MaximumValueOfAnOrderedTripletI.h" />
     <ClInclude Include="MaximumValueOfAnOrderedTripletII.h" />
     <ClInclude Include="MaxSumOfAPairWithEqualSumOfDigits.h" />
