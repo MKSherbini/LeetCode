@@ -195,6 +195,7 @@
     <ClInclude Include="CountEqualAndDivisiblePairsInAnArray.h" />
     <ClInclude Include="CountGoodNumbers.h" />
     <ClInclude Include="CountGoodTriplets.h" />
+    <ClInclude Include="CountHillsAndValleysInAnArray.h" />
     <ClInclude Include="CountingWordsWithAGivenPrefix.h" />
     <ClInclude Include="CountLargestGroup.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />

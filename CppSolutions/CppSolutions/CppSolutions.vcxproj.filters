@@ -2961,6 +2961,9 @@
     <ClInclude Include="MaximumUniqueSubarraySumAfterDeletion.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountHillsAndValleysInAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
