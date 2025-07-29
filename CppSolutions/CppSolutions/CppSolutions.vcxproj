@@ -985,6 +985,7 @@
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SmallestRangeCoveringElementsFromKLists.h" />
     <ClInclude Include="SmallestStringStartingFromLeaf.h" />
+    <ClInclude Include="SmallestSubarraysWithMaximumBitwiseOr.h" />
     <ClInclude Include="SmallestSufficientTeam.h" />
     <ClInclude Include="SnakesAndLadders.h" />
     <ClInclude Include="SnapshotArray.h" />

@@ -2964,6 +2964,9 @@
     <ClInclude Include="CountHillsAndValleysInAnArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SmallestSubarraysWithMaximumBitwiseOr.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
