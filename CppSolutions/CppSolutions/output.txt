@@ -1,6 +1,9 @@
+(1 , 1 )
+(2 , 1 )
+(4 , 0 )
+
+
 1 judge: Accepted
 
-3 judge: Accepted
-
-6 judge: Accepted
+-1 judge: Accepted
 

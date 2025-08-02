@@ -2970,6 +2970,9 @@
     <ClInclude Include="BitwiseOrsOfSubarrays.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RearrangingFruits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
