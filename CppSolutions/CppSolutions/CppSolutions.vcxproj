@@ -386,6 +386,7 @@
     <ClInclude Include="MaximumDistanceInArrays.h" />
     <ClInclude Include="MaximumElementAfterDecreasingAndRearranging.h" />
     <ClInclude Include="MaximumEmployeesToBeInvitedToAMeeting.h" />
+    <ClInclude Include="MaximumFruitsHarvestedAfterAtMostKSteps.h" />
     <ClInclude Include="MaximumManhattanDistanceAfterKChanges.h" />
     <ClInclude Include="MaximumMatchingOfPlayersWithTrainers.h" />
     <ClInclude Include="MaximumMatrixSum.h" />
