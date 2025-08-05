@@ -311,6 +311,7 @@
     <ClInclude Include="FractionAdditionAndSubtraction.h" />
     <ClInclude Include="FreedomTrail.h" />
     <ClInclude Include="FrequencyOfTheMostFrequentElement.h" />
+    <ClInclude Include="FruitsIntoBasketsII.h" />
     <ClInclude Include="GetEqualSubstringsWithinBudget.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
     <ClInclude Include="HeightChecker.h" />
