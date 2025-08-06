@@ -38,7 +38,7 @@
 #include <unordered_set>
 #include <regex>
 #include "Validator.h"
-#include "SegmentTree.h"
+//#include "SegmentTree.h"
 //#include "UnionFind.h"
 #include "Printer.h"
 #include "Sorter.h"
