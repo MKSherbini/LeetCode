@@ -290,6 +290,7 @@
     <ClInclude Include="FindTheLongestSubstringContainingVowelsInEvenCounts.h" />
     <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceI.h" />
     <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceII.h" />
+    <ClInclude Include="FindTheMaximumNumberOfFruitsCollected.h" />
     <ClInclude Include="FindTheMaximumSumOfNodeValues.h" />
     <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheNumberOfDistinctColorsAmongTheBalls.h" />
