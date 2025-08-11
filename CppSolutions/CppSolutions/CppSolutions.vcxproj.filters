@@ -2985,6 +2985,9 @@
     <ClInclude Include="FindTheMaximumNumberOfFruitsCollected.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="RangeProductQueriesOfPowers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

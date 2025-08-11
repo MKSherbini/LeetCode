@@ -864,6 +864,7 @@
     <ClInclude Include="PushDominoes.h" />
     <ClInclude Include="PutMarblesInBags.h" />
     <ClInclude Include="QueueReconstructionByHeight.h" />
+    <ClInclude Include="RangeProductQueriesOfPowers.h" />
     <ClInclude Include="RangeSumOfBst.h" />
     <ClInclude Include="RangeSumQueryMutable.h" />
     <ClInclude Include="RankTransformOfAnArray.h" />
