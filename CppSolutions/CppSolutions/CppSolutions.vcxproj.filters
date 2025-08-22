@@ -2988,6 +2988,9 @@
     <ClInclude Include="RangeProductQueriesOfPowers.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMinimumAreaToCoverAllOnesI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
