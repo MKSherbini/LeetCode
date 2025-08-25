@@ -2991,6 +2991,9 @@
     <ClInclude Include="FindTheMinimumAreaToCoverAllOnesI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="DiagonalTraverse.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

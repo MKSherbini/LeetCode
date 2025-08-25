@@ -238,6 +238,7 @@
     <ClInclude Include="DesignHashmap.h" />
     <ClInclude Include="DestinationCity.h" />
     <ClInclude Include="DetermineIfACellIsReachableAtAGivenTime.h" />
+    <ClInclude Include="DiagonalTraverse.h" />
     <ClInclude Include="DiagonalTraverseII.h" />
     <ClInclude Include="DifferenceBetweenOnesAndZerosInRowAndColumn.h" />
     <ClInclude Include="DistributeCandiesAmongChildrenII.h" />
