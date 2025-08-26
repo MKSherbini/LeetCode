@@ -379,6 +379,7 @@
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.h" />
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesII.h" />
     <ClInclude Include="MaximumAbsoluteSumOfAnySubarray.h" />
+    <ClInclude Include="MaximumAreaOfLongestDiagonalRectangle.h" />
     <ClInclude Include="MaximumAscendingSubarraySum.h" />
     <ClInclude Include="MaximumAveragePassRatio.h" />
     <ClInclude Include="MaximumBeautyOfAnArrayAfterApplyingOperation.h" />
