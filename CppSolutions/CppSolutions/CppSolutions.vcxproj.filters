@@ -2997,6 +2997,9 @@
     <ClInclude Include="MaximumAreaOfLongestDiagonalRectangle.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LengthOfLongestVShapedDiagonalSegment.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

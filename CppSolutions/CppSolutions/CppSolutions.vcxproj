@@ -116,7 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpp23</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
     </ClCompile>
     <Link>
@@ -346,6 +346,7 @@
     <ClInclude Include="LemonadeChange.h" />
     <ClInclude Include="LengthOfLongestFibonacciSubsequence.h" />
     <ClInclude Include="LengthOfLongestSubarrayWithAtMostKFrequency.h" />
+    <ClInclude Include="LengthOfLongestVShapedDiagonalSegment.h" />
     <ClInclude Include="LetterTilePossibilities.h" />
     <ClInclude Include="LexicographicallyMinimumStringAfterRemovingStars.h" />
     <ClInclude Include="LexicographicalNumbers.h" />
