@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="2KeysKeyboard.h" />
     <ClInclude Include="AddingSpacesToAString.h" />
+    <ClInclude Include="AliceAndBobPlayingFlowerGame.h" />
     <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AlternatingGroupsII.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />

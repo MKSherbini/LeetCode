@@ -3003,6 +3003,9 @@
     <ClInclude Include="SortMatrixByDiagonals.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AliceAndBobPlayingFlowerGame.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
