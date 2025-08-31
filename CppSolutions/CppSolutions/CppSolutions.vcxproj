@@ -1050,6 +1050,7 @@
     <ClInclude Include="SubtractTheProductAndSumOfDigitsOfAnInteger.h" />
     <ClInclude Include="SubtreeOfAnotherTree.h" />
     <ClInclude Include="SuccessfulPairsOfSpellsAndPotions.h" />
+    <ClInclude Include="SudokuSolver.h" />
     <ClInclude Include="Sum3.h" />
     <ClInclude Include="Sum4.h" />
     <ClInclude Include="sumClosest3.h" />
