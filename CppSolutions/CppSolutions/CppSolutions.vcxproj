@@ -266,6 +266,7 @@
     <ClInclude Include="FindBuildingWhereAliceAndBobCanMeet.h" />
     <ClInclude Include="FindCenterOfStarGraph.h" />
     <ClInclude Include="FindChampionII.h" />
+    <ClInclude Include="FindClosestPerson.h" />
     <ClInclude Include="FindCommonCharacters.h" />
     <ClInclude Include="FindElementsInAContaminatedBinaryTree.h" />
     <ClInclude Include="FindFirstPalindromicStringInTheArray.h" />

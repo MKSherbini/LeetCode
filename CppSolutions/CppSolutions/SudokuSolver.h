@@ -6,7 +6,7 @@ using namespace std;
 
 class SudokuSolver {
 public:
-    //
+    // 654 ms, faster than 5.01% : 144.47 MB, less than 5.22%
     vector<vector<char>> solution(vector<vector<char>> board)
     {
         auto f = [&](this auto f, int i, int j) -> bool {

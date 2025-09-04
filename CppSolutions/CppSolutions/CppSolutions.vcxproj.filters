@@ -3009,6 +3009,9 @@
     <ClInclude Include="SudokuSolver.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindClosestPerson.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
