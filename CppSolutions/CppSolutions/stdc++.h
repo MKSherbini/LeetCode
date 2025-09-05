@@ -32,6 +32,7 @@
 // todo use tuple and tie to be more generic
 
 #define __builtin_popcount(x) __popcnt(x)
+#define __builtin_popcountll(x) __popcnt64(x)
 
 #include "Runner.h"
 #include <unordered_map>

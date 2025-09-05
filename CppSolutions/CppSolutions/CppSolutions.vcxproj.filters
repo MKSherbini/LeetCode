@@ -3012,6 +3012,9 @@
     <ClInclude Include="FindClosestPerson.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumOperationsToMakeTheIntegerZero.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
