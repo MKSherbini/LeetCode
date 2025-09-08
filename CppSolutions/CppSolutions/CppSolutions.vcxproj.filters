@@ -3018,6 +3018,9 @@
     <ClInclude Include="FindNUniqueIntegersSumUpToZero.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ConvertIntegerToTheSumOfTwoNoZeroIntegers.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

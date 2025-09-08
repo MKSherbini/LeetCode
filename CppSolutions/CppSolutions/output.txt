@@ -1,9 +1,6 @@
-0 1 -1 2 -2 
-judge: Wrong answer
-
-0 1 -1 
+1 1 
 judge: Accepted
 
-0 
+2 9 
 judge: Accepted
 
