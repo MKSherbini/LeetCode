@@ -283,6 +283,7 @@
     <ClInclude Include="FindMinimumTimeToReachLastRoomII.h" />
     <ClInclude Include="FindMissingObservations.h" />
     <ClInclude Include="FindModeInBinarySearchTree.h" />
+    <ClInclude Include="FindMostFrequentVowelAndConsonant.h" />
     <ClInclude Include="FindNumbersWithEvenNumberOfDigits.h" />
     <ClInclude Include="FindNUniqueIntegersSumUpToZero.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
