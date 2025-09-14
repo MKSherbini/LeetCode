@@ -1,4 +1,17 @@
-6 judge: Accepted
+kite 
+KiTe 
+KiTe 
+Hare 
+hare 
+ 
+ 
+KiTe 
+ 
+KiTe 
 
-3 judge: Accepted
+judge: Accepted
+
+yellow 
+
+judge: Accepted
 

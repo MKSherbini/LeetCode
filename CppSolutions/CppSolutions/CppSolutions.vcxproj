@@ -1132,6 +1132,7 @@
     <ClInclude Include="ValidSudoku.h" />
     <ClInclude Include="ValidWord.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
+    <ClInclude Include="VowelSpellchecker.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="WaterBottles.h" />
     <ClInclude Include="WidestVerticalAreaBetweenTwoPointsContainingNoPoints.h" />
