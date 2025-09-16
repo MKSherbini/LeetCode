@@ -910,6 +910,7 @@
     <ClInclude Include="ReorderRoutesToMakeAllPathsLeadToTheCityZero.h" />
     <ClInclude Include="ReorganizeString.h" />
     <ClInclude Include="RepeatedSubstringPattern.h" />
+    <ClInclude Include="ReplaceNonCoprimeNumbersInArray.h" />
     <ClInclude Include="ReplaceWords.h" />
     <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeI.h" />
     <ClInclude Include="RescheduleMeetingsForMaximumFreeTimeII.h" />
