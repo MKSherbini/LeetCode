@@ -3030,6 +3030,9 @@
     <ClInclude Include="ReplaceNonCoprimeNumbersInArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="ImplementRouter.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
