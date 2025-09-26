@@ -1132,6 +1132,7 @@
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidParenthesisString.h" />
     <ClInclude Include="ValidSudoku.h" />
+    <ClInclude Include="ValidTriangleNumber.h" />
     <ClInclude Include="ValidWord.h" />
     <ClInclude Include="VerifyingAnAlienDictionary.h" />
     <ClInclude Include="VowelSpellchecker.h" />
