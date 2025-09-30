@@ -3039,6 +3039,9 @@
     <ClInclude Include="LargestTriangleArea.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTriangularSumOfAnArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

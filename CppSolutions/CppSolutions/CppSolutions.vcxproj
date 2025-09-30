@@ -309,6 +309,7 @@
     <ClInclude Include="FindThePunishmentNumberOfAnInteger.h" />
     <ClInclude Include="FindTheStudentThatWillReplaceTheChalk.h" />
     <ClInclude Include="FindTheWinnerOfAnArrayGame.h" />
+    <ClInclude Include="FindTriangularSumOfAnArray.h" />
     <ClInclude Include="FindUniqueBinaryString.h" />
     <ClInclude Include="FindValidMatrixGivenRowAndColumnSums.h" />
     <ClInclude Include="FindWordsContainingCharacter.h" />
