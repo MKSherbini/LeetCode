@@ -1140,6 +1140,7 @@
     <ClInclude Include="VowelSpellchecker.h" />
     <ClInclude Include="WalkingRobotSimulation.h" />
     <ClInclude Include="WaterBottles.h" />
+    <ClInclude Include="WaterBottlesII.h" />
     <ClInclude Include="WidestVerticalAreaBetweenTwoPointsContainingNoPoints.h" />
     <ClInclude Include="WiggleSubsequence.h" />
     <ClInclude Include="WordBreak.h" />
