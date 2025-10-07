@@ -158,6 +158,7 @@
     <ClInclude Include="ArithmeticSubarrays.h" />
     <ClInclude Include="AssignCookies.h" />
     <ClInclude Include="AverageWaitingTime.h" />
+    <ClInclude Include="AvoidFloodInTheCity.h" />
     <ClInclude Include="BalanceABinarySearchTree.h" />
     <ClInclude Include="BestSightseeingPair.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
