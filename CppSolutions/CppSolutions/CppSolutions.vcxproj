@@ -299,6 +299,7 @@
     <ClInclude Include="FindTheMaximumLengthOfValidSubsequenceII.h" />
     <ClInclude Include="FindTheMaximumNumberOfFruitsCollected.h" />
     <ClInclude Include="FindTheMaximumSumOfNodeValues.h" />
+    <ClInclude Include="FindTheMinimumAmountOfTimeToBrewPotions.h" />
     <ClInclude Include="FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.h" />
     <ClInclude Include="FindTheMinimumAreaToCoverAllOnesI.h" />
     <ClInclude Include="FindTheNumberOfDistinctColorsAmongTheBalls.h" />

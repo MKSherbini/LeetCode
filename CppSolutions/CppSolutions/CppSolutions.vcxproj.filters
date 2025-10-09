@@ -3051,6 +3051,9 @@
     <ClInclude Include="AvoidFloodInTheCity.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="FindTheMinimumAmountOfTimeToBrewPotions.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
