@@ -3054,6 +3054,9 @@
     <ClInclude Include="FindTheMinimumAmountOfTimeToBrewPotions.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TakingMaximumEnergyFromTheMysticDungeon.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

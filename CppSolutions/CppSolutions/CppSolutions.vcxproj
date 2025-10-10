@@ -1082,6 +1082,7 @@
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TakeGiftsFromTheRichestPile.h" />
     <ClInclude Include="TakeKOfEachCharacterFromLeftAndRight.h" />
+    <ClInclude Include="TakingMaximumEnergyFromTheMysticDungeon.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="TextJustification.h" />
