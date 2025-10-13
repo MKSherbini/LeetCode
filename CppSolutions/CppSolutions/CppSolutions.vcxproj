@@ -288,6 +288,7 @@
     <ClInclude Include="FindNumbersWithEvenNumberOfDigits.h" />
     <ClInclude Include="FindNUniqueIntegersSumUpToZero.h" />
     <ClInclude Include="FindPolygonWithTheLargestPerimeter.h" />
+    <ClInclude Include="FindResultantArrayAfterRemovingAnagrams.h" />
     <ClInclude Include="FindScoreOfAnArrayAfterMarkingAllElements.h" />
     <ClInclude Include="FindSubsequenceOfLengthKWithTheLargestSum.h" />
     <ClInclude Include="FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.h" />
