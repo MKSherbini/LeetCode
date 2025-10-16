@@ -1008,6 +1008,7 @@
     <ClInclude Include="SingleThreadedCpu.h" />
     <ClInclude Include="SlidingPuzzle.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
+    <ClInclude Include="SmallestMissingNonNegativeIntegerAfterOperations.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SmallestRangeCoveringElementsFromKLists.h" />
     <ClInclude Include="SmallestStringStartingFromLeaf.h" />

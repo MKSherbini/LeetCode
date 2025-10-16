@@ -1,30 +1,4 @@
-0 1 
-0 2 
-0 3 
-0 4 
-4 0 
-4 1 
-4 2 
-true judge: Accepted
+4 judge: Accepted
 
-0 1 
-0 2 
-0 3 
-3 0 
-0 0 
-0 0 
-0 1 
-0 2 
-0 3 
-false judge: Accepted
-
-0 1 
-0 2 
-0 3 
-true judge: Accepted
-
-0 1 
-0 2 
-2 0 
-false judge: Accepted
+2 judge: Accepted
 
