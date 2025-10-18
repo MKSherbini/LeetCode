@@ -3070,6 +3070,9 @@
     <ClInclude Include="AdjacentIncreasingSubarraysDetectionII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfDistinctElementsAfterOperations.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

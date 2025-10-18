@@ -412,6 +412,7 @@
     <ClInclude Include="MaximumMatrixSum.h" />
     <ClInclude Include="MaximumNestingDepthOfTheParentheses.h" />
     <ClInclude Include="MaximumNumberOfCoinsYouCanGet.h" />
+    <ClInclude Include="MaximumNumberOfDistinctElementsAfterOperations.h" />
     <ClInclude Include="MaximumNumberOfEventsThatCanBeAttended.h" />
     <ClInclude Include="MaximumNumberOfFishInAGrid.h" />
     <ClInclude Include="MaximumNumberOfKDivisibleComponents.h" />
