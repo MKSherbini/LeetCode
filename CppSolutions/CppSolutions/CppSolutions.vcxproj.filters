@@ -3076,6 +3076,9 @@
     <ClInclude Include="MaximumFrequencyOfAnElementAfterPerformingOperationsI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumFrequencyOfAnElementAfterPerformingOperationsII.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
