@@ -177,6 +177,7 @@
     <ClInclude Include="CheckIfArrayIsSortedAndRotated.h" />
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />
     <ClInclude Include="CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.h" />
+    <ClInclude Include="CheckIfDigitsAreEqualInStringAfterOperationsI.h" />
     <ClInclude Include="CheckIfNAndItsDoubleExist.h" />
     <ClInclude Include="CheckIfOneStringSwapCanMakeStringsEqual.h" />
     <ClInclude Include="CherryPickupII.h" />
