@@ -489,6 +489,7 @@
     <ClInclude Include="MostBeautifulItemForEachQuery.h" />
     <ClInclude Include="NAryTreePostorderTraversal.h" />
     <ClInclude Include="NeighboringBitwiseXor.h" />
+    <ClInclude Include="NextGreaterNumericallyBalancedNumber.h" />
     <ClInclude Include="NumberComplement.h" />
     <ClInclude Include="NumberOfAtoms.h" />
     <ClInclude Include="NumberOfEquivalentDominoPairs.h" />

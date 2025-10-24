@@ -1,9 +1,6 @@
-2922 
-1122 
-true judge: Accepted
+22 judge: Accepted
 
-71579 
-86279 
-48279 
-false judge: Accepted
+1333 judge: Accepted
+
+3133 judge: Accepted
 
