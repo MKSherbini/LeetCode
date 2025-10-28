@@ -1,6 +1,5 @@
-22 judge: Accepted
+3 3 
+2 judge: Accepted
 
-1333 judge: Accepted
-
-3133 judge: Accepted
+0 judge: Accepted
 
