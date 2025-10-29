@@ -1017,6 +1017,7 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SmallestMissingNonNegativeIntegerAfterOperations.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
+    <ClInclude Include="SmallestNumberWithAllSetBits.h" />
     <ClInclude Include="SmallestRangeCoveringElementsFromKLists.h" />
     <ClInclude Include="SmallestStringStartingFromLeaf.h" />
     <ClInclude Include="SmallestSubarraysWithMaximumBitwiseOr.h" />

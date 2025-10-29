@@ -3085,6 +3085,10 @@
     <ClInclude Include="NextGreaterNumericallyBalancedNumber.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MakeArrayElementsEqualToZero.h" />
+    <ClInclude Include="SmallestNumberWithAllSetBits.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
