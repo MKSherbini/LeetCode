@@ -464,6 +464,7 @@
     <ClInclude Include="MinimumLengthOfStringAfterDeletingSimilarEnds.h" />
     <ClInclude Include="MinimumLengthOfStringAfterOperations.h" />
     <ClInclude Include="MinimumLimitOfBallsInABag.h" />
+    <ClInclude Include="MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.h" />
     <ClInclude Include="MinimumNumberOfKConsecutiveBitFlips.h" />
     <ClInclude Include="MinimumNumberOfMovesToSeatEveryone.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
