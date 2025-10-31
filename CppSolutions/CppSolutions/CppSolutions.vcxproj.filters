@@ -3092,6 +3092,9 @@
     <ClInclude Include="MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TheTwoSneakyNumbersOfDigitville.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
