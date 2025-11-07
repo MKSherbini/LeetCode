@@ -392,6 +392,7 @@
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximalScoreAfterApplyingKOperations.h" />
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h" />
+    <ClInclude Include="MaximizeTheMinimumPoweredCity.h" />
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.h" />
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesII.h" />
     <ClInclude Include="MaximumAbsoluteSumOfAnySubarray.h" />
