@@ -214,6 +214,7 @@
     <ClInclude Include="CountNumberOfTeams.h" />
     <ClInclude Include="CountOfInterestingSubarrays.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
+    <ClInclude Include="CountOperationsToObtainZero.h" />
     <ClInclude Include="CountPrefixAndSuffixPairsI.h" />
     <ClInclude Include="CountServersThatCommunicate.h" />
     <ClInclude Include="CountSubarraysOfLengthThreeWithACondition.h" />
