@@ -3101,6 +3101,9 @@
     <ClInclude Include="CountOperationsToObtainZero.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="OnesAndZeroes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

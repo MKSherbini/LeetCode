@@ -508,6 +508,7 @@
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToSplitArray.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
+    <ClInclude Include="OnesAndZeroes.h" />
     <ClInclude Include="OpenTheLock.h" />
     <ClInclude Include="PaintingTheWalls.h" />
     <ClInclude Include="PalindromePartitioning.h" />
