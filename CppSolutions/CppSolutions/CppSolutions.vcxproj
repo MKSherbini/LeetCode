@@ -469,6 +469,7 @@
     <ClInclude Include="MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.h" />
     <ClInclude Include="MinimumNumberOfKConsecutiveBitFlips.h" />
     <ClInclude Include="MinimumNumberOfMovesToSeatEveryone.h" />
+    <ClInclude Include="MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayContinuous.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayEmpty.h" />
     <ClInclude Include="MinimumNumberOfOperationsToMakeArrayXorEqualToK.h" />
