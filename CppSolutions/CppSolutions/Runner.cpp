@@ -1,4 +1,4 @@
-#include "MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.h"
+#include "MaximumNumberOfOperationsToMoveOnesToTheEnd.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(true).run<MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1>();
+    Runner(true).run<MaximumNumberOfOperationsToMoveOnesToTheEnd>();
 }

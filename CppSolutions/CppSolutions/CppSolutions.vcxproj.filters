@@ -3107,6 +3107,9 @@
     <ClInclude Include="MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumNumberOfOperationsToMoveOnesToTheEnd.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

@@ -423,6 +423,7 @@
     <ClInclude Include="MaximumNumberOfFishInAGrid.h" />
     <ClInclude Include="MaximumNumberOfKDivisibleComponents.h" />
     <ClInclude Include="MaximumNumberOfMovesInAGrid.h" />
+    <ClInclude Include="MaximumNumberOfOperationsToMoveOnesToTheEnd.h" />
     <ClInclude Include="MaximumNumberOfPointsFromGridQueries.h" />
     <ClInclude Include="MaximumNumberOfPointsWithCost.h" />
     <ClInclude Include="MaximumOddBinaryNumber.h" />
