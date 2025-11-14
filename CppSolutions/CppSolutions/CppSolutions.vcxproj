@@ -334,6 +334,7 @@
     <ClInclude Include="HeightChecker.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="ImplementRouter.h" />
+    <ClInclude Include="IncrementSubmatricesByOne.h" />
     <ClInclude Include="InsertGreatestCommonDivisorsInLinkedList.h" />
     <ClInclude Include="IntegerToEnglishWords.h" />
     <ClInclude Include="Ipo.h" />

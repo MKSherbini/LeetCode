@@ -3110,6 +3110,9 @@
     <ClInclude Include="MaximumNumberOfOperationsToMoveOnesToTheEnd.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="IncrementSubmatricesByOne.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
