@@ -3113,6 +3113,9 @@
     <ClInclude Include="IncrementSubmatricesByOne.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="NumberOfSubstringsWithOnly1s.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

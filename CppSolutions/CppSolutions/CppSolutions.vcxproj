@@ -508,6 +508,7 @@
     <ClInclude Include="NumberOfStudentsUnableToEatLunch.h" />
     <ClInclude Include="NumberOfSubsequencesThatSatisfyTheGivenSumCondition.h" />
     <ClInclude Include="NumberOfSubstringsContainingAllThreeCharacters.h" />
+    <ClInclude Include="NumberOfSubstringsWithOnly1s.h" />
     <ClInclude Include="NumberOfWaysToDivideALongCorridor.h" />
     <ClInclude Include="NumberOfWaysToSplitArray.h" />
     <ClInclude Include="NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.h" />
