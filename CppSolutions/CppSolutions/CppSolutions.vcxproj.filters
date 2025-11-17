@@ -3116,6 +3116,9 @@
     <ClInclude Include="NumberOfSubstringsWithOnly1s.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CheckIfAll1sAreAtLeastLengthKPlacesAway.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

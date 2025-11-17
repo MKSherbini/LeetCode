@@ -173,6 +173,7 @@
     <ClInclude Include="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.h" />
     <ClInclude Include="BuyTwoChocolates.h" />
     <ClInclude Include="CalculateMoneyInLeetcodeBank.h" />
+    <ClInclude Include="CheckIfAll1sAreAtLeastLengthKPlacesAway.h" />
     <ClInclude Include="CheckIfAParenthesesStringCanBeValid.h" />
     <ClInclude Include="CheckIfArrayIsSortedAndRotated.h" />
     <ClInclude Include="CheckIfArrayPairsAreDivisibleByK.h" />

@@ -1,4 +1,4 @@
-#include "NumberOfSubstringsWithOnly1s.h"
+#include "CheckIfAll1sAreAtLeastLengthKPlacesAway.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(true).run<NumberOfSubstringsWithOnly1s>();
+    Runner(true).run<CheckIfAll1sAreAtLeastLengthKPlacesAway>();
 }
