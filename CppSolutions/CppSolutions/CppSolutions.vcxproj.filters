@@ -3119,6 +3119,9 @@
     <ClInclude Include="CheckIfAll1sAreAtLeastLengthKPlacesAway.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="1BitAnd2BitCharacters.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

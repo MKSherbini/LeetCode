@@ -147,6 +147,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1BitAnd2BitCharacters.h" />
     <ClInclude Include="2KeysKeyboard.h" />
     <ClInclude Include="AddingSpacesToAString.h" />
     <ClInclude Include="AdjacentIncreasingSubarraysDetectionI.h" />
