@@ -342,6 +342,7 @@
     <ClInclude Include="Ipo.h" />
     <ClInclude Include="IslandPerimeter.h" />
     <ClInclude Include="IsomorphicStrings.h" />
+    <ClInclude Include="KeepMultiplyingFoundValuesByTwo.h" />
     <ClInclude Include="KnightDialer.h" />
     <ClInclude Include="KthDistinctStringInAnArray.h" />
     <ClInclude Include="KthLargestSumInABinaryTree.h" />

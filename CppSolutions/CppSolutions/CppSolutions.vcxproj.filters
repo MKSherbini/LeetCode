@@ -3122,6 +3122,9 @@
     <ClInclude Include="1BitAnd2BitCharacters.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="KeepMultiplyingFoundValuesByTwo.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
