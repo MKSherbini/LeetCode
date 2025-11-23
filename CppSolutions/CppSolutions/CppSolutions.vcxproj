@@ -334,6 +334,7 @@
     <ClInclude Include="FruitsIntoBasketsIII.h" />
     <ClInclude Include="GetEqualSubstringsWithinBudget.h" />
     <ClInclude Include="GreatestCommonDivisorTraversal.h" />
+    <ClInclude Include="GreatestSumDivisibleByThree.h" />
     <ClInclude Include="HeightChecker.h" />
     <ClInclude Include="ImageSmoother.h" />
     <ClInclude Include="ImplementRouter.h" />
