@@ -3131,6 +3131,9 @@
     <ClInclude Include="GreatestSumDivisibleByThree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="BinaryPrefixDivisibleBy5.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
