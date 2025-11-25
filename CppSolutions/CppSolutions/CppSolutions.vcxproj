@@ -1029,6 +1029,7 @@
     <ClInclude Include="SingleThreadedCpu.h" />
     <ClInclude Include="SlidingPuzzle.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
+    <ClInclude Include="SmallestIntegerDivisibleByK.h" />
     <ClInclude Include="SmallestMissingNonNegativeIntegerAfterOperations.h" />
     <ClInclude Include="SmallestNumberInInfiniteSet.h" />
     <ClInclude Include="SmallestNumberWithAllSetBits.h" />

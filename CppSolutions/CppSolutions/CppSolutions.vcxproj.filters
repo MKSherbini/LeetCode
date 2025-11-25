@@ -3134,6 +3134,9 @@
     <ClInclude Include="BinaryPrefixDivisibleBy5.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="SmallestIntegerDivisibleByK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
