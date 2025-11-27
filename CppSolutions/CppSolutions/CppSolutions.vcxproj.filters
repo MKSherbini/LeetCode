@@ -3137,6 +3137,9 @@
     <ClInclude Include="SmallestIntegerDivisibleByK.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumSubarraySumWithLengthDivisibleByK.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
