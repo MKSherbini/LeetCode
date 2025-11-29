@@ -487,6 +487,7 @@
     <ClInclude Include="MinimumNumberOfPushesToTypeWordII.h" />
     <ClInclude Include="MinimumNumberOfStepsToMakeTwoStringsAnagram.h" />
     <ClInclude Include="MinimumOperationsToExceedThresholdValueII.h" />
+    <ClInclude Include="MinimumOperationsToMakeArraySumDivisibleByK.h" />
     <ClInclude Include="MinimumOperationsToMakeArrayValuesEqualToK.h" />
     <ClInclude Include="MinimumOperationsToMakeAUniValueGrid.h" />
     <ClInclude Include="MinimumOperationsToMakeBinaryArrayElementsEqualToOneI.h" />
