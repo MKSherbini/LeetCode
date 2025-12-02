@@ -215,6 +215,7 @@
     <ClInclude Include="CountNumberOfMaximumBitwiseOrSubsets.h" />
     <ClInclude Include="CountNumberOfNiceSubarrays.h" />
     <ClInclude Include="CountNumberOfTeams.h" />
+    <ClInclude Include="CountNumberOfTrapezoidsI.h" />
     <ClInclude Include="CountOfInterestingSubarrays.h" />
     <ClInclude Include="CountOfMatchesInTournament.h" />
     <ClInclude Include="CountOperationsToObtainZero.h" />

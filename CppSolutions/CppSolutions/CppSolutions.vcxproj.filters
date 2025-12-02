@@ -3143,6 +3143,9 @@
     <ClInclude Include="MinimumOperationsToMakeArraySumDivisibleByK.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountNumberOfTrapezoidsI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
