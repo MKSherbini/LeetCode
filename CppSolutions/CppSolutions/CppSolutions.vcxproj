@@ -200,6 +200,7 @@
     <ClInclude Include="ConvertBinaryNumberInALinkedListToInteger.h" />
     <ClInclude Include="ConvertBstToGreaterTree.h" />
     <ClInclude Include="ConvertIntegerToTheSumOfTwoNoZeroIntegers.h" />
+    <ClInclude Include="CountCollisionsOnARoad.h" />
     <ClInclude Include="CountCompleteSubarraysInAnArray.h" />
     <ClInclude Include="CountElementsWithMaximumFrequency.h" />
     <ClInclude Include="CountEqualAndDivisiblePairsInAnArray.h" />
