@@ -3149,6 +3149,9 @@
     <ClInclude Include="CountCollisionsOnARoad.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountPartitionsWithEvenSumDifference.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
