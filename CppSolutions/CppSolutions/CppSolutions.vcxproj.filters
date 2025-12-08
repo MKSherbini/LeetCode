@@ -3152,6 +3152,9 @@
     <ClInclude Include="CountPartitionsWithEvenSumDifference.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountSquareSumTriples.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
