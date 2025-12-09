@@ -223,6 +223,7 @@
     <ClInclude Include="CountPartitionsWithEvenSumDifference.h" />
     <ClInclude Include="CountPrefixAndSuffixPairsI.h" />
     <ClInclude Include="CountServersThatCommunicate.h" />
+    <ClInclude Include="CountSpecialTriplets.h" />
     <ClInclude Include="CountSquareSumTriples.h" />
     <ClInclude Include="CountSubarraysOfLengthThreeWithACondition.h" />
     <ClInclude Include="CountSubarraysWhereMaxElementAppearsAtLeastKTimes.h" />
