@@ -3158,6 +3158,9 @@
     <ClInclude Include="CountSpecialTriplets.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CountCoveredBuildings.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

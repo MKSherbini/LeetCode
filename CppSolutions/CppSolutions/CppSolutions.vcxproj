@@ -202,6 +202,7 @@
     <ClInclude Include="ConvertIntegerToTheSumOfTwoNoZeroIntegers.h" />
     <ClInclude Include="CountCollisionsOnARoad.h" />
     <ClInclude Include="CountCompleteSubarraysInAnArray.h" />
+    <ClInclude Include="CountCoveredBuildings.h" />
     <ClInclude Include="CountElementsWithMaximumFrequency.h" />
     <ClInclude Include="CountEqualAndDivisiblePairsInAnArray.h" />
     <ClInclude Include="CountGoodNumbers.h" />
