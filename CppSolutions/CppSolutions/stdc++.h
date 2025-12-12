@@ -48,7 +48,8 @@
 #include "NodeSupport.h"
 //#include "TrieNode.h"
 #include "Utils.h"
-
+#include <string_view>
+#include <ranges>
  // C
 #ifndef _GLIBCXX_NO_ASSERT
 #include <cassert>

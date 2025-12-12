@@ -210,6 +210,7 @@
     <ClInclude Include="CountHillsAndValleysInAnArray.h" />
     <ClInclude Include="CountingWordsWithAGivenPrefix.h" />
     <ClInclude Include="CountLargestGroup.h" />
+    <ClInclude Include="CountMentionsPerUser.h" />
     <ClInclude Include="CountNicePairsInAnArray.h" />
     <ClInclude Include="CountNodesEqualToAverageOfSubtree.h" />
     <ClInclude Include="CountNumberOfBadPairs.h" />
