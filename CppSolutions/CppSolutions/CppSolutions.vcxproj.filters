@@ -3164,6 +3164,9 @@
     <ClInclude Include="CountMentionsPerUser.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="CouponCodeValidator.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
