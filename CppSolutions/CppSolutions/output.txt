@@ -1,34 +1,6 @@
-checking index  0 
-valid active 
-valid business line 
-valid code 
-checking index  1 
-valid active 
-valid business line 
-checking index  2 
-valid active 
-valid business line 
-valid code 
-checking index  3 
-valid active 
-valid business line 
-2 0 
+7 judge: Accepted
 
-PHARMA5 
-SAVE20 
+4 judge: Accepted
 
-judge: Accepted
-
-checking index  0 
-checking index  1 
-valid active 
-valid business line 
-valid code 
-checking index  2 
-valid active 
-1 
-
-ELECTRONICS_50 
-
-judge: Accepted
+1 judge: Accepted
 
