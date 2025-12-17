@@ -165,6 +165,7 @@
     <ClInclude Include="BalanceABinarySearchTree.h" />
     <ClInclude Include="BestSightseeingPair.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
+    <ClInclude Include="BestTimeToBuyAndSellStockV.h" />
     <ClInclude Include="BinaryPrefixDivisibleBy5.h" />
     <ClInclude Include="BinarySearchTreeToGreaterSumTree.h" />
     <ClInclude Include="BinarySubarraysWithSum.h" />

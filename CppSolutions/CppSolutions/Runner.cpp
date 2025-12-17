@@ -1,4 +1,4 @@
-#include "NumberOfSmoothDescentPeriodsOfAStock.h"
+#include "BestTimeToBuyAndSellStockV.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(true).run<NumberOfSmoothDescentPeriodsOfAStock>();
+    Runner(true).run<BestTimeToBuyAndSellStockV>();
 }
