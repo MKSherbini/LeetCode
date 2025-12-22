@@ -248,6 +248,7 @@
     <ClInclude Include="CustomSortString.h" />
     <ClInclude Include="DefuseTheBomb.h" />
     <ClInclude Include="DeleteCharactersToMakeFancyString.h" />
+    <ClInclude Include="DeleteColumnsToMakeSortedII.h" />
     <ClInclude Include="DeleteLeavesWithAGivenValue.h" />
     <ClInclude Include="DeleteNodesAndReturnForest.h" />
     <ClInclude Include="DeleteNodesFromLinkedListPresentInArray.h" />
