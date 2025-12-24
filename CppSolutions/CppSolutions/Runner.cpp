@@ -1,4 +1,4 @@
-#include "DeleteColumnsToMakeSortedII.h"
+#include "AppleRedistributionIntoBoxes.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(true).run<DeleteColumnsToMakeSortedII>();
+    Runner(true).run<AppleRedistributionIntoBoxes>();
 }

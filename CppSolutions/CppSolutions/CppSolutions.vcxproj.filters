@@ -3179,6 +3179,9 @@
     <ClInclude Include="DeleteColumnsToMakeSortedII.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="AppleRedistributionIntoBoxes.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

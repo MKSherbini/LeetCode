@@ -156,6 +156,7 @@
     <ClInclude Include="AllOoneDataStructure.h" />
     <ClInclude Include="AlternatingGroupsII.h" />
     <ClInclude Include="AppendCharactersToStringToMakeSubsequence.h" />
+    <ClInclude Include="AppleRedistributionIntoBoxes.h" />
     <ClInclude Include="ApplyOperationsToAnArray.h" />
     <ClInclude Include="ApplyOperationsToMaximizeScore.h" />
     <ClInclude Include="ArithmeticSubarrays.h" />
