@@ -3182,6 +3182,9 @@
     <ClInclude Include="AppleRedistributionIntoBoxes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="PlusOne.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

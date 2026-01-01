@@ -1,4 +1,4 @@
-#include "AppleRedistributionIntoBoxes.h"
+#include "PlusOne.h"
 #include "stdc++.h"
 
 // #include <bits/stdc++.h>
@@ -8,5 +8,5 @@ int main()
 {
     freopen("output.txt", "w", stdout);
     freopen("input.txt", "r", stdin);
-    Runner(true).run<AppleRedistributionIntoBoxes>();
+    Runner(true).run<PlusOne>();
 }
