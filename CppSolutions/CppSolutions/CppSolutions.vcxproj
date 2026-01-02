@@ -517,6 +517,7 @@
     <ClInclude Include="NAryTreePostorderTraversal.h" />
     <ClInclude Include="NeighboringBitwiseXor.h" />
     <ClInclude Include="NextGreaterNumericallyBalancedNumber.h" />
+    <ClInclude Include="NRepeatedElementInSize2nArray.h" />
     <ClInclude Include="NumberComplement.h" />
     <ClInclude Include="NumberOfAtoms.h" />
     <ClInclude Include="NumberOfEquivalentDominoPairs.h" />
