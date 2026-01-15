@@ -411,6 +411,7 @@
     <ClInclude Include="MaxDotProductOfTwoSubsequences.h" />
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximalScoreAfterApplyingKOperations.h" />
+    <ClInclude Include="MaximizeAreaOfSquareHoleInGrid.h" />
     <ClInclude Include="MaximizeHappinessOfSelectedChildren.h" />
     <ClInclude Include="MaximizeTheMinimumPoweredCity.h" />
     <ClInclude Include="MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.h" />

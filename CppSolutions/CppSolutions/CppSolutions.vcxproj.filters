@@ -3191,6 +3191,9 @@
     <ClInclude Include="SmallestSubtreeWithAllTheDeepestNodes.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MaximizeAreaOfSquareHoleInGrid.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
