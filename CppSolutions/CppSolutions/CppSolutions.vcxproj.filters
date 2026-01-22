@@ -3194,6 +3194,9 @@
     <ClInclude Include="MaximizeAreaOfSquareHoleInGrid.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumPairRemovalToSortArrayI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
