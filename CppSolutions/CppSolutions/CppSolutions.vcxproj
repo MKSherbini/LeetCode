@@ -479,6 +479,7 @@
     <ClInclude Include="MinimumCostToMakeAtLeastOneValidPathInAGrid.h" />
     <ClInclude Include="MinimumDeletionsToMakeStringBalanced.h" />
     <ClInclude Include="MinimumDeletionsToMakeStringKSpecial.h" />
+    <ClInclude Include="MinimumDifferenceBetweenHighestAndLowestOfKScores.h" />
     <ClInclude Include="MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.h" />
     <ClInclude Include="MinimumDominoRotationsForEqualRow.h" />
     <ClInclude Include="MinimumEqualSumOfTwoArraysAfterReplacingZeros.h" />
