@@ -3200,6 +3200,9 @@
     <ClInclude Include="MinimumDifferenceBetweenHighestAndLowestOfKScores.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="MinimumAbsoluteDifference.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

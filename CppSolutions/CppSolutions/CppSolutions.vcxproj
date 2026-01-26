@@ -468,6 +468,7 @@
     <ClInclude Include="MinimizedMaximumOfProductsDistributedToAnyStore.h" />
     <ClInclude Include="MinimizeMaximumPairSumInArray.h" />
     <ClInclude Include="MinimizeXor.h" />
+    <ClInclude Include="MinimumAbsoluteDifference.h" />
     <ClInclude Include="MinimumAddToMakeParenthesesValid.h" />
     <ClInclude Include="MinimumAmountOfTimeToCollectGarbage.h" />
     <ClInclude Include="MinimumArrayEnd.h" />
