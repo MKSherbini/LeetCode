@@ -1157,6 +1157,7 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="Tricks.h" />
     <ClInclude Include="TrieNode.h" />
+    <ClInclude Include="TrionicArrayI.h" />
     <ClInclude Include="TruncateSentence.h" />
     <ClInclude Include="TupleWithSameProduct.h" />
     <ClInclude Include="TwoBestNonOverlappingEvents.h" />
