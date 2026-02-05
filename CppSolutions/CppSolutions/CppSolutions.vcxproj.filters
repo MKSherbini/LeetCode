@@ -3209,6 +3209,9 @@
     <ClInclude Include="TrionicArrayI.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="TransformedArray.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />

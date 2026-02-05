@@ -1151,6 +1151,7 @@
     <ClInclude Include="TopKFrequentWords.h" />
     <ClInclude Include="TotalCharactersInStringAfterTransformationsI.h" />
     <ClInclude Include="TotalCostToHireKWorkers.h" />
+    <ClInclude Include="TransformedArray.h" />
     <ClInclude Include="TransposeMatrix.h" />
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TreeSupport.h" />
