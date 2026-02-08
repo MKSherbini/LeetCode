@@ -164,6 +164,7 @@
     <ClInclude Include="AverageWaitingTime.h" />
     <ClInclude Include="AvoidFloodInTheCity.h" />
     <ClInclude Include="BalanceABinarySearchTree.h" />
+    <ClInclude Include="BalancedBinaryTree.h" />
     <ClInclude Include="BestSightseeingPair.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="BestTimeToBuyAndSellStockUsingStrategy.h" />
