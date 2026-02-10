@@ -3215,6 +3215,9 @@
     <ClInclude Include="BalancedBinaryTree.h">
       <Filter>Solutions</Filter>
     </ClInclude>
+    <ClInclude Include="LongestBalancedSubarrayI.h">
+      <Filter>Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt" />
